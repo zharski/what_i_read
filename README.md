@@ -4,9 +4,50 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 *.md format and tags are well supported by [Obsidian.md](https://obsidian.md/)
 
 # 2022
+### October 2022
+_comming soon ..._
 
 ### September 2022
-_comming soon ..._
+| Links | Tags |
+| ----- | ---- |
+| [1 week of Stable Diffusion - multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion) | #stable_diffusion #figma #ai_art |
+| [Transitioning from CTO to founder](https://dev.to/icecrime/transitioning-from-cto-to-founder-2baa) | #cto #engineering_management  |
+| [Obsidian raycast plugin](https://www.raycast.com/marcjulian/obsidian) | #obsidian #raycast |
+| [Show rStableDiffusion: Integrating SD in Photoshop for humanAI collaboration : StableDiffusion](https://old.reddit.com/r/StableDiffusion/comments/wyduk1/show_rstablediffusion_integrating_sd_in_photoshop/) | #stable_diffusion #photoshop #ai_art |
+| [A sceptic’s guide to crypto: bonus interview with a16z’s Chris Dixon - Financial Times](https://www.ft.com/content/f162e4da-54f4-4dff-9f37-4dbbe848a710) | #web3 #a16z #cdixon |
+| [Uncommon Sense - live @ WDS - Derek Sivers](https://sive.rs/wds) | #derek_sivers #public_speaking #presentation  |
+| [V8 Engine Kit, 1:3 V8 Engine, 8 Cylinder Metal Car Engine - Over 500 Pieces - Simulation Motor with Functional, Engine Kit for Car Fans, Children and Adults : Amazon.de: Toys &amp; Games](https://www.amazon.de/-/en/V8-Engine-Kit-Simulation-Functional/dp/B08YYK6KF7/) | #v8 #engine #model |
+| [Looria analyzes Reddit posts and comments to find the most popular products.](https://looria.com/reddit/overview) | #reddit #products |
+| [Best aero road bike 2022 - 15 top-rated bikes and buyer&#039;s guide - BikeRadar](https://www.bikeradar.com/advice/buyers-guides/best-aero-road-bike/) |  #aero #bike #cycling |
+| [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | #stable_diffusion #ui |
+| [Unreal Engine 5: Почему он ТАК КРУТ?](https://youtu.be/nNiA1zLuvuw) | #unreal_engine_5 |
+| [I Tracked Everything I Read on the Internet for a Year :: Thomas Pain](https://www.tdpain.net/blog/a-year-of-reading) | #reading_log |
+| [Airplane - I started SaaS companies in 2013 and 2021. Here's how things have changed](https://www.airplane.dev/blog/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed) | #saas |
+| [20 Reasons To Quit Social Media - Durmonski.com](https://durmonski.com/life-advice/reasons-to-quit-social-media) | #social_media #quit |
+| [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) | #copilot #github |
+| [Web3 Starter Pack](https://cryptosociety.notion.site/Web3-Starter-Pack-5a922714348e4a7cbaa45b2f0a8861bd) | #web3 #important |
+| [Gaby's Web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b) | #web3 #important |
+| [Startup = Growth](http://www.paulgraham.com/growth.html) | #paul_graham #startup #growth 
+| [The New Luxury Vacation: Being Dumped in the Middle of Nowhere - The New Yorker](https://www.newyorker.com/magazine/2021/11/29/the-new-luxury-vacation-being-dumped-in-the-middle-of-nowhere) | #vacation #new_yorker  #get_lost |
+| [Get Lost - The Ultimate Adventure Challenge - Black Tomato](https://www.blacktomato.com/get-lost/) | #get_lost #black_tomato |
+| [Rewriting the story of compensation](https://news.shopify.com/rewriting-the-story-of-compensation) | #compensation #shopify |
+| [PlayStation VR2 hands-on: a major upgrade - The Verge](https://www.theverge.com/2022/9/14/23351946/playstation-vr-psvr-2-hands-on-impressions-horizon-call-of-the-mountain-sony) | #playstation #vr |
+| [How to be a great remote manager - the complete guide](https://about.gitlab.com/company/culture/all-remote/being-a-great-remote-manager/) | #management #remote_work  |
+| [Why You Need to Fail - Derek Sivers](https://sive.rs/failure) | #derek_sivers #failure |
+| [Charlie Munger: 20 Book Recommendations That will Make you Smarter - Farnam Street](https://fs.blog/charlie-munger-recommended-books/) | #books #charlie_munger |
+| [Meaning of Life by Derek Sivers](https://youtu.be/zzcCWEb-tyk) | #derek_sivers #life #philosophy |
+| [QR codes - Dan Hollick 🇿🇦](https://typefully.com/DanHollick/qr-codes-T7tLlNi) | #qr_codes |
+| [CHARL-E: Make art with AI on your Mac](https://www.charl-e.com/) | #ai #stable_diffusion #mac  |
+| [Microsoft Cloud Adoption Framework for Azure - Cloud Adoption Framework - Microsoft Learn](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) | #azure #cloud_adoption |
+| [Scaling Pipedrive Engineering — From Teams to Tribes. - by Sergei Anikin - Pipedrive Engineering](https://medium.com/pipedrive-engineering/scaling-pipedrive-engineering-from-teams-to-tribes-8f14fd92df8c) | #orgchange #orgstructure #tribes #engineering_management  |
+| [This is the best definition of ‘focus’ by Jony Ive with a lesson from Steve Jobs](https://twitter.com/ValaAfshar/status/1571894395670069249) | #steve_jobs #focus #jony_ive |
+| [Research: quantifying GitHub Copilot’s impact on developer productivity and happiness - The GitHub Blog](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/) | #github #copilot #productivtiy |
+| [Examples – andreasjanssonstable-diffusion-animation – Replicate](https://replicate.com/andreasjansson/stable-diffusion-animation/examples) | #stable_diffusion #animation  |
+| [Startup pitch decks of 29 companies before they became billion-dollar companies - CB Insights Research](https://www.cbinsights.com/research/billion-dollar-startup-pitch-decks/) | #startup #pitch_decks|
+| [The Algorithms](https://the-algorithms.com/) | #algorithms |
+| [A message about Stadia and our long term streaming strategy](https://blog.google/products/stadia/message-on-stadia-streaming-strategy/) | #stadia #google |
+| [Meta’s new text-to-video AI generator is like DALL-E for video - The Verge](https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e) | #dalle_2 #ai #video |
+| [Visualized: The World's Population at 8 Billion, by Country](https://www.visualcapitalist.com/visualized-the-worlds-population-at-8-billion/) | #population #visualisation |
 
 ### August 2022
 | Links | Tags |
