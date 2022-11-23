@@ -4,8 +4,49 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 *.md format and tags are well supported by [Obsidian.md](https://obsidian.md/)
 
 # 2022
-### October 2022
+### November 2022
 _comming soon ..._
+
+### October 2022
+| Links | Tags |
+| ----- | ---- |
+| [The Theory Behind Turbos and the MGU-H! - F1 TV Tech Talk](https://youtu.be/gjLrEy9zyFg) | #f1 #f1_tech |
+| [Steve Jobs MIT 1992 / Steve Jobs talk /Steve Jobs speech /](https://youtu.be/GRHHOI-WvVc) | #steve_jobs #mit #apple |
+| [Why Rust is actually good for your car. - by Johannes Foufas - Volvo Cars Engineering - Sep, 2022](https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09) | #rust #volvo |
+| [Management and Systems Thinking Puppies, Flowers, Rainbows and Kittens](https://blog.kevingoldsmith.com/2022/09/17/management-and-systems-thinking) | #leadership #management  |
+| [Metaverse: a practical review - Thoughtworks](https://www.thoughtworks.com/insights/articles/metaverse-practical-review) | #metaverse   #thoughtworks |
+| [The Illustrated Stable Diffusion – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-stable-diffusion/) | #stable_diffusion #architecture #ai |
+| [podcast.ai](https://podcast.ai/) | #podcast #steve_jobs #richard_feynman |
+| [Как выбрать криптокошелек — bobuk.eth](https://mirror.xyz/bobuk.eth/NeQq8uMiMD2_ZXLf471upvW2780f6QVsKy0Z_YUlz04) | #crypto #wallet #bobuk |
+| [How to hire for Director+ roles?. Hiring folks in leadership roles is… - by Stas Sajin - Aug, 2022 - Medium](https://stassajin.medium.com/how-to-hire-for-director-roles-bb0690f49a51) | #hiring #management #leadership |
+| [Elad Blog: Back to the office](http://blog.eladgil.com/2022/10/back-to-office.html) | #wfh #office |
+| [What I’ve Been Up To Lately - Andreessen Horowitz](https://a16z.com/2022/10/04/what-ive-been-up-to-lately/) | #a16z #books |
+| [GitHub - vscode-org-mode/vscode-org-mode: Emacs Org Mode for Visual Studio Code](https://github.com/vscode-org-mode/vscode-org-mode) | #vscode #orgmode #todo |
+| [Apple CEO Tim Cook doesn't like metaverse, prefers augmented reality](https://www.cnbc.com/2022/10/03/apple-ceo-tim-cook-doesnt-like-metaverse-prefers-augmented-reality.html) | #metaverse #apple |
+| [GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](https://githubcopilotinvestigation.com/) | #copilot #opensource |
+| [How to Be a Senior Leader - Stay SaaSy](https://staysaasy.com/leadership/2022/08/15/how-to-break-into-senior-management.html) | #saasy #engineering_management #lidership #team_management #important |
+| [15 Books That Changed The Way I Think - by Brian Armstrong - Medium](https://barmstrong.medium.com/14-books-that-changed-the-way-i-think-dcab51f1d50c) | #books #brian_armstrong #coinbase |
+| [Steve Jobs and His Remarkably Simple Secret of Life - Inc.com](https://www.inc.com/peter-economy/steve-jobs-on-the-1-remarkably-simple-secret-of-life.html) | #steve_jobs #life|
+| [Building 25+ years of SysInternals: Exploring ZoomIt](https://ignite.microsoft.com/en-US/sessions/6b3aecf1-92ba-41f7-81eb-fdad7b4b4138) | #sysinternals #scott_hanselman #presentation |
+| [Product Engineering TODOs for Series A Leaders](https://rnjn.in/articles/product-engineering-todos-for-series-a-leaders/) | #engineering_management #startup #orgchange #orgculture |
+| [Clean Energy, Electric Cars Are Hitting Tipping Points for Global Mass Adoption](https://www.bloomberg.com/graphics/2022-clean-energy-electric-cars-tipping-points/) | #energy #adoption #ev |
+| [Amsterdam Call of Duty](https://twitter.com/juanbuis/status/1583412762176524288) | #game #amsterdam #call_of_duty  |
+| [Microsoft Full Circle – Stratechery by Ben Thompson](https://stratechery.com/2022/microsoft-full-circle/) | #microsoft #meta #office_365 |
+| [How to Build Software like an SRE — willett dot io](https://www.willett.io/posts/precepts/) | #sre #engx  |
+| [How to run an effective retrospective](https://www.notonlycode.org/effective-retrospective/) | #retro #agile|
+| [How We Maintain Security Testing within the Software Development Life Cycle - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2022/08/how-we-maintain-security-testing-within-the-software-development-life-cycle/) | #security #spotify #snyk|
+| [4 Steps to secure your software supply chain - Snyk](https://snyk.io/blog/software-supply-chain-security/) | #snyk #security #npm|
+| [2022 Snyk Customer Value Study highlights: The impact of developer-first security - Snyk](https://snyk.io/blog/2022-snyk-customer-value-study-highlights-the-impact-of-developer-first-security/) | #snyk #security #metrics |
+| [NASA’s Webb Takes Star-Filled Portrait of Pillars of Creation - NASA](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-takes-star-filled-portrait-of-pillars-of-creation) | #nasa #photo #webb |
+| [Toto Wolff, the Compulsive Perfectionist Behind Mercedes’s Formula 1 Team - The New Yorker](https://www.newyorker.com/magazine/2022/10/31/toto-wolff-the-compulsive-perfectionist-behind-mercedes-formula-1-team) | #toto_wolf #f1|
+| [Inside the Great Pyramid Giza Project](https://giza.mused.org/en/guided/266/inside-the-great-pyramid) | #pyramid #visual #arvr |
+| [Technology Radar - An opinionated guide to technology frontiers - Thoughtworks](https://www.thoughtworks.com/radar) | #technology_radar #trends|
+| [The SAFe Delusion – Information for decision-makers considering the SAFe framework](https://safedelusion.com/) | #safe #delusion |
+| [Trying Cloudflare Pages: Best Server Tech Since cgi-bin - Perf and other stuff](https://taras.glek.net/post/cloudflare-pages-kind-of-amazing/) | #cloudflare #pages|
+| [Cloudflare Pages](https://pages.cloudflare.com/) | #cloudflare #pages |
+| [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html) | #martin_fowler #remote_work |
+| [Software Visualization — Challenge, Accepted - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted/) | #spotify #software #architecture #visualisation #c4 |
+| [The C4 model for visualising software architecture](https://c4model.com/) | #software #architecture #visualisation #c4|
 
 ### September 2022
 | Links | Tags |
