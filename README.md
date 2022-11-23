@@ -4,10 +4,10 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 *.md format and tags are well supported by [Obsidian.md](https://obsidian.md/)
 
 # 2022
-### November 2022
+## November 2022
 _comming soon ..._
 
-### October 2022
+## October 2022
 | Links | Tags |
 | ----- | ---- |
 | [The Theory Behind Turbos and the MGU-H! - F1 TV Tech Talk](https://youtu.be/gjLrEy9zyFg) | #f1 #f1_tech |
@@ -48,7 +48,7 @@ _comming soon ..._
 | [Software Visualization — Challenge, Accepted - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted/) | #spotify #software #architecture #visualisation #c4 |
 | [The C4 model for visualising software architecture](https://c4model.com/) | #software #architecture #visualisation #c4|
 
-### September 2022
+## September 2022
 | Links | Tags |
 | ----- | ---- |
 | [1 week of Stable Diffusion - multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion) | #stable_diffusion #figma #ai_art |
@@ -90,7 +90,7 @@ _comming soon ..._
 | [Meta’s new text-to-video AI generator is like DALL-E for video - The Verge](https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e) | #dalle_2 #ai #video |
 | [Visualized: The World's Population at 8 Billion, by Country](https://www.visualcapitalist.com/visualized-the-worlds-population-at-8-billion/) | #population #visualisation |
 
-### August 2022
+## August 2022
 | Links | Tags |
 | ----- | ---- |
 | [Changes to Shopify’s team](https://news.shopify.com/changes-to-shopifys-team) | #shopify #orgstructure  |
@@ -126,7 +126,7 @@ _comming soon ..._
 | [How Headless Commerce Will Change How and Where We Buy - Future](https://future.com/headless-commerce-change-how-we-buy/) | #headless #ecommerce |
 | [How I structure my teams for growth - by Simone Basso  Jul, 2022](https://medium.com/@smnbss/how-i-structure-my-teams-for-growth-3272e4c3fc28) | #team_topologies #orgstructure |
 
-### July 2022
+## July 2022
 | Links | Tags |
 | ----- | ---- |
 | [Limiting Work In Progress as a Manager](https://erik.wiffin.com/posts/limiting-work-in-progress-as-a-manager) | #calendar #kanban |
@@ -168,7 +168,7 @@ _comming soon ..._
 | [My customized Wim Hof breathing method - UGJKA'S BLOG](https://ugjka.net/blog/breathwork/2022/07/30/wim-hof-breathing-customized/) | #wim_hof #breathing |
 | [GitHub - jorgef/engineeringladders: A framework for Engineering Managers](https://github.com/jorgef/engineeringladders) | #engineering_management #ladders #career |
 
-### June 2022
+## June 2022
 | Links | Tags |
 | ----- | ---- |
 | [GitHub - faif/python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns) |  #python #deisgnpatterns |
@@ -203,7 +203,7 @@ _comming soon ..._
 | [The balance has shifted away from SPAs - Read the Tea Leaves](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas) | #spa #web |
 | [Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits) | #startup #code_audits #engineering #security |
 
-### May 2022
+## May 2022
 | Links | Tags |
 | ----- | ---- |
 | [7 Essential Ingredients of a Metaverse - Future](https://future.a16z.com/7-essential-ingredients-of-a-metaverse/) | #metaverse #a16z |
@@ -244,7 +244,7 @@ _comming soon ..._
 | [Elon Musk Explains Updates To Starship And Starbase! - YouTube](https://www.youtube.com/watch?v=3Ux6B3bvO0w&t=848s)| #elon_musk #spacex #starbase #tour |
 | [Go up SpaceX's Starship-catching robotic launch tower with Elon Musk! - YouTube](https://www.youtube.com/watch?v=XP5k3ZzPf_0) | #elon_musk #spacex #tour |
 
-### April 2022
+## April 2022
 | Links | Tags |
 | ----- | ---- |
 | [Calenday – Shared Calendars to Plan Together](https://calenday.co/) | #calendar  #shared #planning |
@@ -306,7 +306,7 @@ _comming soon ..._
 | [Craig Donato interview: How Roblox navigates brands, UGC, and the metaverse - VentureBeat](https://venturebeat.com/2022/04/23/craig-donato-interview-how-roblox-navigates-brands-ugc-and-the-metaverse/) | #metaverse #roblox |
 | [Managing Your Mental Health While Running a Startup - Future](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/) | #mental #burnout #startup #leadership |
 
-### March 2022
+## March 2022
 | Links | Tags |
 | ----- | ---- |
 | [Math — Susan Rigetti](https://www.susanrigetti.com/math) | #math |
@@ -343,7 +343,7 @@ _comming soon ..._
 | [Codus Operandi](http://www.codusoperandi.com/posts/increasing-your-luck-surface-area) | |
 | [Refactor → Organisation](https://medium.com/bbc-design-engineering/refactor-organisation-80e4e171d922) | #orgchange #orgstructure |
 
-### February 2022
+## February 2022
 | Links | Tags |
 | ----- | ---- |
 | [What the Omicron wave is revealing about human immunity](https://www.nature.com/articles/d41586-022-00214-3) | #covid |
@@ -373,7 +373,7 @@ _comming soon ..._
 | [This scientist busts myths about how humans burn calories—and why - Science - AAAS](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why) | #calories #science |
 | [Interval Training Tips for Beginners! How to run FASTER and speed session ideas!](https://youtu.be/HFUz5qazxn0) | #running #intervals |
 
-### January 2022
+## January 2022
 | Links | Tags |
 | ----- | ---- |
 | [Five takeaways from looking for a new senior role in tech](https://philcalcado.com/2021/12/20/job_hunt.html) | #job #hiring #interview |
@@ -445,7 +445,7 @@ _comming soon ..._
 
 # 2021
 
-### December 2021
+## December 2021
 | Links | Tags |
 | ----- | ---- |
 | [Deceive the Heavens to Cross the sea / ThreatFabric](https://www.threatfabric.com/blogs/deceive-the-heavens-to-cross-the-sea.html) | #trojan #android |
@@ -481,7 +481,7 @@ _comming soon ..._
 | [Who is Satoshi Nakamoto ?](https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/) | #satoshi_nakamoto |
 
 
-### November 2021
+## November 2021
 | Links | Tags |
 | ----- | ---- |
 | [Thank you, GitHub](https://github.blog/2021-11-03-thank-you-github/) | #github #nat_friedman |
@@ -529,7 +529,7 @@ _comming soon ..._
 | [Blob Opera — Google Arts & Culture](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw) | #music #google #opera |
 
 
-### Ocotber 2021
+## Ocotber 2021
 | Links | Tags |
 | ----- | ---- |
 | [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/) | #ML #deep_learning  | 
@@ -579,7 +579,7 @@ _comming soon ..._
 | [Learn To Hire Well And You’ll Never Lose](https://hunterwalk.com/2021/10/22/learn-to-hire-well-and-youll-never-lose/) | #hiring #engineering_management |
 
 
-### September 2021
+## September 2021
 | Links | Tags |
 | ----- | ---- |
 | [Long Covid Is Not Necessarily Your Biggest Problem](https://acesounderglass.com/2021/08/30/long-covid-is-not-necessarily-your-biggest-problem/) |  |
@@ -606,7 +606,7 @@ _comming soon ..._
 | [Mistakes I've Made in AWS - Laravel News](https://laravel-news.com/aws-mistakes) | #aws #lessons_learned #iops |
 
 
-### August 2021
+## August 2021
 | Links | Tags |
 | ----- | ---- |
 | [Storytelling: The art of telling spoken stories](https://www.julian.com/blog/storytelling) | #storytelling  #presentation |
@@ -641,7 +641,7 @@ _comming soon ..._
 | [Note taking in 2021 - blog.dornea.nu](http://blog.dornea.nu/2021/06/13/note-taking-in-2021/) | #notes #obsidian #productivity  |
 
 
-### July 2021
+## July 2021
 | Links | Tags |
 | ----- | ---- |
 | [Engineering Management: Interviews Hiring ft. Google Engineering Director](https://youtu.be/Yk5XC6ZMsf8) | #interview #hiring #engineering_management |
@@ -653,7 +653,7 @@ _comming soon ..._
 | [Meetings are Bugs, Not Features — Here’s How You Squish Them! - by Dave Rensin - Medium](https://drensin.medium.com/meetings-are-bugs-not-features-heres-how-you-squish-them-c7485b514572) | #meetings #management |
 
 
-### June 2021
+## June 2021
 | Links | Tags |
 | ----- | ---- |
 | [Learn CSS](https://web.dev/learn/css/) | #css #lessons |
@@ -668,7 +668,7 @@ _comming soon ..._
 | [The Cost of Cloud, a Trillion Dollar Paradox](https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/) | #cloud #cost #a16z |
 
 
-### May 2021
+## May 2021
 | Links | Tags |
 | ----- | ---- |
 | [Hiring vs nurturing managers](https://world.hey.com/joaoqalves/hiring-vs-nurturing-managers-e44689cb) | #management #leadership |
@@ -699,7 +699,7 @@ _comming soon ..._
 | [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe - The Pragmatic Engineer](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/) | #salaries #eu #pragmaticengineer  |
 
 
-### April 2021
+## April 2021
 | Links | Tags |
 | ----- | ---- |
 | [Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success](https://codingsans.com/blog/leadership-soft-skills) | #leadership #soft_skills |
@@ -732,7 +732,7 @@ _comming soon ..._
 | [How to Be a Better Reader](https://youtu.be/KJ2Lvi9kG2Q) | #mark_manson #reading |
 
 
-### March 2021
+## March 2021
 | Links | Tags |
 | ----- | ---- |
 | [Low Earth Orbit Visualization LeoLabs](https://platform.leolabs.space/visualization) | #satelites #orbit #visualisation |
@@ -748,7 +748,7 @@ _comming soon ..._
 | [Huperzine A: Health Benefits, Uses, Side Effects, Dosage & Interactions](https://www.rxlist.com/huperzine_a/supplements.htm) | #supplements |
 
 
-### February 2021
+## February 2021
 | Links | Tags |
 | ----- | ---- |
 | [Ray Dalio warns of consequences from deepening inequality in America](https://youtu.be/pYZxD1Nnglw) | #ray_dalio |
@@ -764,7 +764,7 @@ _comming soon ..._
 | [How Uber Deals with Large iOS App Size - Uber Engineering Blog](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/) | #ios #app_size #uber |
 
 
-### January 2021
+## January 2021
 | Links | Tags |
 | ----- | ---- |
 | [Do You Love Me? - YouTube](https://youtu.be/fn3KWM1kuAw) | #robots #boston_dynamics |
@@ -822,7 +822,7 @@ _comming soon ..._
 
 # 2020
 
-### December 2020
+## December 2020
 | Links | Tags |
 | ----- | ---- |
 | [Notes taking with obsidian](https://youtu.be/lz0wZiuXCoQ) | #obsidian #notes |
