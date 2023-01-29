@@ -3,9 +3,74 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 
 *.md format and tags are well supported by [Obsidian.md](https://obsidian.md/)
 
-# 2022
-## November 2022
+# 2023
+
+## January 2022
 _comming soon ..._
+
+
+# 2022
+
+## December 2022
+_comming soon ..._
+
+## November 2022
+| Links | Tags |
+| ----- | ---- |
+| [The Changing World Order Is Approaching Stage 6 (The War Stage)](https://www.linkedin.com/pulse/changing-world-order-approaching-stage-6-war-ray-dalio/) | #ray_dalio #changing_world_order #war |
+| [Tech vision at bol.com - bol.com - Techlab](https://techlab.bol.com/en/blog/tech-vision-at-bol-com) | #engx #bol_com #tech_vision |
+| [Why we&#39;re leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) |  #leaving #cloud #basecamp #37signals #dhh |
+| [State of AI Report 2022](https://www.stateof.ai/) | #ai #research #dalle_2 #stable_diffusion #nvidia  #data #ai_safety |
+| [How to Make Wealth](http://www.paulgraham.com/wealth.html) | #paul_graham #wealth #startup |
+| [The Only Crypto Story You Need, by Matt Levine](https://www.bloomberg.com/features/2022-the-crypto-story/) | #crypto #blockchain #defi #web3 #bloomberg |
+| [Carlo: carbon-aware load balancing - by Daniel Fratte - Oct, 2022](https://medium.com/@drfratte/carlo-carbon-aware-load-balancing-f02982999b75) | #carbon_awareness #loadbalancing |
+| [Principles of Green Software Engineering • Principles of Green Software Engineering](https://principles.green/) | #green_engineering #carbon_awareness #esg|
+| [Emerge Tools Blog - How Xcode 14 unintentionally increases app size](https://www.emergetools.com/blog/posts/how-xcode14-unintentionally-increases-app-size) | #xcode #ios #appsize #bitcode |
+| [GitHub Next - Hey, GitHub!](https://githubnext.com/projects/hey-github/) | #voice #coding #github_next|
+| [Josh Lu on Twitter: "Heartbreaking to see layoffs at @twitter, @stripe, etc and soon @meta. I survived 5 rounds of layoffs at @zynga@blizzard as a manager.](https://twitter.com/JoshLu/status/1590059896737005569) | #layoffs #management |
+| [The Reason for Meta’s Massive Layoffs? Ghosts in the Machine - WIRED](https://www.wired.com/story/meta-layoffs-overhiring/) | #meta #layoffs |
+| [CTO from startup to scaleup. I was thinking about doing a post about… - by Hugo lassiege - malt-engineering](https://blog.malt.engineering/cto-from-startup-to-scaleup-ca4cbd06d535) | #cto #leadership #growth #startup #fire_yourself  |
+| [Co-Founder Equity Calculator](https://foundrs.com/) | #startup #founders #equity #calculator|
+| [Welcome to Rands Leadership Slack – Rands in Repose](https://randsinrepose.com/welcome-to-rands-leadership-slack/) | #rands_in_response #leadership #slack|
+| [Our Mission, Strategy and Culture - by Brian Armstrong - The Coinbase Blog](https://medium.com/the-coinbase-blog/our-mission-strategy-and-culture-18a92a3bb0fa) | #coinbase #strategy #orgculture |
+| [Culture at Coinbase 2021 - Coinbase](https://www.coinbase.com/blog/culture-at-coinbase-2021) | #coinbase #orgculture |
+| [Picnic loves Error Prone: producing high-quality and consistent Java code - by Rick Ossendrijver - Picnic Engineering](https://blog.picnic.nl/picnic-loves-error-prone-producing-high-quality-and-consistent-java-code-b8a566be6886) | #picnic #eerorprone #java #static_code_analysis |
+| [Haters](http://www.paulgraham.com/fh.html) | #paul_graham #haters|
+| [Turn the Ship Around: “I intend to …” - Google Docs - 2 June 2022](https://www.loom.com/share/bfbce58a3670467abf39d4591d30f3cc) | #books #summary #turn_the_ship_around|
+| [Goals, Problems, Solutions - Stay SaaSy](https://staysaasy.com/management/2021/07/24/goals-problems-solutions.html) | #leadership #decision #saasy |
+| [Management Scrutiny - Stay SaaSy](https://staysaasy.com/management/2020/09/18/management-scrutiny.html) | #leadership #hygine  #saasy|
+| [How to Become Insanely Well-Connected - First Round Review](https://review.firstround.com/how-to-become-insanely-well-connected) | #empathy #networking |
+| [book notes - Derek Sivers](https://sive.rs/book) | #books #derek_sivers |
+| [Zachary Perret on Twitter: "My favorite PM interview set" Twitter](https://twitter.com/zachperret/status/1462957919662608389) | #interview |
+| [Agility ≠ Speed. Software development benefits from a… - by Kevlin Henney - Medium](https://kevlinhenney.medium.com/agility-speed-96057078fe40) | #velocity #agile #metrics |
+| [Contexto](https://contexto.me/) | #game #words #ai|
+| [5 of my all-time favorite books - Bill Gates](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2022) | #books #bill_gates |
+| [The Generative AI Revolution in Games - Andreessen Horowitz](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/) | #games #generative_ai #stable_diffusion #dalle_2 #a16z |
+| [Neal Stephenson on the Future of the Metaverse - YouTube](https://www.youtube.com/watch?v=60u9L5-YO9Q) | #a16z #metaverse #neal_stephenson|
+| [TRAIN CLIMBING WITHOUT CLIMBING - TUTORIAL](https://youtu.be/YGcuXgYVteE) | #bouldering #climbing  |
+| [Art Isn't Dead, It's Just Machine-Generated - Andreessen Horowitz](https://a16z.com/2022/11/16/creativity-as-an-app/) | #a16z #stable_diffusion #ai_art |
+| [How Much Data Does an F1 Car Generate? - YouTube](https://www.youtube.com/watch?v=JDkePD2-scY) | #f1 #f1_tech #data |
+| [Playful Parenting - by Lawrence Cohen - Derek Sivers](https://sive.rs/book/PlayfulParenting) |  #derek_sivers #books #parenting #kids |
+| [Pricing at Lyft. By Yanqiao Wang - by Yanqiao Wang -Lyft Engineering](https://eng.lyft.com/pricing-at-lyft-8a4022065f8b) |  #architecture #pricing |
+| [MinD-Vis](https://mind-vis.github.io/) | #diffusion #conditional_difusion  |
+| [How Figma builds product - by Lenny Rachitsky](https://www.lennysnewsletter.com/p/how-figma-builds-product) | #figma #product_management #lenny  |
+| [Infinite Nature: Generating 3D Flythroughs from Still Photos - Google AI Blog](https://ai.googleblog.com/2022/11/infinite-nature-generating-3d.html) | #diffusion #video #ai #infinite_nature_zero |
+| [Frederick Brooks - A.M. Turing Award Laureate](https://amturing.acm.org/award_winners/brooks_1002187.cfm) | #frederick_brooks #mythical_man_month|
+| [F1 Legend Toto Wolff on Winning, Losing, and Leading Through Both](https://youtu.be/2vGLLhMhRsQ) | #toto_wolf #f1 |
+| [Number One in Formula One](https://hbr.org/2022/11/number-one-in-formula-one) | #f1 #toto_wolf  |
+| [Stable Diffusion 2.0 Release &mdash; Stability.Ai](https://stability.ai/blog/stable-diffusion-v2-release) | #stable_diffusion |
+| [Changing times (or, why is every layoff 10-15%?)](https://blog.eladgil.com/p/changing-times-or-why-is-every-layoff) | #layoffs #crysis #important |
+| [What Is Databricks? - Seattle Data Guy](https://www.theseattledataguy.com/what-is-databricks/) | #data #databricks |
+| [Tim Urban: Inside the mind of a master procrastinator - TED](https://youtu.be/arj7oStGLkU) | #tim_urban #procrastination #public_speaking |
+| [Cache invalidation really is one of the hardest problems in computer science &#8211; Surfing Complexity](https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/) | #cache_invalidation #netflix #performance |
+| [The Need to Read](http://paulgraham.com/read.html) | #paul_graham #reading |
+| [19 Jaw-dropping James Webb Space Telescope images - Live Science](https://www.livescience.com/james-webb-space-telescope-image-gallery) | #james_webb #space |
+| [GitHub Copilot Isn&#39;t Worth the Risk](https://www.kolide.com/blog/github-copilot-isn-t-worth-the-risk) | #copilot #legal #copyright |
+| [A Readme for Staff Engineers. Ever wonder how to progress beyond… - by Benjamin Baumann - Criteo R&amp;D Blog - Medium](https://medium.com/criteo-engineering/a-readme-for-staff-engineers-cbe0d39fa5f2) |  #staff_engineer #engineering_management #leadership  |
+| [Stories of reaching Staff-plus engineering roles - StaffEng - StaffEng](https://staffeng.com/stories) | #staff_engineer  #career |
+| [VP of Engineering interview - Geek Culture](https://medium.com/geekculture/how-do-you-interview-a-vp-of-engineering-81deddf6daa2) | #director_vp #interview #hiring |
+| [Multicloud architecture patterns - Medium](https://pablo-iorio.medium.com/multicloud-architecture-patterns-b88e4bc66750) | #architcture #multicloud |
+| [11 ways the pros prepare for Paris-Roubaix + see what it's like to ride the Arenberg - road.cc](https://road.cc/content/feature/tech-tweaks-paris-roubaix-259213) | #cycling #paris_roubaix |
 
 ## October 2022
 | Links | Tags |
