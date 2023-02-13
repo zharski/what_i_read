@@ -12,7 +12,66 @@ _comming soon ..._
 # 2022
 
 ## December 2022
-_comming soon ..._
+| Links | Tags |
+| ----- | ---- |
+| [Architecture — the important stuff. Whatever that is. Roman Bugaev, CTO, Flo Health // TechSpot PL](https://m.youtube.com/watch?v=oMBZlOMwKkc) | #architcture #flo #orgstructure |
+| [OpenAI&#039;s new ChatGPT chatbot could be a game-changer](https://techmonitor.ai/technology/ai-and-automation/chatgpt-openai-chatbot) | #openai #chatbot #gpt|
+| [QUESTION FROM A READER: Why does my heart rate spike at the start of a run? - running in systems](https://runninginsystems.com/2015/11/07/question-from-a-reader-why-does-my-heart-rate-spike-at-the-start-of-a-run/) | #running #hr #heart_rate |
+| [OpenAI -  ChatGPT](https://chat.openai.com/chat) | #openai #chatbot #gpt|
+| [Chamath Palihapitiya: Money, Success, Startups, Energy, Poker & Happiness - Lex Fridman Podcast #338](https://www.youtube.com/watch?v=kFQUDCgMjRc) | #lex_fridman #chamath_palihapitiya  |
+| [Дом-дурачок. 3 года спустя :: Что сгнило и умерло, а что осталось офигенным. Плюс немного пропаганды селф-хостинга :: Вастрик.ру](https://vas3k.ru/notes/homelab_2022/) | #smart_home #iot #automation #vastrik |
+| [Umbrel — A personal server OS for self-hosting](https://umbrel.com/) | #self_hosted #umbrel |
+| [The Tim Ferriss Show Transcripts: David "DHH" Heinemeier Hansson (#195) – The Blog of Author Tim Ferriss](https://tim.blog/2018/06/05/the-tim-ferriss-show-transcripts-david-dhh-heinemeier-hansson/amp/) | #interview #tim_ferris #ddh #basecamp #ruby_on_rails #37signals |
+| [What You (Want to)* Want](http://paulgraham.com/want.html) | #paul_graham #want #motivation |
+| [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/) | #chatGPT #vm |
+| [GitHub - wong2chat-gpt-google-extension: A browser extension to display ChatGPT response alongside Google Search results](https://github.com/wong2/chat-gpt-google-extension) | #chatGPT #crome_extension|
+| [David Heinemeier Hansson: Live An Authentic Life - The Reading Lists](https://www.thereadinglists.com/david-heinemeier-hansson-interview/) |  #dhh #interview #books|
+| [Elon Musk's 6 rules for insane productivity at Twitter - Arabian Business](https://www.arabianbusiness.com/jobs/elon-musks-6-rules-for-insane-productivity-at-twitter) | #elon_musk #twitter #productivity #meetings |
+| [Tech predictions for 2023 and beyond - All Things Distributed](https://www.allthingsdistributed.com/2022/12/tech-predictions-for-2023-and-beyond.html) | #tech #trends #prediction|
+| [Home - Sustrans.org.uk](https://www.sustrans.org.uk/) | #bike #cycling #uk  |
+| [Strategies and Tools for Performing Migrations on Platform - Spotify Engineering : Spotify Engineering](https://engineering.atspotify.com/2022/11/strategies-and-tools-for-performing-migrations-on-platform/) | #spotify #orgchange #migration|
+| [Home  Post.](https://post.news/) | #waze #launched #post|
+| [From an Engineer to Google SVP: My Career Tips and Advice](https://youtu.be/MtV8MQs7sw4) |  #leadership #google #svp #career #important |
+| [David Heinemeier Hansson on Digital Security, Company Culture, and the Value of Schooling (#203) - The Blog of Author Tim Ferriss](https://tim.blog/2016/11/25/david-heinemeier-hansson-on-digital-security-company-culture-and-the-value-of-schooling/) |  #dhh #culture #tim_ferris #parrenting  |
+| [Zach Perret's message to Plaid employees - Plaid](https://plaid.com/team-update/) | #plaid #layoffs |
+| [We gave ChatGPT a college-level microbiology quiz. It aced it. - Big Think](https://bigthink.com/the-future/chatgpt-microbiology-quiz-aced/) | #chatGPT #colleage #microbiology |
+| [Ideas That Changed My Life · Collab Fund](https://collabfund.com/blog/ideas-that-changed-my-life/) | #ideas #tribes #learning #competition #leadership |
+| [ChatGPT, rot13, and Daniel Kahneman - James Williams](https://jameswillia.ms/posts/chatgpt-rot13.html) | #chatGPT #daniel_kahneman |
+| [AI assisted learning: Learning Rust with ChatGPT, Copilot and Advent of Code](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) | #chatGPT #rust  |
+| [The Product Manager Development Framework I Never Had - by Julian Dunn - Nov, 2022 - Product Coalition](https://productcoalition.com/the-product-manager-development-framework-i-never-had-6e52192dbf2a) | #skills #engineering_management #product_management |
+| [Bear Market Blitzscaling - Greylock](https://greylock.com/greymatter/reid-hoffman-bear-market-blitzscaling/) | #reid_hoffman #startup #bear_market #investment |
+| [Mars Now - Explore – NASA Mars Exploration](https://mars.nasa.gov/explore/mars-now/) | #mars #nasa #visualisation |
+| [AI Homework &#8211; Stratechery by Ben Thompson](https://stratechery.com/2022/ai-homework/) | #chatGPT #ai #stratechery |
+| [How AI image generators work, like DALL-E, Lensa and stable diffusion - Washington Post](https://www.washingtonpost.com/technology/interactive/2022/ai-image-generator/) | #stable_diffusion #deep_dive #ai |
+| [Behind the Curtain: Understanding the Magic of ChatGPT - by David Bethune - Level Up Coding](https://levelup.gitconnected.com/behind-the-curtain-understanding-the-magic-of-chatgpt-3bbd23f0fbb3) | #chatGPT #igor #limitations|
+| [I got tired - Scott Hanselman's Blog](https://www.hanselman.com/blog/i-got-tired) | #scott_hanselman #blog |
+| [You Have Too Many Metrics - by Sean Byrnes](https://breakingpoint.substack.com/p/you-have-too-many-metrics) | #metrics #product |
+| [Compensation trends: how have leadership salaries changed from before COVID to now?](https://medium.com/point-nine-news/compensation-trends-how-have-leadership-salaries-changed-from-before-covid-to-now-d3018dadd123) | #compensation #leadership #covid |
+| [Slowtwitch Visits Zwift HQ - Slowtwitch.com](https://www.slowtwitch.com/Indoor_Training/Slowtwitch_Visits_Zwift_HQ_8590.html) | #zwift #office  |
+| [Spotify Culture: We Ask Spotify’s VP of Engineering What It’s Like to Work There](https://blog.honeypot.io/2015-11-13-what%27s-it-like-to-work-at-Spotify/) | #spotify #culture #orgstructure |
+| [Spotify Org Chart - The Org](https://theorg.com/org/spotify) | #orgstructure #the_org #spotify|
+| [Key Concepts — Team Topologies](https://teamtopologies.com/key-concepts) | #team_topologies |
+| [The Top 10 Tech Trends In 2023 Everyone Must Be Ready For](https://www.forbes.com/sites/bernardmarr/2022/11/21/the-top-10-tech-trends-in-2023-everyone-must-be-ready-for/) | #forbes #prediction #tech_trends_2023 |
+| [Gartner Identifies the Top 10 Strategic Technology Trends for 2023](https://www.gartner.com/en/newsroom/press-releases/2022-10-17-gartner-identifies-the-top-10-strategic-technology-trends-for-2023) | #gartner #prediction #tech_trends_2023 |
+| [Top Strategic Predictions for 2023 and Beyond - Gartner](https://www.gartner.com/en/articles/gartner-top-10-strategic-predictions-for-2023-and-beyond) | #gartner #prediction #tech_trends_2023 |
+| [Interview with Jurgen Appelo about the unFIX model - YouTube](https://www.youtube.com/watch?v=0FTMluOqOKY) | #unfix #jurgen_appelo |
+| [Obsidian Canvas - Obsidian](https://obsidian.md/canvas) | #obsidian #canvas|
+| [Accurate VO2 Max for Zwift and Strava : 8 Steps (with Pictures) - Instructables](https://www.instructables.com/Accurate-VO2-Max-for-Zwift-and-Strava/) | #vo2max #zwift |
+| [Investor Day 2022 – ASML - Supplying the semiconductor industry](https://www.asml.com/en/investors/investor-days/2022) | #asml #investors |
+| [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) | #awesome #self_hosted |
+| [GitHub - mikeroyal/Self-Hosting-Guide: Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization.](https://github.com/mikeroyal/Self-Hosting-Guide) | #self_hosted  #guide |
+| [self-hosted · GitHub Topics · GitHub](https://github.com/topics/self-hosted) | #nocode #self_hosted  |
+| [GitHub - apitable/apitable: 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]](https://github.com/apitable/apitable) | #nocode #airtable #alternative |
+| [The State of Frontend in 2022 - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/state-of-frontend-2022) | #frontend #gergely_orosz #pragmaticengineer #technology_radar |
+| [How Big Tech Runs Tech Projects and the Curious Absence of Scrum - The Pragmatic Engineer](https://blog.pragmaticengineer.com/project-management-at-big-tech/) | #pragmaticengineer #process #project_management |
+| [Regional execution for ultra-low latency rendering at the edge – Vercel](https://vercel.com/blog/regional-execution-for-ultra-low-latency-rendering-at-the-edge) | #vercel #edge #cloud #frontend |
+| [Write tasks not user stories - Linear Method](https://linear.app/method/write-issues-not-user-stories) | #backlog #user_stories|
+| [How Facebook Build Products - by Will Lawrence](https://productlife.to/p/-execution-at-facebook) |  #facebook #products #project_management #build_ship|
+| [What TPMs Do and What Software Engineers Can Learn From Them - The Pragmatic Engineer](https://blog.pragmaticengineer.com/what-do-tpms-do/) | #pragmaticengineer #tpm #project_management |
+| [Fusion Power Explained – Future or Failure](https://youtu.be/mZsaaturR6E) | #fusion  #energy |
+| [Whoop 4.0 Band &amp; Platform In-Depth Review - DC Rainmaker](https://www.dcrainmaker.com/2021/11/whoop-4-band-platform-in-depth-review.html/amp) | #whoop4 #dc_rainmaker #heart_rate #sleep |
+| [Tech predictions for 2022 and beyond](https://www.aboutamazon.com/news/aws/tech-predictions-for-2022-and-beyond) | #tech_vision #prediction  |
+| [GitHub - justjake/Gauss: Stable Diffusion macOS native app](https://github.com/justjake/Gauss) | #difusion #mac #app |
 
 ## November 2022
 | Links | Tags |
