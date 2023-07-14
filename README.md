@@ -1027,7 +1027,7 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 | [Blob Opera — Google Arts & Culture](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw) | #music #google #opera |
 
 
-## Ocotber 2021
+## October 2021
 | Links | Tags |
 | ----- | ---- |
 | [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/) | #ML #deep_learning  | 
