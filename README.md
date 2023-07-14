@@ -3,6 +3,8 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 
 *.md format and tags are well supported by [Obsidian.md](https://obsidian.md/)
 
+![links over months](./stats/links_per_months.jpg)
+
 # 2023
 ## July 2023
 *comming soon*
