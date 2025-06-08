@@ -7,8 +7,297 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 
 # 2024
 
-## January 2023
+## July 2024
 *comming soon*
+
+## June 2024
+
+| Links | Tags |
+|-------|------|
+| [How Actors Remember Their Lines - The MIT Press Reader](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/) | #psychology #memory #acting |
+| [Ask HN: What is your ChatGPT customization prompt? - Hacker News](https://news.ycombinator.com/item) | #ai #llm #prompt_engineering |
+| [Thomas Dohmke: With AI, anyone can be a coder now - TED Talk](https://www.ted.com/talks/thomas_dohmke_with_ai_anyone_can_be_a_coder_now) | #ai #coding #github |
+| [My 5 Swimming Rules](https://youtu.be/yWlTu3qvYBc) | #swimming #triathlon #training |
+| [Emergent Mind: Computer Science Research Explorer](https://www.emergentmind.com/) | #ai #research #computer_science |
+| [Text to Speech & AI Voice Generator - ElevenLabs](https://elevenlabs.io/) | #tts |
+| [Microplastics Are Everywhere. Here's How to Avoid Eating Them. - Reviews by Wirecutter](https://www.nytimes.com/wirecutter/reviews/how-to-avoid-eating-microplastics/) | #health #environment #food |
+| [NASA's James Webb Space Telescope Finds Most Distant Known Galaxy - James Webb Space Telescope](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/) | #space #astronomy #science |
+| [Better RAG results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search) | #ai #rag #search |
+| [The Opaque Investment Empire Making OpenAI's Sam Altman Rich - WSJ](https://www.wsj.com/tech/ai/openai-sam-altman-investments-004fc785) | #sam_altman #openai #business |
+| [Applied LLMs - What We've Learned From A Year of Building with LLMs](https://applied-llms.org/) | #ai #llm #programming |
+| [An interview with the most prolific ChatGPT and LLM jailbreaker - VentureBeat](https://venturebeat.com/ai/an-interview-with-the-most-prolific-jailbreaker-of-chatgpt-and-other-leading-llms/) | #ai #security #llm |
+| [A deep dive into the world's smartest email AI](https://www.shortwave.com/blog/deep-dive-into-worlds-smartest-email-ai/) | #ai #email #productivity |
+| [pii-detection · GitHub Topics · GitHub](https://github.com/topics/pii-detection) | #github #privacy #security #pii |
+| [LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy - GoDaddy Blog](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy#h-1-sometimes-one-prompt-isn-t-enough) | #llm #engineering #deployment |
+| [Tech services and generative AI: Plotting the necessary reinvention - McKinsey](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/tech-services-and-generative-ai-plotting-the-necessary-reinvention) | #ai #business #strategy |
+| [Databricks' Accelerating Growth by @ttunguz](https://tomtunguz.com/databricks-growth-2024/) | #business #data #cloud |
+| [Training Tips: Open Water Swimming - MyProCoach™](https://www.myprocoach.net/trainingtips/open-water-swimming/) | #swimming #ironman #my_pro_coach |
+| [Training Tips: IRONMAN 70.3 Race Day - MyProCoach™](https://www.myprocoach.net/trainingtips/ironman-70-3-race-day/) | #triathlon #ironman #my_pro_coach |
+| [Payments 101 for a Developer · juspay/hyperswitch Wiki · GitHub](https://github.com/juspay/hyperswitch/wiki/Payments-101-for-a-Developer) | #github #payments #programming |
+| [What's Next For ASML?](https://youtu.be/ig0FCK0C76U) | #semiconductor #business #technology |
+| [How I Became a Better Swimmer at an Older Age](https://youtu.be/pv7Sb7GlNMA) | #swimming #fitness #aging |
+| [How Meta trains large language models at scale - Engineering at Meta](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/) | #ai #llm #engineering |
+| [Microsoft's Nadella Is Building an AI Empire. OpenAI Was Just the First Step. - WSJ](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a) | #microsoft #ai #business |
+| [GitHub - onuratakan/gpt-computer-assistant: gpt-4o for windows, macos and linux](https://github.com/onuratakan/gpt-computer-assistant) | #github #ai #gpt_computer_assistant|
+| [The Hazardous Life of an Undersea Cable](https://youtu.be/AFt9le2ytW0) | #technology #infrastructure #internet |
+| [Anthropic's CEO on Being an Underdog - TIME](https://time.com/6990386/anthropic-dario-amodei-interview/) | #ai #anthropic #leadership |
+| [Hi, AI: Our Thesis on AI Voice Agents - Andreessen Horowitz](https://a16z.com/ai-voice-agents/) | #ai #voice #venture_capital #a16z |
+| [Pick A Side And Fight For It, Keep Your Head Down, Or Flee](https://www.linkedin.com/pulse/pick-side-fight-keep-your-head-down-flee-ray-dalio-53fpe/) | #leadership #strategy #business |
+| [Roblox's Road to 4D Generative AI](https://corp.roblox.com/newsroom/2024/06/robloxs-road-to-4d-generative-ai) | #ai #gaming #roblox |
+| [Generative AI in the Enterprise – O'Reilly](https://www.oreilly.com/radar/generative-ai-in-the-enterprise/) | #ai #business #enterprise |
+| [GitHub - gpt-engineer-orggpt-engineer: Specify what you want it to build, the AI asks for clarification, and then builds it.](https://github.com/gpt-engineer-org/gpt-engineer) | #github #ai #gpt_engineer |
+
+## May 2024
+
+| Links | Tags |
+|-------|------|
+| [Tesla conducting more layoffs, including entire Supercharger team - Electrek](https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/) | #tesla #layoffs #ev |
+| [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/) | #mars #space #astrobiology #science |
+| [What can LLMs never do? - by Rohit Krishnan](https://www.strangeloopcanon.com/p/what-can-llms-never-do) | #ai #llm #reasoning |
+| [ESA - Webb captures iconic Horsehead Nebula in unprecedented detail](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail) | #astronomy #space #webb #nebula |
+| [The world is not conspiring against you - Manas J. Saloi](https://manassaloi.com/2024/05/01/world-conspiring.html) | #career #psychology #productivity |
+| [How AI apps make money - by Kyle Poyar and Palle Broe](https://www.growthunhinged.com/p/how-ai-apps-make-money) | #ai #pricing #saas |
+| [GitHub - cxli233/FriendsDontLetFriends: Friends don't let friends make certain types of data visualization - What are they and why are they bad.](https://github.com/cxli233/FriendsDontLetFriends) | #data_visualization #github #r |
+| [The Possibilities of AI [Entire Talk] - Sam Altman (OpenAI)](https://youtu.be/GLKoDkbS1Cg) | #ai #openai #sam_altman #agi |
+| [The changes to non-compete laws in the Netherlands from 2025](https://www.iamexpat.nl/expat-info/dutch-expat-news/changes-non-compete-laws-netherlands-2025) | #netherlands #employment_law #non_compete |
+| [Everything announced at Apple's Let Loose iPad event](https://www.engadget.com/everything-announced-at-apples-let-loose-ipad-event-161005007.html) | #apple #ipad #hardware #m4 |
+| [The Next Big Programming Language Is English](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces) | #ai #github #copilot #programming |
+| [Earth wraps up hottest year on record, and may break record next year](https://www.axios.com/2023/12/28/climate-change-extreme-heat-outlook) | #climate_change #global_warming #extreme_weather |
+| [GitHub - phidatahq/phidata: Memory, knowledge and tools for LLMs](https://github.com/phidatahq/phidata/tree/main) | #ai #llm #agent #framework #github |
+| [GitHub - huggingface/lighteval: LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.](https://github.com/huggingface/lighteval) | #ai #llm #evaluation #huggingface #github |
+| [9 Common Running Mistakes Even Experts Make (And How to Fix Them)](https://youtu.be/17qbZnDbbwk) | #running #fitness #training #exercise |
+| [Cardiorespiratory fitness is a strong and consistent predictor of morbidity and mortality among adults: an overview of meta-analyses representing over 20.9 million observations from 199 unique cohort studies - British Journal of Sports Medicine](https://bjsm.bmj.com/content/58/10/556) | #fitness #health #cardio #longevity |
+| [Deaf girl is cured in world first gene therapy trial - The Independent](https://www.independent.co.uk/news/health/deaf-cure-girl-gene-therapy-b2541735.html) | #genetics #hearing #gene_therapy |
+| [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) | #ai #llm #explanation #nlp |
+| [James Shore: A Useful Productivity Measure?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure) | #productivity #engineering_management #software_development #metrics |
+| [GitHub - alessiodm/drl-zh: Deep Reinforcement Learning: Zero to Hero!](https://github.com/alessiodm/drl-zh) | #ai #reinforcement_learning #github #python #tutorial |
+| [In conversation with Sam Altman](https://youtu.be/nSM0xd8xHUM) | #ai #openai #sam_altman #interview |
+| [GitHub - ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code: 500 AI Machine learning Deep learning Computer vision NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | #ai #github #machine_learning #nlp #computer_vision |
+| [Jim Simons: A Short Story of My Life and Mathematics (2022)](https://youtu.be/CTQcLi6SpX8) | #mathematics #finance #investment #interview |
+| [Conversation with Groq CEO Jonathan Ross](https://youtu.be/UneoszmxRGg) | #ai #hardware #interview #llm |
+| [Sam Altman talks GPT-4o and Predicts the Future of AI](https://youtu.be/fMtbrKhXMWc) | #ai #openai #sam_altman #gpt4 |
+| [AI spending grew 293% last year. Here's how companies are using AI to stay ahead.](https://ramp.com/blog/q1-2024-spending-insights) | #ai #investment |
+| [Gravitational waves: We are about to hear echoes in the fabric of space for the first time - New Scientist](https://www.newscientist.com/article/mg26234911-400-we-are-about-to-hear-echoes-in-the-fabric-of-space-for-the-first-time/) | #physics #space #science #astronomy |
+| [China's 'AI-in-a-box' products threaten Big Tech's cloud growth strategies](https://www.ft.com/content/02537db9-8687-48eb-94c8-383f8332b5d6) | #ai #china #cloud #business |
+| [How Perplexity builds product - by Lenny Rachitsky](https://www.lennysnewsletter.com/p/how-perplexity-builds-product) | #ai #product_management #perplexity #search |
+| [Microsoft Build 2024 Book of News](https://news.microsoft.com/build-2024-book-of-news/) | #microsoft #ai #developer #cloud |
+| [How AI will reinvent Marketing - by Andrew Chen](https://andrewchen.substack.com/p/ai-and-marketing-what-happens-next) | #ai #marketing #business #strategy |
+| [ASML adds remote kill switch to TSMC's EUV machines in case China invades Taiwan - report - DCD](https://www.datacenterdynamics.com/en/news/asml-adds-remote-kill-switch-to-tsmcs-euv-machines-in-case-china-invades-taiwan-report/) | #semiconductor #hardware #geopolitics #taiwan |
+| [The beauty of concrete - Works in Progress](https://worksinprogress.co/issue/the-beauty-of-concrete/) | #architecture #engineering #materials #construction |
+| [Sal Khan is pioneering innovation in education…again - Bill Gates](https://www.gatesnotes.com/Brave-New-Words) | #education #ai #khan_academy #bill_gates |
+| [How to build your own Perplexity for any dataset - Jonathan Unikowski](https://jnnnthnn.com/how-to-build-your-own-perplexity-for-any-dataset) | #ai #perplexity #search #data |
+| [Building an AI game studio: what we've learned so far - Braindump Incorporated](https://braindump.me/blog-posts/building-an-ai-game-studio) | #ai #gaming #game_development |
+| [Beyond Self-Attention: How a Small Language Model Predicts the Next Token - Shyam's Blog](https://shyam.blog/posts/beyond-self-attention/) | #ai #llm #nlp #self_attention |
+| [How do transformers work?+Design a Multi-class Sentiment Analysis for Customer Reviews](https://nintyzeros.substack.com/p/how-do-transformer-workdesign-a-multi) | #ai #nlp #transformers #sentiment_analysis |
+| [GitHub - BCG-X-Official/agentkit: Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain](https://github.com/BCG-X-Official/agentkit) | #ai #agent #github #langchain #nextjs |
+| [Owning the Workflow in B2B AI Apps - Andreessen Horowitz](https://a16z.com/owning-the-workflow-in-b2b-ai-apps/) | #ai #b2b #workflow #saas |
+| [GitHub - nucleuscloud/neosync: Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.](https://github.com/nucleuscloud/neosync) | #data #github #synthetic_data #privacy |
+| [For B2B Generative AI Apps, Is Less More? - Andreessen Horowitz](https://a16z.com/for-b2b-generative-ai-apps-is-less-more/) | #ai #b2b #saas #product_management |
+| [The Plastic Chemicals Hiding in Your Food - Consumer Reports](https://www.consumerreports.org/health/food-contaminants/the-plastic-chemicals-hiding-in-your-food-a7358224781) | #health #food #environment #plastic |
+| ['Absolute miracle' breakthrough provides recipe for zero-carbon cement](https://newatlas.com/materials/concrete-steel-recycle-cambridge-zero-carbon-cement/) | #environment #engineering #materials #sustainability |
+| [Scott and Mark learn AI - BRK255](https://youtu.be/KKWPSkYN3vw) | #ai #microsoft #learning #tutorial |
+| [Full Keynote: Satya Nadella at Microsoft Build 2024](https://youtu.be/8OviTSFqucI) | #microsoft #ai #developer #keynote |
+| [Announcing the AI Toolkit for Visual Studio Code](https://techcommunity.microsoft.com/t5/microsoft-developer-community/announcing-the-ai-toolkit-for-visual-studio-code/ba-p/4146473) | #ai #microsoft #vscode #developer_tools |
+| [Codestral: Hello, World! - Mistral AI](https://mistral.ai/news/codestral/) | #ai #mistral #coding #llm |
+| [Frontier AI in your hands](https://mistral.ai/news/codestral/) | #ai #mistral #llm #open_source |
+| [AI Copilots for business and coding solutions](https://codegpt.co/) | #ai #copilot #coding #productivity |
+
+## April 2024
+
+| Links | Tags |
+|-------|------|
+| [Making AI accessible with Andrej Karpathy and Stephanie Zhan](https://youtu.be/c3b-JASoPi0) | #ai #education #andrej_karpathy #interview |
+| [What's next for AI agents ft. LangChain's Harrison Chase](https://youtu.be/pBBe1pk8hf4) | #ai_agent #langchain #harrison_chase #interview #ai |
+| [What's next for AI agentic workflows ft. Andrew Ng of AI Fund](https://youtu.be/sal78ACtGTc) | #ai_agent #andrew_ng #workflow #interview |
+| [The Top 100 Gen AI Consumer Apps - Andreessen Horowitz](https://a16z.com/100-gen-ai-apps/) | #ai #consumer_apps #a16z #chatgpt #ai_tool |
+| [AI in semiconductor manufacturing: The next S curve? - McKinsey](https://www.mckinsey.com/industries/semiconductors/our-insights/generative-ai-the-next-s-curve-for-the-semiconductor-industry) | #ai #semiconductor #mckinsey |
+| [Learning to code with and without AI - Austin Z. Henley](https://austinhenley.com/blog/learningwithai.html) | #ai #education #code_generation |
+| [The Top 100 Gen AI Consumer Apps - Andreessen Horowitz](https://a16z.com/100-gen-ai-apps/) | #ai #consumer_apps #a16z #chatgpt #ai_tool |
+| [AI Infrastructure Explained - Salesforce Ventures](https://salesforceventures.com/perspectives/ai-infrastructure-explained/) | #ai #infrastructure #gpu #cloud #salesforce |
+| [How to win at Vertical AI - by Sangeet Paul Choudary](https://platforms.substack.com/p/how-to-win-at-vertical-ai) | #ai #vertical_ai #ai_agent #b2b |
+| [Introducing improvements to the fine-tuning API and expanding our custom models program](https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program) | #openai #fine_tuning #api #llm #model |
+| [AI and the Future of Work - by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/ai-and-the-future-of-work) | #ai #future_of_work #automation #productivity #workforce |
+| [Notes on how to use LLMs in your product. - Irrational Exuberance](https://lethain.com/mental-model-for-how-to-use-llms-in-products/) | #llm #product_management #ai #mental_model #product |
+| [SWE-agent/sweagent/agent at main · princeton-nlp/SWE-agent · GitHub](https://github.com/princeton-nlp/SWE-agent/tree/main/sweagent/agent) | #sweagent #software_engineering #github #automation #ai |
+| [How Do AI Software Engineers Really Compare To Humans? – StepChange](https://www.stepchange.work/blog/why-do-ai-software-engineers-like-devin-struggle-to-fix-bugs) | #ai #software_engineering #devin #automation |
+| [Building reliable systems out of unreliable agents - Rainforest QA](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents) | #ai_agent #reliability #qa #system_design |
+| [OpenTelemetry](https://opentelemetry.io/) | #observability #telemetry #open_source |
+| [GitHub - traceloop/openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry) | #llm #observability #open_source #github |
+| [Prompt Engineering vs. Blind Prompting – Mitchell Hashimoto](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting) | #prompt_engineering #ai #llm |
+| [- Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/) | #ai #evaluation #metrics |
+| [The rise of the chief AI officer](https://www.ft.com/content/4c5d823e-004b-4f00-9536-9fea93330453) | #ai #cio #leadership #executive #ft |
+| [AI Index Report - Stanford HAI](https://hai.stanford.edu/research/ai-index-report) | #ai #stanford #report |
+| [The Shifting Dynamics & Meta-Moats of AI - Michael Dempsey: Blog](https://www.michaeldempsey.me/blog/2024/04/17/the-meta-moats-of-ai/) | #ai #analysis |
+| [MLOps vs. Eng: Misaligned Incentives and Failure to Launch? - Heavybit](https://www.heavybit.com/library/article/machine-learning-engineering-ai-incentives) | #mlops #engineering #incentives #ml #ai |
+| [AI Product Management - Silicon Valley Product Group : Silicon Valley Product Group](https://www.svpg.com/ai-product-management/) | #ai #product_management #svpg |
+| [Preparing For The Future - Silicon Valley Product Group : Silicon Valley Product Group](https://www.svpg.com/preparing-for-the-future/) | #product_management #svpg |
+| [The impact of AI tooling on engineering at ANZ Bank](https://newsletter.getdx.com/p/impact-of-copilot-at-anz-bank) | #ai #copilot #engineering #productivity |
+| [Calculus Made Easy](https://calculusmadeeasy.org/) | #mathematics #calculus #learning |
+| [Nutrition in Training – Support & Help Center - MyProCoach](https://support.myprocoach.net/hc/en-us/articles/360022206491-Nutrition-in-Training) | #nutrition #training #myprocoach |
+| [Consulting firms step up efforts to push out their low performers](https://www.ft.com/content/8c3679c4-b34a-41d0-93c9-af96ea6f90e2) | #consulting #ft |
+| [Schiphol - Case study Deep Turnaround](https://www.schiphol.nl/en/aviation-solutions/page/case-study-amsterdam-airport-schiphol/) | #aviation #operations #case_study #schiphol |
+| [Ditch Your To-Do List and Do This Instead - Sam Corcos - The Tim Ferriss Show](https://youtu.be/UneF4tCVHFk) | #productivity #gtd #tim_ferriss |
+| [Steve Jobs talks about managing people](https://youtu.be/f60dheI4ARg) | #leadership #steve_jobs #apple #interview |
+| [Sergey Brin 3/2 (AGI House)](https://youtu.be/idOD-2D7nxs) | #ai #sergey_brin #google #interview |
+| [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html) | #gaming #nintendo #hardware #catridge |
+| [Do You Have Enough Non-Debt Money?](https://www.linkedin.com/pulse/do-you-have-enough-non-debt-money-ray-dalio-cfffe) | #money #ray_dalio #investing |
+| [Yann LeCun - Imagination In Action - Davos 2024](https://youtu.be/YdaRd_vitLw) | #ai #yann_lecun #davos |
+| [Embeddings are a good starting point for the AI curious app developer](https://bawolf.substack.com/p/embeddings-are-a-good-starting-point) | #ai #embeddings #development #llm #programming |
+| [GitHub - BCG-X-Officialagentkit: Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain](https://github.com/BCG-X-Official/agentkit) | #ai_agent #github #nextjs #fastapi #langchain |
+| [Tobi Lutke - I gave this talk to my team a few years ago and I find myself constantly referencing it](https://x.com/tobi/status/1782090994072137774) | #tobi_lutke #important |
+| [⭐️ Implementing FrugalGPT: Reducing LLM Costs & Improving Performance](https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs/) | #llm #cost_optimization #frugalgpt #ai_tool |
+| [GitHub - openlit/openlit: OpenLIT is an open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics in a single application 🔥 🖥 . 👉 Open source GenAI and LLM Application Performance Monitoring (APM) & Observability tool](https://github.com/openlit/openlit) | #llm #observability #open_source #github #ai_tool |
+| [GitHub - jina-ai/reader: Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/](https://github.com/jina-ai/reader/tree/main) | #llm #url_conversion #github #jina #ai_tool |
+| [Apple Vision Pro brings a new era of spatial computing to business - Apple](https://www.apple.com/newsroom/2024/04/apple-vision-pro-brings-a-new-era-of-spatial-computing-to-business/) | #apple #vision_pro #spatial_computing #ar |
+| [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](https://youtu.be/cEg8cOx7UZk) | #nvidia #jensen_huang #ai  #keynote |
+
+## March 2024
+
+| Links | Tags |
+|-------|------|
+| [Corporate Ozempic - No Mercy / No Malice](https://www.profgalloway.com/corporate-ozempic/) | #ai #layoffs #scott_galloway |
+| [OpenAI DevDay: Opening Keynote](https://www.youtube.com/live/U9mJuUkhUzk) | #open_ai |
+| [Stable Diffusion 3: Research Paper — Stability AI](https://stability.ai/news/stable-diffusion-3-research-paper) | #ai #diffusion #image_generation #stability_ai |
+| [Indestructible Jacket. Fleece Lined edition – Vollebak](https://vollebak.com/products/indestructible-jacket-fleece-lined-edition) | [CANNOT PROCESS] |
+| [How ZOE Works](https://zoe.com/how-it-works) | #health #nutrition #personalization #microbiome |
+| [Quanta Magazine](https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/) | #mathematics #algorithms #research |
+| [What 2026 looks like — LessWrong](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like#2024) | #ai #prediction #lesswrong #agi |
+| [On the new Dutch Intelligence and Security Law - Bert Hubert's writings](https://berthub.eu/articles/posts/dutch-intelligence-and-security-law/) | #privacy #security #law #netherlands |
+| [World's Fastest Camera Drone Vs F1 Car (ft. Max Verstappen)](https://youtu.be/9pEqyr_uT-k) | #f1 #max_verstappen #drone #racing |
+| [Microplastics and Nanoplastics in Atheromas and Cardiovascular Events - NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2309822) | #health #microplastics #cardiovascular #research |
+| [Microsoft's Mistral deal beefs up Azure without spurning OpenAI - The Verge](https://www.theverge.com/24087008/microsoft-mistral-openai-azure-europe) | #microsoft #mistral #azure #openai |
+| [Open Release of Grok-1](https://x.ai/blog/grok-os) | #ai #grok #open_source #elon_musk |
+| [My rules for being a founder (after selling 3 companies)](https://www.linkedin.com/posts/gisenberg_my-rules-for-being-a-founder-after-selling-activity-7172627821444468736-TKDD/) | #founder #startup #greg_isenberg #entrepreneurship |
+| [Scientists discover new mechanism for kidney cell renewal](https://www.news-medical.net/news/20230714/Scientists-Discover-New-Mechanism-for-Kidney-Cell-Renewal.aspx) | #health #kidney #research #medicine |
+| [Заметки из гаража #2: печатаем домашние стикеры, футболки, винилы на машину —  Вастрик](https://vas3k.blog/notes/stickers/) | #diy #printing #vas3k #russian |
+| [Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI - Lex Fridman Podcast #419](https://youtu.be/jvqFAi7vkBc) | #podcast #sam_altman #openai #lex_fridman |
+| [16 Changes to the Way Enterprises Are Building and Buying Generative AI](https://a16z.com/generative-ai-enterprise-2024/) | #ai #enterprise #a16z #report |
+| [Accenture, AWS, Anthropic Collaboration \ Anthropic](https://www.anthropic.com/news/accenture-aws-anthropic) | #anthropic #aws #accenture #ai |
+| [Sora: First Impressions](https://openai.com/blog/sora-first-impressions) | #openai #sora #video_generation #ai |
+| [In China: The 100-Year Storm on the Horizon and How the Five Big Forces Are Playing Out](https://www.linkedin.com/pulse/china-100-year-storm-horizon-how-five-big-forces-playing-ray-dalio-wysbc/) | #china #ray_dalio #economics #geopolitics |
+| [AI escape velocity: A conversation with Ray Kurzweil - Bessemer Venture Partners](https://www.bvp.com/atlas/ai-escape-velocity-a-conversation-with-ray-kurzweil) | #ai #ray_kurzweil #singularity #venture_capital |
+| [2024 Barkley Marathon Results: Jasmin Paris Rewrites History](https://run.outsideonline.com/news/barkley-marathons-2024-results/) | #running #marathon #barkley #ultramarathon |
+| [Amazon Q Code Transformation](https://aws.amazon.com/q/aws/code-transformation/) | #aws #amazon_q #ai #code_transformation |
+| [[How Assistants work](https://platform.openai.com/docs/assistants/how-it-works/agents)](https://platform.openai.com/docs/assistants/how-it-works/runs-and-run-steps) | #openai #assistants #api #ai |
+
+
+## February 2024
+
+| Links | Tags |
+| ----- | ---- |
+| [23andMe's Fall From $6 Billion to Nearly $0](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4) | #23andme #anne_wojcicki #biotech |
+| [How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment.](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews) | #chatgpt #interview #hiring #ai |
+| [V12 First Impressions - Biggest FSD Update EVER](https://youtu.be/aEhr6M9Orx0) | #tesla #fsd |
+| [How to Do Great Work](http://paulgraham.com/greatwork.html) | #paul_graham #career #productivity |
+| [AI Logo Generator - neural.love](https://neural.love/ai-logo-generator) | #ai_tool #design #logo |
+| [Here's How To Actually Lose Weight](https://youtu.be/mTTLAVnChrw) | #health #fitness #weight_loss |
+| [How Billionaire Toto Wolff Built Mercedes' F1 Team Into An Auto Racing Dynasty](https://youtu.be/_XlouPG9UFQ) | #f1 #toto_wolff #leadership |
+| [7 things I learned after doing my first Ironman 70.3](https://youtu.be/szpMNE8MJCc) | #ironman #triathlon |
+| [GitHub - andkret/Cookbook: The Data Engineering Cookbook](https://github.com/andkret/Cookbook) | #book #data_engineering #github |
+| [Selling](https://docs.google.com/document/d/1T6fnyDDqdzAFdzJzZkiAnaKvZzjzkX5HSwAjuedvlQQ/edit) | #meetings #care #matt_mochary |
+| [You Just Lost Your Job Now What - Google Docs](https://docs.google.com/document/d/1yY-M3SB9cvB7tS3QVvCSJkQELgbvp0WNtj9OvKKv8Zg/edit) | #matt_mochary #layoff |
+| [Robert Cialdini explains the six ways to influence people - Interview: - Barking Up The Wrong Tree](https://bakadesuyo.com/2013/06/robert-cialdini-influence/) | #influence #psychology #interview |
+| [Picnic's review of 2023: the year of AI - Join Picnic](https://picnic.app/careers/picnics-review-of-2023-the-year-of-ai) | #ai #picnic #year_review |
+| [Billionaire Peter Thiel Backs Doping-Friendly Olympics Rival — What To Know About The 'Enhanced Games'](https://www.forbes.com/sites/roberthart/2024/01/31/billionaire-peter-thiel-backs-doping-friendly-olympics-rival---what-to-know-about-the-enhanced-games/) | #peter_thiel #olympics #enhanced_games |
+| [Linkedin Optimization Chrome Extension Tool - Careerflow](https://www.careerflow.ai/linkedin-review) | #linkedin #career #chrome_extension |
+| [Dr. Robert Lustig: How Sugar & Processed Foods Impact Your Health](https://youtu.be/n28W4AmvMDE) | #health #nutrition #sugar #podcast |
+| [Edsger W. Dijkstra's Interview on Dutch TV](https://pncnmnp.github.io/blogs/translating-dijakstra.html) | #dijkstra #computer_science #interview |
+| [AI Design Patterns by @ttunguz](https://tomtunguz.com/ai-design-patterns/) | #ai #design_patterns #product |
+| [Provocative Predictions for the Future of Tech with NYU Marketing Professor Scott Galloway](https://youtu.be/otyoPiVAicI) | #scott_galloway #tech #podcast |
+| [Scott Galloway: The Algebra of Happiness](https://youtu.be/Brp9DpJsEi4) | #scott_galloway #happiness #life |
+| [LLM Visualization](https://bbycroft.net/llm) | #llm #visualization #ai |
+| [Toto + Susie Wolff - The Thoroughbred and the Donkey - Performance People](https://youtu.be/24UvmBqAkIA) | #toto_wolff #susie_wolff #f1 #interview |
+| [Jeff Bezos: Amazon and Blue Origin - Lex Fridman Podcast #405](https://youtu.be/DcWqzZ3I2cY) | #jeff_bezos #amazon #podcast #lex_fridman |
+| [Sam Altman on Choosing Projects, Creating Value, and Finding Purpose](https://youtu.be/uEl2KUZ3JWA) | #sam_altman #openai #career |
+| [Andrej Karpathy on X: "# on shortification of "learning"](https://twitter.com/karpathy/status/1756380066580455557) | #andrej_karpathy #learning #ai |
+| [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) | #martin_fowler #ci #software_engineering |
+| [Continue](https://continue.dev/) | #copilot #opensource #ide |
+| [Ollama](https://ollama.com/) | #local_model #ai |
+| [The Future of AI Compute: A Conversation With Jonathan Ross](https://chamath.substack.com/p/the-future-of-ai-compute-a-conversation) | #ai #compute #chamath #interview |
+| [7 Real-Life Todoist Setups to Steal](https://todoist.com/inspiration/todoist-setup) | #productivity #todoist #gtd |
+| [My Sixth Year as a Bootstrapped Founder mtlynch.io](https://mtlynch.io/solo-developer-year-6/) | #bootstrapping #entrepreneurship #indie_hacker |
+| [Data Industry Primer - by Eric Flaningam - Generative Value](https://www.generativevalue.com/p/data-industry-primer) | #data #industry_primer #analytics |
+| [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) | #openai #sora #video_generation #ai |
+| [Scott's Personal Finance - Prof G Markets](https://youtu.be/cxQ4agvOvTI) | #scott_galloway #personal_finance #podcast |
+| [SDXL Lightning - by fal.ai](https://fastsdxl.ai/) | #ai_tool #image_generation #sdxl |
+| [tinygrad: A simple and powerful neural network framework](https://tinygrad.org/) | #tinygrad #deep_learning #opensource |
+| [Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases](https://huggingface.co/blog/leaderboards-on-the-hub-patronus) | #huggingface #llm #benchmarks |
+| [Why Gödel, Escher, Bach is the most influential book in my life. - by Mark Johnson Medium](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428) | #book #gödel_escher_bach #philosophy |
+| [[2402.09171] Automated Unit Test Improvement using Large Language Models at Meta](https://arxiv.org/abs/2402.09171) | #meta #llm #testing #software_engineering |
+| [[2308.11432] A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) | #llm #ai_agent #survey |
+| [As Much As You Ever Wanted To Know About 155mm Artillery Shell Production and More](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know) | #military #manufacturing #ukraine |
+| [Air Canada must honor refund policy invented by airline's chatbot - Ars Technica](https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/) | #ai #chatbot #legal #air_canada |
+| [Engineering Data and Analytics Platform - DX Data Cloud](https://getdx.com/products/datacloud/) | #devops #analytics #engineering_metrics |
+| [Starter Story: Learn How People Are Starting Successful Businesses](https://www.starterstory.com/) | #entrepreneurship #startup #case_study |
+| [The Build Board](https://www.indiehackers.com/products) | [CANNOT PROCESS] |
+| [Are We in a Stock Market Bubble?](https://www.linkedin.com/pulse/we-stock-market-bubble-ray-dalio-zpdre/) | #ray_dalio #investing #markets |
+
+
+## January 2024
+
+| Links | Tags |
+|-------|------|
+| [Ask HN: What are good books/blogs to read for a first time CTO? - Hacker News](https://news.ycombinator.com/item) | #cto #leadership #books #hacker_news |
+| [If only someone told me this before my first startup - Hacker News](https://news.ycombinator.com/item) | #startup #entrepreneurship #lessons_learned #hacker_news |
+| [Little Wonder: a Bluesound Node INSIDE a loudspeaker - PSB Alpha iQ review](https://youtu.be/PQtEpIiVrbE) | #psb_alpha_iq #bluesound_node #hifi |
+| [WOW. Just WOW. KEF R3 Meta review.](https://youtu.be/tjTVOOoQDS4) | #kef #meta #audio_review #hifi |
+| [Кто побеждает в борьбе за технологии и что изменилось в AI с приходом опенсорса [Тех] — Вастрик.Клуб 🤘✖️👩‍💻‍](https://vas3k.club/post/22008/) | #ai #opensource #llama |
+| [Leica celebrates most successful business year to date, sells 10 times as many analogue Leica M models as in 2015 - NotebookCheck.net News](https://www.notebookcheck.net/Leica-celebrates-most-successful-business-year-to-date-sells-10-times-as-many-analogue-Leica-M-models-as-in-2015.761764.0.html) | #leica #camera #photo |
+| [GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook) | #openai #api #python #gpt #chatgpt #github |
+| [After 34 Years, Someone Finally Beat Tetris](https://youtu.be/GuJ5UuknsHU) | #tetris #gaming #nes |
+| [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](https://youtu.be/qJ3uV7coZbA) | #longevity #supplements #resveratrol #nr #nmn |
+| [Reshaping the tree: rebuilding organizations for AI](https://www.oneusefulthing.org/p/reshaping-the-tree-rebuilding-organizations) | #ai #organizational_change #llm #management #ethan_mollick |
+| [Almost an Agent: What GPTs can do - by Ethan Mollick](https://www.oneusefulthing.org/p/almost-an-agent-what-gpts-can-do) | #ai #gpt #ai_agent #openai #structured_prompting #ethan_mollick |
+| [Performance Nutritionist Breaks Down Athletic Greens](https://youtu.be/IrFJ4DCdYaQ) | #athletic_greens #nutrition #supplements #health #science_explained |
+| [When big tech buys small tech — Benedict Evans](https://www.ben-evans.com/benedictevans/2021/11/12/when-big-tech-buys-small-tech) | #big_tech #acquisitions #startups #innovation #benedict_evans |
+| [hackerllama - The Random Transformer](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/) | #ai #transformer #llm #machine_learning |
+| [How to Detect Hallucinations in LLMs - by Iulia Brezeanu Towards Data Science](https://towardsdatascience.com/real-time-llm-hallucination-detection-9a68bb292698) | #ai #llm #hallucination #data_science |
+| [Freestyle: How to Breathe Smoother](https://youtu.be/GszNr1vGGfk) | #swimming #freestyle #breathing #technique |
+| [Why the Swiss Love Their Guns (more than Americans)](https://youtu.be/wnBDK-QNZkM) | #switzerland #guns #culture #politics |
+| [How To Swim For Triathlon - From Non Swimmer To Ironman Distance, Using These Tools and Training](https://youtu.be/GgBi7EwEbDQ) | #triathlon #swimming #ironman #training |
+| [How I'd Learn to Swim for Triathlon (If I Could Start Over)](https://youtu.be/FncinCRbkAE) | #triathlon #swimming #training #technique |
+| [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) | #switzerland #railway #transport #map |
+| [The future for Miro and Freehand - MiroBlog](https://miro.com/blog/future-miro-freehand/) | #miro #freehand #collaboration #design |
+| [а!](https://youtu.be/ydH3oSObnLg) | #music #video #entertainment |
+| [Jeff Bezos: Amazon and Blue Origin - Lex Fridman Podcast #405](https://youtu.be/DcWqzZ3I2cY) | #jeff_bezos #amazon #blue_origin #lex_fridman #podcast |
+| [A comprehensive list of 2023 & 2024 tech layoffs - TechCrunch](https://techcrunch.com/2024/01/11/tech-layoffs-2023-list/) | #tech_layoffs #employment #tech_industry #2024 |
+| [How To Train For Your First Half Ironman](https://youtu.be/bjLY7Y9vFv0) | #triathlon #half_ironman #training #endurance |
+| [Feynman's Nobel Ambition](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html) | #feynman #nobel_prize #physics #science |
+| [Is It Dangerous to Keep Getting COVID-19? - TIME](https://time.com/6553340/covid-19-reinfection-risk/) | #covid #health #reinfection #medical |
+| [Episode 6: Sam Altman](https://youtu.be/PkXELH6Y2lM) | #sam_altman #openai #ai #podcast |
+| [A woman bought a vintage dress at an antique store. It had a secret pocket with a mysterious note - CNN](https://edition.cnn.com/2024/01/15/us/antique-dress-maine-encrypted-message-cec/index.html) | #mystery #vintage #encryption #story |
+| [What is the prediabetes range, and what should I do if I'm borderline? - Levels](https://www.levelshealth.com/blog/what-is-the-prediabetes-range-and-what-should-i-do-if-im-borderline) | #prediabetes #health #diabetes #nutrition |
+| [CEOs say generative AI will result in job cuts in 2024 - Ars Technica](https://arstechnica.com/ai/2024/01/ceos-say-generative-ai-will-result-in-job-cuts-in-2024/) | #ai #job_cuts #employment #ceo #automation |
+| [A new way to measure developer productivity – from the creators of DORA and SPACE](https://newsletter.pragmaticengineer.com/p/developer-productivity-a-new-framework) | #developer_productivity #dora #space #engineering_management #metrics |
+| [A Crash Course in Networking - ByteByteGo Newsletter](https://open.substack.com/pub/bytebytego/p/a-crash-course-in-networking) | #networking #system_design #computer_science #bytebytego |
+| [Djokovic/Sabalenka v Tsitsipas/Sakkari Full Match - Australian Open 2024 Exhibition](https://youtu.be/-Nh6XgGTN4U) | #tennis #australian_open #djokovic #exhibition |
+| [Yuval Noah Harari: An Urgent Warning They Hope You Ignore. More War Is Coming!](https://youtu.be/UzOJiqN_DpM) | #yuval_harari #war #politics #future |
+| [10 Hour Ironman Training Week - The Ironman Work-Life Balance](https://youtu.be/AkGRzHgTj94) | #ironman #training #work_life_balance #triathlon |
+| [The Hacker News Top 40 books of 2023 -](https://hnreads.com/post/top40_2023/) | #books #hacker_news #reading #2023 |
+| [Why The World Relies On ASML For Machines That Print Chips](https://youtu.be/iSVHp6CAyQ8) | #asml #semiconductors #chip_manufacturing #technology |
+| [Google DeepMind's new AI system can solve complex geometry problems - MIT Technology Review](https://www.technologyreview.com/2024/01/17/1086722/google-deepmind-alphageometry/) | #google #deepmind #ai #geometry #mathematics |
+| [Presenting to Executives - blog.danielna.com](https://blog.danielna.com/presenting-to-executives/) | #presentation #executives #communication #leadership |
+| [Dutch government presents vision on generative AI - News item Government.nl](https://www.government.nl/latest/news/2024/01/18/dutch-government-dutch-government-presents-vision-on-generative-ai) | #netherlands #ai #government #policy |
+| [2024: A Pivotal Year on the Brink](https://www.linkedin.com/pulse/2024-pivotal-year-brink-ray-dalio-fwgie/) | #ray_dalio #2024 #economics #predictions |
+| [6 Triathlon Swim Technique Killers (and drills to fix them)](https://youtu.be/oammxp8u6uY) | #triathlon #swimming #technique #drills |
+| [How I'm (re)learning math as an adult - Gabriel Mays](https://gmays.com/how-im-relearning-math-as-an-adult/) | #mathematics #learning #adult_education #self_improvement |
+| [Fermented Foods Recipes: 50+ to Get You Started](https://www.attainable-sustainable.net/ferment-vegetables/) | #fermented_foods #recipes #nutrition #health |
+| [The Acceleration of Addictiveness](https://www.paulgraham.com/addiction.html) | #paul_graham #addiction #technology #society |
+| [There's never going to be time - Bryan Braun - Frontend Developer](https://www.bryanbraun.com/2024/01/27/theres-never-going-to-be-time/) | #time_management #productivity #development #philosophy |
+| [Blackrock Neurotech - Empowered by Thought](https://blackrockneurotech.com/) | #neurotech #brain_computer_interface #medical_technology #blackrock |
+| [[2401.12945] Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) | #ai #video_generation #diffusion_model #research |
+| [Mars in 4K: The Ultimate Edition](https://youtu.be/Vy_RPd0rblI) | #mars #space #4k #documentary |
+| [Quick Essay: Large Language Models, How to Train Them, and xAI's Grok](https://chamath.substack.com/p/large-language-models-how-to-train) | #llm #grok #xai #chamath #ai_training |
+| [Netflix: What Happens When You Press Play?](https://blog.bytebytego.com/p/netflix-what-happens-when-you-press) | #netflix #system_design #streaming #architecture |
+| [Watch Accenture's 2024 Generative AI Outlook - Bloomberg](https://www.bloomberg.com/news/videos/2024-01-08/accenture-s-2024-generative-ai-outlook-video) | #accenture #ai #outlook |
+| [The AI Hype Wall of Shame](https://www.linkedin.com/pulse/ai-hype-wall-shame-gary-marcus-g9q2c/) | #ai #hype #gary_marcus |
+| [How We Built Picture-in-Picture - WebKit](https://webkit.org/blog/14782/how-we-built-picture-in-picture-on-iphone/) | #webkit #pip |
+| [Poe co-founder Adam D'Angelo on what's next for AI (Aarthi and Sriram event)](https://www.youtube.com/watch?v=Tw0HaY3y0II) | #poe #adam_d_angelo #ai #llm |
+| [Generative AI Has a Visual Plagiarism Problem - IEEE Spectrum](https://spectrum.ieee.org/generative-ai-visual-plagiarism) | #ai #copyright #midjourney #dall_e |
+| [Building a visual search engine for 100 million images · PostHog](https://posthog.com/blog/building-visual-search) | #visual_search #openai_clip #pinecone #rust #posthog #image_search |
+| [Data & AI Summit 2023: Day 1 Highlights - Databricks](https://www.databricks.com/blog/data-ai-summit-2023-day-1-highlights) | #databricks #data_summit #ai #streaming #delta_lake #spark |
+| [We need to talk about your data team's new AI overlords - The Register](https://www.theregister.com/2024/01/05/data_team_ai_overlords/) | [CANNOT PROCESS] |
+| [Amazon Mocks Return to Office Mandates in New Ad Campaign - Slashdot](https://slashdot.org/story/24/01/14/021224/amazon-mocks-return-to-office-mandates-in-new-ad-campaign) | #amazon #remote_work #office_mandates #advertising |
 
 # 2023
 
