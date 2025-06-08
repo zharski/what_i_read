@@ -1,0 +1,5 @@
+# Optional dependencies for statistics visualization
+# Install with: pip install -r links_processor/requirements-stats.txt
+
+matplotlib>=3.5.0    # For generating plots and charts
+wordcloud>=1.9.0     # For generating tag clouds 

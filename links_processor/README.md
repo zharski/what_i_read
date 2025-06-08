@@ -10,6 +10,7 @@ This Python package processes markdown files following the `YYYY-MM.md` naming c
 - ✅ **Better Error Handling** - Specific exceptions and detailed error messages
 - ✅ **Configurable** - Centralized configuration
 - ✅ **Clear Logging** - Shows errors and execution progress
+- ✅ **Statistics Generation** - Create visualizations and summaries of your links data
 
 ## Installation
 
@@ -20,24 +21,34 @@ No installation required. This project uses only Python standard library (3.6+).
 ### Quick Start
 
 ```bash
-# From project root directory:
+# Process markdown files (default command)
 python links_processor/main.py
+python links_processor/main.py process
 
-# Specify input directory
-python links_processor/main.py -i /path/to/markdown/files
+# Process specific directory
+python links_processor/main.py process -i /path/to/markdown/files
 
 # Custom output file
-python links_processor/main.py -o custom_output.json
+python links_processor/main.py process -o custom_output.json
 
 # Show help
 python links_processor/main.py --help
+python links_processor/main.py process --help
 ```
 
 ### As a Python Module
 
 ```bash
+# Process files (default)
 python -m links_processor
-python -m links_processor -i ./docs -o output.json
+python -m links_processor process
+python -m links_processor process -i ./docs -o output.json
+
+# Generate statistics
+python -m links_processor stats
+python -m links_processor stats links
+python -m links_processor stats tags
+python -m links_processor stats all
 ```
 
 ### As a Library
@@ -61,6 +72,39 @@ print(f"Found {result.total_links} links")
 if result.errors:
     for error in result.errors:
         print(f"Error: {error}")
+```
+
+### Generate Statistics
+
+After processing your links, you can generate statistics and visualizations:
+
+```bash
+# Show summary statistics
+python links_processor/main.py stats
+python links_processor/main.py stats summary
+
+# Generate monthly links chart
+python links_processor/main.py stats links
+
+# Generate tag cloud
+python links_processor/main.py stats tags
+
+# Generate all visualizations
+python links_processor/main.py stats all
+
+# Custom options
+python links_processor/main.py stats tags --max-tags 50
+python links_processor/main.py stats all --output-dir custom_stats
+```
+
+**Note:** Visualizations require optional dependencies:
+```bash
+# Install visualization dependencies
+pip install -r links_processor/requirements-stats.txt
+
+# Or install individually:
+pip install matplotlib    # For plots
+pip install wordcloud    # For tag clouds
 ```
 
 ## Directory Structure
@@ -119,14 +163,17 @@ The script generates a JSON structure like this:
 links_processor/             # Main package directory
 ├── __init__.py
 ├── __main__.py             # Module runner
-├── main.py                 # CLI entry point (recommended)
+├── main.py                 # Main CLI entry point
+├── cli.py                  # Unified CLI with subcommands
 ├── config.py               # Configuration
 ├── models.py               # Data models
 ├── exceptions.py           # Custom exceptions
 ├── parsers.py              # Parsing logic
 ├── file_utils.py           # File operations
-├── processor.py            # Main processor
-└── cli.py                  # CLI interface
+├── processor.py            # Links processor
+├── stats.py                # Statistics generation
+├── requirements-stats.txt  # Optional dependencies for visualizations
+└── STATISTICS.md           # Documentation for statistics features
 ```
 
 ## Configuration
