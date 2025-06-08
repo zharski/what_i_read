@@ -19,3 +19,14 @@ Thumbs.db
 
 # Cursor
 .cursor
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
