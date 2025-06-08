@@ -3,7 +3,17 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 
 *.md format and tags are well supported by [Obsidian.md](https://obsidian.md/)
 
+
+## LINKS STATISTICS SUMMARY
+
 ![links over months](./stats/links_per_month.png)
+
+* Total links: 1827
+* Total months with data: 43
+* Average links per month: 42.5
+* Month with most links: 2023-05 (79 links)
+* Month with least links: 2021-07 (7 links)
+
 
 # 2024
 
