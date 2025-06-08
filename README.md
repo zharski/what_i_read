@@ -3,7 +3,7 @@ Monthly snapshot of **[mainly]** technology focused content which I read. It inc
 
 *.md format and tags are well supported by [Obsidian.md](https://obsidian.md/)
 
-![links over months](./stats/links_per_months.jpg)
+![links over months](./stats/links_per_month.png)
 
 # 2024
 
