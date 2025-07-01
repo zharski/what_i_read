@@ -21,6 +21,10 @@ No installation required. This project uses only Python standard library (3.6+).
 ### Quick Start
 
 ```bash
+# venv
+python3 -m venv .venv
+source .venv/bin/activate
+
 # Process markdown files (default command)
 python links_processor/main.py
 python links_processor/main.py process

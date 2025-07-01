@@ -14453,6 +14453,4187 @@
           "#gpt_engineer"
         ]
       }
+    ],
+    "July 2024": [
+      {
+        "link": "[Let Slip the Robot Dogs of War - WIRED](https://www.wired.com/story/let-slip-the-robot-dogs-of-war/)",
+        "tags": [
+          "#robotics",
+          "#military",
+          "#ai",
+          "#china"
+        ]
+      },
+      {
+        "link": "[Open-LLM performances are plateauing, let's make the leaderboard steep again - a Hugging Face Space by open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/blog)",
+        "tags": [
+          "#llm",
+          "#ai",
+          "#huggingface",
+          "#benchmarking"
+        ]
+      },
+      {
+        "link": "[Stable Diffusion 3's Disastrous Launch Could Change the AI Landscape Forever](https://www.404media.co/stable-diffusion-3s-disastrous-launch-could-change-the-ai-landscape-forever/)",
+        "tags": [
+          "#ai",
+          "#stable_diffusion",
+          "#ethics",
+          "#open_source"
+        ]
+      },
+      {
+        "link": "[Runway - Advancing creativity with artificial intelligence.](https://runwayml.com/)",
+        "tags": [
+          "#ai",
+          "#ai_tool",
+          "#creativity",
+          "#video"
+        ]
+      },
+      {
+        "link": "[Web Check](https://v1.web-check.xyz/)",
+        "tags": [
+          "#security",
+          "#web_tool",
+          "#privacy",
+          "#analysis"
+        ]
+      },
+      {
+        "link": "[Trimodal Nature of Tech Compensation Revisited](https://open.substack.com/pub/pragmaticengineer/p/trimodal-nature-of-tech-compensation)",
+        "tags": [
+          "#career",
+          "#compensation",
+          "#hiring",
+          "#tech"
+        ]
+      },
+      {
+        "link": "[What happened to the artificial-intelligence revolution?](https://archive.ph/2024.07.03-170410/https://www.economist.com/finance-and-economics/2024/07/02/what-happened-to-the-artificial-intelligence-revolution)",
+        "tags": [
+          "#ai",
+          "#economics",
+          "#business",
+          "#tech"
+        ]
+      },
+      {
+        "link": "[Figure + BMW Group's Spartanburg Plant](https://x.com/adcock_brett/status/1807814600169316787)",
+        "tags": [
+          "#robotics",
+          "#manufacturing",
+          "#automation",
+          "#bmw"
+        ]
+      },
+      {
+        "link": "[TTS Arena - a Hugging Face Space by TTS-AGI](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)",
+        "tags": [
+          "#tts",
+          "#ai",
+          "#huggingface",
+          "#audio"
+        ]
+      },
+      {
+        "link": "[presentation on the history of deep learning architectures](https://x.com/omarsar0/status/1803804176780066818)",
+        "tags": [
+          "#deep_learning",
+          "#ai",
+          "#architecture",
+          "#history"
+        ]
+      },
+      {
+        "link": "[BBC - The Fantastic Mr Feynman](https://youtu.be/H9fjhQMsDW4)",
+        "tags": [
+          "#physics",
+          "#richard_feynman",
+          "#science",
+          "#documentary"
+        ]
+      },
+      {
+        "link": "[Feynman: Magnets (and Why?) FUN TO IMAGINE 4/ higher quality version!](https://youtu.be/Q1lL-hXO27Q)",
+        "tags": [
+          "#physics",
+          "#richard_feynman",
+          "#science",
+          "#education"
+        ]
+      },
+      {
+        "link": "[ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)",
+        "tags": [
+          "#software",
+          "#architecture",
+          "#documentation",
+          "#engineering"
+        ]
+      },
+      {
+        "link": "[GPT-3 Is the Best Journal I've Ever Used](https://every.to/chain-of-thought/gpt-3-is-the-best-journal-you-ve-ever-used)",
+        "tags": [
+          "#ai",
+          "#journaling",
+          "#productivity",
+          "#gpt3"
+        ]
+      },
+      {
+        "link": "[Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#tech_trends",
+          "#review"
+        ]
+      },
+      {
+        "link": "[How to Evaluate, Compare, and Optimize LLM Systems - llm-eval-sweep – Weights & Biases](https://wandb.ai/ayush-thakur/llm-eval-sweep/reports/How-to-Evaluate-Compare-and-Optimize-LLM-Systems--Vmlldzo0NzgyMTQz)",
+        "tags": [
+          "#llm",
+          "#evaluation",
+          "#ai",
+          "#wandb"
+        ]
+      },
+      {
+        "link": "[How to Evaluate an LLM, Part 2: Manual Evaluation of Wandbot, our LLM-Powered Docs Assistant - wandbot-eval – Weights & Biases](https://wandb.ai/wandbot/wandbot-eval/reports/How-to-Evaluate-an-LLM-Part-2-Manual-Evaluation-of-Wandbot-our-LLM-Powered-Docs-Assistant--Vmlldzo1NzU4NTM3)",
+        "tags": [
+          "#llm",
+          "#evaluation",
+          "#ai",
+          "#wandb"
+        ]
+      },
+      {
+        "link": "[How to evaluate an LLM Part 3: LLMs evaluating LLMs - wandbot-eval – Weights & Biases](https://wandb.ai/wandbot/wandbot-eval/reports/How-to-evaluate-an-LLM-Part-3-LLMs-evaluating-LLMs--Vmlldzo1NzEzMDcz)",
+        "tags": [
+          "#llm",
+          "#evaluation",
+          "#ai",
+          "#wandb"
+        ]
+      },
+      {
+        "link": "[Security at Startup](https://vadimkravcenko.com/shorts/security-at-startup/)",
+        "tags": [
+          "#security",
+          "#startup",
+          "#engineering_management",
+          "#best_practices"
+        ]
+      },
+      {
+        "link": "[Source Code Analysis Tools - OWASP Foundation](https://owasp.org/www-community/Source_Code_Analysis_Tools)",
+        "tags": [
+          "#security",
+          "#code_analysis",
+          "#tools",
+          "#owasp"
+        ]
+      },
+      {
+        "link": "[Richard Feynman: Quantum Mechanical View of Reality 1](https://youtu.be/ZcpwnozMh2U)",
+        "tags": [
+          "#physics",
+          "#quantum_mechanics",
+          "#richard_feynman",
+          "#science"
+        ]
+      },
+      {
+        "link": "[AI's $600B Question - Sequoia Capital](https://www.sequoiacap.com/article/ais-600b-question/)",
+        "tags": [
+          "#ai",
+          "#economics",
+          "#venture_capital",
+          "#investment"
+        ]
+      },
+      {
+        "link": "[What's 🔥 in Enterprise IT/VC #401 - by Ed Sim](https://www.whatshotit.vc/p/whats-in-enterprise-itvc-401)",
+        "tags": [
+          "#venture_capital",
+          "#enterprise",
+          "#tech_trends",
+          "#newsletter"
+        ]
+      },
+      {
+        "link": "[🔮AI's expensive gap; superintelligent bureaucracy; Copernican trauma; supershoes & BYD's sexy mishap ++ #481 - Exponential View](https://deal.town/exponential-view/ais-expensive-gap-superintelligent-bureaucracy-copernican-trauma-supershoes-and-byds-sexy-mishap-481-FKSTDF57G27)",
+        "tags": [
+          "#ai",
+          "#tech_trends",
+          "#newsletter",
+          "#future"
+        ]
+      },
+      {
+        "link": "[Developers get by with a little help from AI: Stack Overflow Knows code assistant pulse survey results - Stack Overflow](https://stackoverflow.blog/2024/05/29/developers-get-by-with-a-little-help-from-ai-stack-overflow-knows-code-assistant-pulse-survey-results/)",
+        "tags": [
+          "#ai",
+          "#developers",
+          "#stackoverflow",
+          "#survey"
+        ]
+      },
+      {
+        "link": "[GitHub - karpathy/LLM101n: LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)",
+        "tags": [
+          "#llm",
+          "#github",
+          "#andrej_karpathy",
+          "#education"
+        ]
+      },
+      {
+        "link": "[Meta drops AI bombshell: Multi-token prediction models now open for research - VentureBeat](https://venturebeat.com/ai/meta-drops-ai-bombshell-multi-token-prediction-models-now-open-for-research/)",
+        "tags": [
+          "#ai",
+          "#meta",
+          "#research",
+          "#llm"
+        ]
+      },
+      {
+        "link": "[Understanding LLMOps: Large Language Model Operations - Weights & Biases](https://wandb.ai/site/articles/understanding-llmops-large-language-model-operations)",
+        "tags": [
+          "#llm",
+          "#llmops",
+          "#ai",
+          "#operations"
+        ]
+      },
+      {
+        "link": "[Intro to MLOps: Data and Model Versioning - Weights & Biases](https://wandb.ai/site/articles/intro-to-mlops-data-and-model-versioning)",
+        "tags": [
+          "#mlops",
+          "#ai",
+          "#data",
+          "#versioning"
+        ]
+      },
+      {
+        "link": "[What're you lookin' at, ChatGPT? - by Dustin Miller](https://spdustin.substack.com/p/whatre-you-lookin-at-chatgpt)",
+        "tags": [
+          "#llm",
+          "#prompt_engineering",
+          "#ai",
+          "#chatgpt"
+        ]
+      },
+      {
+        "link": "[Generative AI in the Enterprise – O'Reilly](https://www.oreilly.com/radar/generative-ai-in-the-enterprise/)",
+        "tags": [
+          "#ai",
+          "#enterprise",
+          "#business",
+          "#research"
+        ]
+      },
+      {
+        "link": "[How we designed our company for speed - PostHog](https://posthog.com/founders/how-come-we-ship-so-much)",
+        "tags": [
+          "#startup",
+          "#engineering_management",
+          "#productivity",
+          "#culture"
+        ]
+      },
+      {
+        "link": "[Managing software teams: the definitive reading list](https://amontalenti.com/2020/11/28/definitive-reading-list)",
+        "tags": [
+          "#leadership",
+          "#engineering_management",
+          "#reading",
+          "#management"
+        ]
+      },
+      {
+        "link": "[Software design in teams: principles for technical leaders](https://vampwillow.substack.com/p/software-design-in-teams-principles)",
+        "tags": [
+          "#software",
+          "#leadership",
+          "#engineering_management",
+          "#design"
+        ]
+      },
+      {
+        "link": "[The Top 100 Skills of Strategic Leaders](https://www.stratechi.com/leadership-skills/)",
+        "tags": [
+          "#leadership",
+          "#strategy",
+          "#management",
+          "#skills"
+        ]
+      },
+      {
+        "link": "[Organizational Design Playbook by McKinsey Alum - Free PPT Templates](https://www.stratechi.com/organizational-design/)",
+        "tags": [
+          "#leadership",
+          "#organization",
+          "#hr",
+          "#strategy"
+        ]
+      },
+      {
+        "link": "[Mapping the Mind of a Large Language Model \\ Anthropic](https://www.anthropic.com/research/mapping-mind-language-model)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#interpretability",
+          "#anthropic"
+        ]
+      },
+      {
+        "link": "[How AI will reinvent Marketing - by Andrew Chen](https://andrewchen.substack.com/p/ai-and-marketing-what-happens-next)",
+        "tags": [
+          "#ai",
+          "#marketing",
+          "#future",
+          "#personalization"
+        ]
+      },
+      {
+        "link": "[Measuring developer productivity? A response to McKinsey](https://tidyfirst.substack.com/p/measuring-developer-productivity)",
+        "tags": [
+          "#productivity",
+          "#engineering_management",
+          "#measurement",
+          "#metrics"
+        ]
+      },
+      {
+        "link": "[Measuring developer productivity? A response to McKinsey 2](https://tidyfirst.substack.com/p/measuring-developer-productivity-440)",
+        "tags": [
+          "#productivity",
+          "#engineering_management",
+          "#measurement",
+          "#metrics"
+        ]
+      },
+      {
+        "link": "[The age of drone warfare is disrupting the defence industry](https://www.ft.com/content/cf6ded0f-f595-4359-b8f7-273799f1149c)",
+        "tags": [
+          "#military",
+          "#drones",
+          "#defense_industry",
+          "#technology"
+        ]
+      },
+      {
+        "link": "[First Look Inside SpaceX's Starfactory w/ Elon Musk](https://youtu.be/aFqjoCbZ4ik)",
+        "tags": [
+          "#spacex",
+          "#elon_musk",
+          "#manufacturing"
+        ]
+      },
+      {
+        "link": "[The Loss Of Trust In The Democratic Party And Next Steps](https://principles.us13.list-manage.com/track/click)",
+        "tags": [
+          "#politics",
+          "#democratic_party",
+          "#governance",
+          "#trust"
+        ]
+      },
+      {
+        "link": "[🌅 Dawn of the distributed age](https://open.substack.com/pub/exponentialview/p/dawn-of-the-distributed-age)",
+        "tags": [
+          "#energy",
+          "#solar",
+          "#renewable_energy",
+          "#economics"
+        ]
+      },
+      {
+        "link": "[Defeated by A.I., a Legend in the Board Game Go Warns: Get Ready for What's Next - The New York Times](https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html)",
+        "tags": [
+          "#ai",
+          "#go",
+          "#lee_sedol",
+          "#alphago"
+        ]
+      },
+      {
+        "link": "[Andrew Grove, \"Strategic Inflection Points\" - 1996 MIT Industry Leaders Program Lecture](https://youtu.be/LfU2Qu4MzZk)",
+        "tags": [
+          "#leadership",
+          "#strategy",
+          "#intel",
+          "#business"
+        ]
+      },
+      {
+        "link": "[The Hazardous Life of an Undersea Cable](https://youtu.be/AFt9le2ytW0)",
+        "tags": [
+          "#infrastructure",
+          "#internet",
+          "#technology",
+          "#undersea"
+        ]
+      },
+      {
+        "link": "[The Right Kind of Stubborn](https://paulgraham.com/persistence.html)",
+        "tags": [
+          "#persistence",
+          "#resilience",
+          "#mindset",
+          "#paul_graham"
+        ]
+      },
+      {
+        "link": "[How Elon Musk and SpaceX Plan to Colonize Mars - The New York Times](https://www.nytimes.com/2024/07/11/technology/elon-musk-spacex-mars.html)",
+        "tags": [
+          "#spacex",
+          "#mars",
+          "#elon_musk"
+        ]
+      },
+      {
+        "link": "[Marc Andreessen Sends $50K in Bitcoin to an AI Bot on Twitter - AICoin](https://www.aicoin.com/amp/mobile/news/detail)",
+        "tags": [
+          "#ai",
+          "#bitcoin",
+          "#marc_andreessen",
+          "#crypto"
+        ]
+      },
+      {
+        "link": "[Here's how far the Dow has fallen behind the S&P 500 so far in 2024 - Morningstar](https://www.morningstar.com/news/marketwatch/20240709188/heres-how-far-the-dow-has-fallen-behind-the-sp-500-so-far-in-2024)",
+        "tags": [
+          "#investing",
+          "#stocks",
+          "#market_performance",
+          "#finance"
+        ]
+      },
+      {
+        "link": "[Andrej Karpathy announces Eureka Labs AI education company](https://x.com/karpathy/status/1813263734707790301)",
+        "tags": [
+          "#ai",
+          "#education",
+          "#karpathy",
+          "#ai_education"
+        ]
+      },
+      {
+        "link": "[Hartmut Neven: Quantum computers aren't what you think — they're cooler - TED Talk](https://www.ted.com/talks/hartmut_neven_quantum_computers_aren_t_what_you_think_they_re_cooler)",
+        "tags": [
+          "#quantum_computing",
+          "#google",
+          "#future_tech",
+          "#neven"
+        ]
+      },
+      {
+        "link": "[One Week, 7 Major Foundation Model Releases](https://thesequence.substack.com/p/one-week-7-major-foundation-model)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#foundation_models",
+          "#tech_trends"
+        ]
+      },
+      {
+        "link": "[Meet Einstein Service Agent: Salesforce's Autonomous AI Agent to Revolutionize Chatbot Experiences - Salesforce](https://www.salesforce.com/news/stories/einstein-service-agent-announcement/)",
+        "tags": [
+          "#ai",
+          "#salesforce",
+          "#chatbot",
+          "#customer_service"
+        ]
+      },
+      {
+        "link": "[Microsoft Purview Data Governance will be generally available September 1, 2024 - Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2024/07/16/microsoft-purview-data-governance-will-be-generally-available-september-1-2024/)",
+        "tags": [
+          "#microsoft",
+          "#data_governance",
+          "#security",
+          "#compliance"
+        ]
+      },
+      {
+        "link": "[🔮 Tech's right shift; predicting complexity; conservatism failure; longevity, synthetic blood & robots ++ #483](https://www.exponentialview.co/p/ev-483)",
+        "tags": [
+          "#tech_trends",
+          "#politics",
+          "#future",
+          "#newsletter"
+        ]
+      },
+      {
+        "link": "[What's 🔥 in Enterprise ITVC #403 - by Ed Sim](https://www.whatshotit.vc/p/whats-in-enterprise-itvc-403)",
+        "tags": [
+          "#venture_capital",
+          "#enterprise",
+          "#tech_trends",
+          "#newsletter"
+        ]
+      },
+      {
+        "link": "[State of enterprise tech](https://info.insightpartners.com/state-of-enterprise-tech-2024)",
+        "tags": [
+          "#enterprise",
+          "#research",
+          "#tech_trends",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[OpenAI is releasing a cheaper, smarter model - The Verge](https://www.theverge.com/2024/7/18/24200714/openai-new-cheaper-smarter-model-gpt-4o-mini)",
+        "tags": [
+          "#ai",
+          "#openai",
+          "#gpt4o_mini",
+          "#llm"
+        ]
+      },
+      {
+        "link": "[Why Is Chile So Long? - by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)",
+        "tags": [
+          "#geography",
+          "#history",
+          "#chile",
+          "#south_america"
+        ]
+      },
+      {
+        "link": "[📈 Chartpack: The generative AI landscape](https://www.exponentialview.co/p/chartpack-the-generative-ai-landscape)",
+        "tags": [
+          "#ai",
+          "#generative_ai",
+          "#market_analysis",
+          "#investment"
+        ]
+      },
+      {
+        "link": "[The Tech Monopolies Go Vertical - by Doug O'Laughlin](https://www.fabricatedknowledge.com/p/the-tech-monopolies-go-vertical)",
+        "tags": [
+          "#tech",
+          "#vertical_integration",
+          "#semiconductors",
+          "#hardware"
+        ]
+      },
+      {
+        "link": "[Dr. James Hollis: How to Find Your True Purpose & Create Your Best Life](https://youtu.be/SyWC8ZFVxGo)",
+        "tags": [
+          "#psychology",
+          "#jungian",
+          "#meaning",
+          "#personal_growth"
+        ]
+      },
+      {
+        "link": "[Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering/)",
+        "tags": [
+          "#ai",
+          "#prompt_engineering",
+          "#openai",
+          "#documentation"
+        ]
+      },
+      {
+        "link": "[LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy - GoDaddy Blog](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy)",
+        "tags": [
+          "#llm",
+          "#ai",
+          "#customer_support",
+          "#implementation"
+        ]
+      },
+      {
+        "link": "[Artificial Agency raises $16M to use AI to make NPCs feel more realistic in video games - TechCrunch](https://techcrunch.com/2024/07/18/artificial-agency-raises-video-game-npcs-ai/)",
+        "tags": [
+          "#ai",
+          "#gaming",
+          "#npc",
+          "#funding"
+        ]
+      },
+      {
+        "link": "[Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#meta",
+          "#llama"
+        ]
+      },
+      {
+        "link": "[The Besties Take Napa - All-In Special](https://youtu.be/xk4G-ImoSvw)",
+        "tags": [
+          "#podcast",
+          "#all_in",
+          "#tech",
+          "#venture_capital"
+        ]
+      },
+      {
+        "link": "[The Changing Odds of a Great Conflict in America](https://www.linkedin.com/pulse/changing-odds-great-conflict-america-ray-dalio-pwype/)",
+        "tags": [
+          "#politics",
+          "#society",
+          "#ray_dalio",
+          "#conflict"
+        ]
+      },
+      {
+        "link": "[𝘁𝗶𝗻𝘆Pod](https://thetinypod.com/)",
+        "tags": [
+          "#podcast",
+          "#hardware",
+          "#tech",
+          "#gadget"
+        ]
+      },
+      {
+        "link": "[Best Practices with Builder's Figma Plugin - Builder.io](https://www.builder.io/c/docs/figma-best-practices)",
+        "tags": [
+          "#design",
+          "#figma",
+          "#web_development",
+          "#tools"
+        ]
+      },
+      {
+        "link": "[Ukrainians strip out Tesla batteries to keep the lights on](https://www.ft.com/content/02e8e706-c15c-44aa-83fe-1a94f5d608b8)",
+        "tags": [
+          "#ukraine",
+          "#energy",
+          "#tesla",
+          "#innovation"
+        ]
+      },
+      {
+        "link": "[McKinsey technology trends outlook 2024 - McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech#/)",
+        "tags": [
+          "#tech_trends",
+          "#mckinsey",
+          "#research",
+          "#future"
+        ]
+      },
+      {
+        "link": "[Typical First Years of Startup Engineering Leadership](https://marcgg.com/blog/2024/07/17/startup-technical-leadership/)",
+        "tags": [
+          "#leadership",
+          "#startup",
+          "#engineering_management",
+          "#career"
+        ]
+      },
+      {
+        "link": "[Solid-state batteries are finally making their way out of the lab](https://www.freethink.com/hard-tech/future-of-solid-state-batteries)",
+        "tags": [
+          "#batteries",
+          "#energy",
+          "#technology",
+          "#innovation"
+        ]
+      }
+    ],
+    "August 2024": [
+      {
+        "link": "[The State of Chinese AI](mdc:https://press.airstreet.com/p/the-state-of-chinese-ai)",
+        "tags": [
+          "#ai",
+          "#china",
+          "#technology"
+        ]
+      },
+      {
+        "link": "[Flowbite - UI component library](mdc:https://flowbite.com/pro/)",
+        "tags": [
+          "#ui",
+          "#development",
+          "#components"
+        ]
+      },
+      {
+        "link": "[How I Computer in 2024 · Jon Seager](mdc:https://jnsgr.uk/2024/07/how-i-computer-in-2024/)",
+        "tags": [
+          "#productivity",
+          "#setup",
+          "#tools"
+        ]
+      },
+      {
+        "link": "[FLUX.1 [dev] - AI Playground - fal.ai](mdc:https://fal.ai/models/fal-ai/flux/dev)",
+        "tags": [
+          "#ai",
+          "#tools",
+          "#development"
+        ]
+      },
+      {
+        "link": "[My Obsidian Note-Taking Workflow - ssp.sh](mdc:https://www.ssp.sh/blog/obsidian-note-taking-workflow/)",
+        "tags": [
+          "#productivity",
+          "#obsidian",
+          "#note_taking"
+        ]
+      },
+      {
+        "link": "[Running One-man SaaS, 9 Years In – Healthchecks.io](mdc:https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/)",
+        "tags": [
+          "#saas",
+          "#entrepreneurship",
+          "#business"
+        ]
+      },
+      {
+        "link": "[What is Conscious Planet? - Sadhguru in Conversation with Naval Ravikant](mdc:https://youtu.be/2S5Vb3srhlA)",
+        "tags": [
+          "#philosophy",
+          "#environment",
+          "#interview"
+        ]
+      },
+      {
+        "link": "[Meta's new AI Studio helps you create your own custom AI chatbots - ZDNET](mdc:https://www.zdnet.com/article/metas-new-ai-studio-helps-you-create-your-own-custom-ai-chatbots/#ftag=RSSbaffb68)",
+        "tags": [
+          "#ai",
+          "#meta",
+          "#chatbots"
+        ]
+      },
+      {
+        "link": "[AI Studio](mdc:https://ai.meta.com/ai-studio/)",
+        "tags": [
+          "#ai",
+          "#meta",
+          "#tools"
+        ]
+      },
+      {
+        "link": "[AI Is a Services Revolution - by Rex Woodbury](mdc:https://www.digitalnative.tech/p/ai-is-a-services-revolution)",
+        "tags": [
+          "#ai",
+          "#business",
+          "#technology"
+        ]
+      },
+      {
+        "link": "[Khemaridh Hy on Twitter about AI](mdc:https://x.com/khemaridh/status/1814433334367531295)",
+        "tags": [
+          "#ai",
+          "#twitter"
+        ]
+      },
+      {
+        "link": "[Naval Ravikant - The 4 Secrets To Be GREAT At Anything](mdc:https://youtu.be/TZVCgntStKE)",
+        "tags": [
+          "#productivity",
+          "#personal_growth",
+          "#naval_ravikant"
+        ]
+      },
+      {
+        "link": "[🧐 Four insights from my trip to Peru - by Azeem Azhar](mdc:https://www.exponentialview.co/p/four-insights-from-my-trip-to-peru)",
+        "tags": [
+          "#travel",
+          "#insights",
+          "#peru"
+        ]
+      },
+      {
+        "link": "[There are 2,000-plus dead rockets in orbit—here's a rare view of one - Ars Technica](mdc:https://arstechnica.com/space/2024/08/there-are-2000-plus-dead-rockets-in-orbit-heres-a-rare-view-of-one-of-them/)",
+        "tags": [
+          "#space",
+          "#technology",
+          "#environment"
+        ]
+      },
+      {
+        "link": "[GitHub Models gives developers new power to experiment with Gen AI - VentureBeat](mdc:https://venturebeat.com/ai/github-models-gives-developers-new-power-to-experiment-with-gen-ai/)",
+        "tags": [
+          "#ai",
+          "#github",
+          "#development"
+        ]
+      },
+      {
+        "link": "[Asana for Agile and Scrum – Asana Help Center](mdc:https://help.asana.com/hc/en-us/articles/17964916348187-Asana-for-Agile-and-Scrum)",
+        "tags": [
+          "#productivity",
+          "#agile",
+          "#project_management"
+        ]
+      },
+      {
+        "link": "[OpenProject - Open Source Project Management Software](mdc:https://www.openproject.org/)",
+        "tags": [
+          "#project_management",
+          "#open_source",
+          "#tools"
+        ]
+      },
+      {
+        "link": "[How Asana works – Asana Help Center](mdc:https://help.asana.com/hc/en-us/articles/14250783001627-How-Asana-works)",
+        "tags": [
+          "#productivity",
+          "#project_management",
+          "#tools"
+        ]
+      },
+      {
+        "link": "[SWE-bench](mdc:https://www.swebench.com/)",
+        "tags": [
+          "#development",
+          "#benchmarking",
+          "#software"
+        ]
+      },
+      {
+        "link": "[GitHub - successful study prompt of the year](mdc:https://github.com/successfulstudy/promptoftheyear)",
+        "tags": [
+          "#github",
+          "#ai",
+          "#prompt_engineering"
+        ]
+      },
+      {
+        "link": "[How we built \"Mistral 7B Fine-Tune Optimized,\" the best 7B model for fine-tuning - OpenPipe](mdc:https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#development"
+        ]
+      },
+      {
+        "link": "[macOS 15.1 Beta 1 - Apple Intelligence Backend Prompts : rMacOSBeta](mdc:https://www.reddit.com/r/MacOSBeta/comments/1ehivcp/macos_151_beta_1_apple_intelligence_backend/)",
+        "tags": [
+          "#apple",
+          "#ai",
+          "#macos"
+        ]
+      },
+      {
+        "link": "[An Analysis of Function Point Trends - QSM](mdc:https://www.qsm.com/articles/analysis-function-point-trends)",
+        "tags": [
+          "#development",
+          "#software",
+          "#metrics"
+        ]
+      },
+      {
+        "link": "[Ben Franklin: The Thirteen Necessary Virtues](mdc:https://fs.blog/the-thirteen-virtues/)",
+        "tags": [
+          "#philosophy",
+          "#personal_growth",
+          "#history"
+        ]
+      },
+      {
+        "link": "[🤔 What bosses miss about AI - by Azeem Azhar](mdc:https://www.exponentialview.co/p/what-bosses-miss-about-ai)",
+        "tags": [
+          "#ai",
+          "#leadership",
+          "#business"
+        ]
+      },
+      {
+        "link": "[How much do ChatGPT versions affect real-world performance? - Voiceflow](mdc:https://www.voiceflow.com/blog/how-much-do-chatgpt-versions-affect-real-world-performance)",
+        "tags": [
+          "#ai",
+          "#chatgpt",
+          "#performance"
+        ]
+      },
+      {
+        "link": "[The First Fitbit: How the Fitness Tracker Was Engineered - IEEE Spectrum](mdc:https://spectrum.ieee.org/fitbit)",
+        "tags": [
+          "#hardware",
+          "#engineering",
+          "#health"
+        ]
+      },
+      {
+        "link": "[Palantir Artificial Intelligence Platform](mdc:https://www.palantir.com/platforms/aip/)",
+        "tags": [
+          "#ai",
+          "#palantir",
+          "#enterprise"
+        ]
+      },
+      {
+        "link": "[Deploying Full Spectrum AI in Days: How AIP Bootcamps Work - by Palantir - Palantir Blog](mdc:https://blog.palantir.com/deploying-full-spectrum-ai-in-days-how-aip-bootcamps-work-21829ec8d560)",
+        "tags": [
+          "#ai",
+          "#palantir",
+          "#enterprise"
+        ]
+      },
+      {
+        "link": "[What's 🔥 in Enterprise IT/VC #406 - by Ed Sim](mdc:https://www.whatshotit.vc/p/whats-in-enterprise-itvc-406)",
+        "tags": [
+          "#venture_capital",
+          "#enterprise",
+          "#technology"
+        ]
+      },
+      {
+        "link": "[85 of the Most Promising Startups of 2024, According to Top VCs - Business Insider](mdc:https://www.businessinsider.com/most-promising-startups-2024-according-top-vcs-2024-8#datavolo-helps-generative-ai-models-access-unstructured-data-22)",
+        "tags": [
+          "#startups",
+          "#venture_capital",
+          "#business"
+        ]
+      },
+      {
+        "link": "[A Palantir Primer on the EU AI Act - Palantir Blog](mdc:https://blog.palantir.com/a-palantir-primer-on-the-eu-ai-act-f8fad2ec8f93)",
+        "tags": [
+          "#ai",
+          "#regulation",
+          "#palantir"
+        ]
+      },
+      {
+        "link": "[The Revival of the Swiss Watch Industry](mdc:https://youtu.be/nyDbWIKDF1I)",
+        "tags": [
+          "#business",
+          "#watches",
+          "#manufacturing"
+        ]
+      },
+      {
+        "link": "[Palantir CEO Alex Karp Opening Remarks - AIPCon 4](mdc:https://youtu.be/cHyf9XpYKxA)",
+        "tags": [
+          "#ai",
+          "#palantir",
+          "#leadership"
+        ]
+      },
+      {
+        "link": "[LLM progress is slowing — what will it mean for AI? - VentureBeat](mdc:https://venturebeat.com/ai/llm-progress-is-slowing-what-will-it-mean-for-ai/)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#technology"
+        ]
+      },
+      {
+        "link": "[Chatbot maker Replika says it's okay if humans end up in relationships with AI - The Verge](mdc:https://www.theverge.com/24216748/replika-ceo-eugenia-kuyda-ai-companion-chatbots-dating-friendship-decoder-podcast-interview)",
+        "tags": [
+          "#ai",
+          "#ethics",
+          "#relationships"
+        ]
+      },
+      {
+        "link": "[How GitHub harnesses AI to transform customer feedback into action - The GitHub Blog](mdc:https://github.blog/ai-and-ml/machine-learning/how-github-harnesses-ai-to-transform-customer-feedback-into-action/)",
+        "tags": [
+          "#ai",
+          "#github",
+          "#customer_experience"
+        ]
+      },
+      {
+        "link": "[Social media for startups: A practical guide - a16z crypto](mdc:https://a16zcrypto.com/posts/article/social-media-for-startups-guide/)",
+        "tags": [
+          "#startups",
+          "#social_media",
+          "#marketing"
+        ]
+      },
+      {
+        "link": "[Z Fellows on Twitter](mdc:https://x.com/zfellows_/status/1823171301181096001)",
+        "tags": [
+          "#startups",
+          "#entrepreneurship"
+        ]
+      },
+      {
+        "link": "[AI at Work Is Here. Now Comes the Hard Part](mdc:https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part)",
+        "tags": [
+          "#ai",
+          "#work",
+          "#microsoft"
+        ]
+      },
+      {
+        "link": "[The Top 100 Gen AI Consumer Apps - 3rd Edition - Andreessen Horowitz](mdc:https://a16z.com/100-gen-ai-apps-3/)",
+        "tags": [
+          "#ai",
+          "#apps",
+          "#venture_capital"
+        ]
+      },
+      {
+        "link": "[Hard Work DOESN'T Equal Success…THIS Does... - Former Netflix CEO](mdc:https://youtu.be/ogdgkeQJs6s)",
+        "tags": [
+          "#leadership",
+          "#success",
+          "#business"
+        ]
+      },
+      {
+        "link": "[Ed Sim on Twitter about AI](mdc:https://x.com/edsim/status/1818436881454936164)",
+        "tags": [
+          "#ai",
+          "#venture_capital"
+        ]
+      },
+      {
+        "link": "[The invisible problem with sending people to Mars - The Verge](mdc:https://www.theverge.com/2024/8/16/24221102/mars-colony-space-radiation-cosmic-ray-human-biology)",
+        "tags": [
+          "#space",
+          "#science",
+          "#mars"
+        ]
+      },
+      {
+        "link": "[Garmin Fenix 8 In-Depth Review: 23 Things You Should Know!](mdc:https://youtu.be/M8kR2A_3n0A)",
+        "tags": [
+          "#fitness",
+          "#technology",
+          "#wearables"
+        ]
+      },
+      {
+        "link": "[System Prompts - Anthropic](mdc:https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024)",
+        "tags": [
+          "#ai",
+          "#claude",
+          "#prompt_engineering"
+        ]
+      },
+      {
+        "link": "[Top AI Tools List - OpenTools](mdc:https://opentools.ai/)",
+        "tags": [
+          "#ai",
+          "#tools",
+          "#resources"
+        ]
+      },
+      {
+        "link": "[Nvidia faces looming test on use of chips](mdc:https://www.ft.com/content/94650ec1-521e-4e1c-ac3b-f18baa22e766)",
+        "tags": [
+          "#nvidia",
+          "#chips"
+        ]
+      },
+      {
+        "link": "[Ryan Holiday of Daily Stoic on the Fascinating Life of Marcus Aurelius](mdc:https://youtu.be/YkLgUNLxEVQ)",
+        "tags": [
+          "#philosophy",
+          "#stoicism",
+          "#history",
+          "#marcus_aurelius"
+        ]
+      }
+    ],
+    "September 2024": [
+      {
+        "link": "[Founder Mode](https://paulgraham.com/foundermode.html)",
+        "tags": [
+          "#paul_graham",
+          "#founder",
+          "#startup",
+          "#leadership"
+        ]
+      },
+      {
+        "link": "[We Raised $60M](https://www.cursor.com/blog/series-a)",
+        "tags": [
+          "#ai",
+          "#startup",
+          "#funding",
+          "#editor",
+          "#cursor"
+        ]
+      },
+      {
+        "link": "[The 100 Most Influential People in AI 2024 - TIME](https://time.com/collection/time100-ai-2024/)",
+        "tags": [
+          "#ai",
+          "#time",
+          "#leadership"
+        ]
+      },
+      {
+        "link": "[The Secret to Love Is Just Kindness - The Atlantic](https://archive.is/2024.03.12-072741/https://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)",
+        "tags": [
+          "#psychology",
+          "#relationships",
+          "#kindness"
+        ]
+      },
+      {
+        "link": "[x.com](https://x.com/shreyas/status/1830767630917214318)",
+        "tags": [
+          "#founder",
+          "#leadership",
+          "#product_management",
+          "#startup"
+        ]
+      },
+      {
+        "link": "[Bill Gates has a good feeling about AI: a Q&A - The Verge](https://www.theverge.com/24235730/bill-gates-ai-climate-change-energy-tech-microsoft-netflix)",
+        "tags": [
+          "#bill_gates",
+          "#ai",
+          "#climate_change",
+          "#microsoft"
+        ]
+      },
+      {
+        "link": "[Words on Founder Mode - Rands in Repose](https://randsinrepose.com/archives/words-on-founder-mode/)",
+        "tags": [
+          "#founder",
+          "#leadership",
+          "#management",
+          "#rands",
+          "#culture"
+        ]
+      },
+      {
+        "link": "[Nemesis - The Umami Theory of Value](https://nemesis.global/memos/umami)",
+        "tags": [
+          "#business",
+          "#strategy",
+          "#culture",
+          "#economics"
+        ]
+      },
+      {
+        "link": "[Transforming IT from cost center to catalyst - CIO](https://www.cio.com/article/3511130/transforming-it-from-cost-center-to-catalyst.html)",
+        "tags": [
+          "#it_management",
+          "#cio",
+          "#leadership",
+          "#digital_transformation",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[In conversation with Sergey Brin - All-In Summit 2024](https://youtu.be/XzK9bx3CSPE)",
+        "tags": [
+          "#ai",
+          "#sergey_brin",
+          "#google",
+          "#all_in_summit",
+          "#robotics",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[Travis Kalanick - All-In Summit 2024](https://youtu.be/8j7lwauJN2s)",
+        "tags": [
+          "#travis_kalanick",
+          "#uber",
+          "#cloud_kitchens",
+          "#startup",
+          "#entrepreneurship",
+          "#strategy",
+          "#podcast",
+          "#all_in_summit"
+        ]
+      },
+      {
+        "link": "[Elon Musk - All-In Summit 2024](https://youtu.be/pSFvOUswFwA)",
+        "tags": [
+          "#elon_musk",
+          "#ai",
+          "#robotics",
+          "#tesla",
+          "#spacex",
+          "#all_in_summit",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[Dealing with Decline: Intel, Walgreens and Starbucks put to the test!](https://youtu.be/g3VT_cclr4U)",
+        "tags": [
+          "#aswath_damodaran",
+          "#investing",
+          "#finance",
+          "#strategy",
+          "#intel",
+          "#starbucks",
+          "#walgreens"
+        ]
+      },
+      {
+        "link": "[Enhance Customer Chat by Buffering Messages with Twilio and Redis - n8n workflow template](https://n8n.io/workflows/2346-enhance-customer-chat-by-buffering-messages-with-twilio-and-redis/)",
+        "tags": [
+          "#n8n",
+          "#workflow",
+          "#twilio",
+          "#redis",
+          "#openai",
+          "#ai_agent"
+        ]
+      },
+      {
+        "link": "[Advanced Telegram Bot, Ticketing System, LiveChat, User Management, Broadcasting - n8n workflow template](https://n8n.io/workflows/2045-advanced-telegram-bot-ticketing-system-livechat-user-management-broadcasting/)",
+        "tags": [
+          "#n8n",
+          "#workflow",
+          "#telegram",
+          "#redis",
+          "#bot",
+          "#ticketing_system",
+          "#live_chat"
+        ]
+      },
+      {
+        "link": "[All-In Summit 2024: A Conversation with Marc Benioff](https://www.youtube.com/watch?v=3-rYy622A4E)",
+        "tags": [
+          "#marc_benioff",
+          "#salesforce",
+          "#ai",
+          "#enterprise_software",
+          "#philanthropy",
+          "#all_in_summit",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[All-In Summit 2024: A Conversation with Peter Thiel](https://www.youtube.com/watch?v=sS-4n-4E2Zc)",
+        "tags": [
+          "#peter_thiel",
+          "#ai",
+          "#geopolitics",
+          "#china",
+          "#us_economy",
+          "#investing",
+          "#all_in_summit",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[All-In Summit 2024: A Conversation with J.D. Vance](https://www.youtube.com/watch?v=RdgP7G5YyZw)",
+        "tags": [
+          "#jd_vance",
+          "#politics",
+          "#us_economy",
+          "#innovation",
+          "#china",
+          "#immigration",
+          "#all_in_summit",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[Fast and reliable end-to-end testing for modern web apps - Playwright](https://playwright.dev/)",
+        "tags": [
+          "#testing",
+          "#e2e",
+          "#automation",
+          "#web_development",
+          "#microsoft",
+          "#playwright"
+        ]
+      },
+      {
+        "link": "[Inside OpenAI: How does ChatGPT Ship So Quickly?](https://newsletter.pragmaticengineer.com/p/inside-openai-how-does-chatgpt-ship)",
+        "tags": [
+          "#openai",
+          "#chatgpt",
+          "#engineering_culture",
+          "#product_management",
+          "#scaling",
+          "#ai",
+          "#gergely_orosz"
+        ]
+      },
+      {
+        "link": "[OpenAI Platform](https://platform.openai.com/docs/guides/reasoning/use-case-examples)",
+        "tags": [
+          "#openai",
+          "#ai",
+          "#llm",
+          "#api",
+          "#reasoning",
+          "#prompt_engineering",
+          "#function_calling"
+        ]
+      },
+      {
+        "link": "[Simple Steps to Improve Your Metabolism - Dr. Casey Means & Dr. Andrew Huberman](https://youtu.be/vWTx9TZimB8)",
+        "tags": [
+          "#metabolism",
+          "#health",
+          "#longevity",
+          "#casey_means",
+          "#andrew_huberman",
+          "#nutrition",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[Salesforce unleashes AI agents for sales, marketing and customer service](https://www.axios.com/2024/09/12/salesforce-ai-agents-atlas-reasoning)",
+        "tags": [
+          "#salesforce",
+          "#ai",
+          "#ai_agent",
+          "#enterprise_software",
+          "#crm",
+          "#marketing",
+          "#sales"
+        ]
+      },
+      {
+        "link": "[GitHub - anthropics/anthropic-quickstarts: A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API](https://github.com/anthropics/anthropic-quickstarts/)",
+        "tags": [
+          "#anthropic",
+          "#claude",
+          "#ai",
+          "#llm",
+          "#api",
+          "#sdk",
+          "#python",
+          "#typescript",
+          "#github",
+          "#quickstart"
+        ]
+      },
+      {
+        "link": "[Porter's five forces analysis - Wikipedia](https://en.m.wikipedia.org/wiki/Porter%27s_five_forces_analysis)",
+        "tags": [
+          "#strategy",
+          "#business",
+          "#management",
+          "#michael_porter",
+          "#competitve_analysis"
+        ]
+      },
+      {
+        "link": "[Porter's Value Chain: Your Map To Business Success](https://getlucidity.com/strategy-resources/guide-to-porters-value-chain/)",
+        "tags": [
+          "#value_chain",
+          "#michael_porter",
+          "#strategy",
+          "#business",
+          "#competitive_advantage"
+        ]
+      },
+      {
+        "link": "[Supercharge your projects with the most powerful AI audio API - ElevenLabs](https://elevenlabs.io/api)",
+        "tags": [
+          "#ai",
+          "#audio",
+          "#tts",
+          "#api",
+          "#elevenlabs"
+        ]
+      },
+      {
+        "link": "[Inside Stripe's Engineering Culture, with Will Larson](https://www.pragmaticengineer.com/post/inside-stripes-engineering-culture-with-will-larson/)",
+        "tags": [
+          "#stripe",
+          "#engineering_culture",
+          "#fintech",
+          "#gergely_orosz",
+          "#product_management"
+        ]
+      },
+      {
+        "link": "[Scaling ChatGPT—from MVP to Billions of Users](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt)",
+        "tags": [
+          "#openai",
+          "#chatgpt",
+          "#scaling",
+          "#architecture",
+          "#gergely_orosz"
+        ]
+      },
+      {
+        "link": "[The ultimate guide to contribution profit for fintechs](https://www.bvp.com/atlas/the-ultimate-guide-to-contribution-profit-for-fintechs)",
+        "tags": [
+          "#fintech",
+          "#vc",
+          "#startup",
+          "#metrics",
+          "#bvp"
+        ]
+      },
+      {
+        "link": "[How I used AI to do my job for me](https://www.youtube.com/watch?v=is682a_oWigne)",
+        "tags": [
+          "#ai",
+          "#automation",
+          "#productivity",
+          "#career"
+        ]
+      },
+      {
+        "link": "[How MrBeast's Viral Production Guide Is a Leadership Masterclass](https://simonwillison.net/2024/Sep/14/mrbeast-viral-production-guide/)",
+        "tags": [
+          "#mrbeast",
+          "#youtube",
+          "#strategy",
+          "#management"
+        ]
+      },
+      {
+        "link": "[AI Is About To Make Startup Valuations Even More Opaque](https://www.tmt.com/p/ai-startup-valuations-opaque)",
+        "tags": [
+          "#ai",
+          "#startup",
+          "#valuation",
+          "#venture_capital",
+          "#tom_tunguz"
+        ]
+      },
+      {
+        "link": "[If Generative AI Is The New Operating System, Agents Are The New Apps](https://www.forbes.com/sites/janakirammsv/2024/09/25/if-generative-ai-is-the-new-operating-system-agents-are-the-new-apps/)",
+        "tags": [
+          "#ai",
+          "#ai_agent",
+          "#llm",
+          "#strategy",
+          "#operating_system"
+        ]
+      },
+      {
+        "link": "[Don't Overlook The Mid-Stage Startup Plateau](https://news.crunchbase.com/ai-and-the-cloud/mid-stage-startup-plateau-crossover-investors-slowing/)",
+        "tags": [
+          "#startup",
+          "#funding",
+          "#venture_capital",
+          "#growth_stage",
+          "#series_b",
+          "#series_c"
+        ]
+      },
+      {
+        "link": "[What Is a Good Gross Margin for a SaaS Company?](https://www.toptal.com/finance/profitability-analysis/saas-gross-margin)",
+        "tags": [
+          "#saas",
+          "#finance",
+          "#metrics",
+          "#profitability",
+          "#gross_margin"
+        ]
+      },
+      {
+        "link": "[Cracked It!: How to Solve Big Problems and Sell Solutions Like a Top Strategy Consultant](https://www.goodreads.com/book/show/36390823-cracked-it)",
+        "tags": [
+          "#problem_solving",
+          "#strategy",
+          "#consulting",
+          "#framework",
+          "#book"
+        ]
+      },
+      {
+        "link": "[Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy - The Verge](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia/)",
+        "tags": [
+          "#ai",
+          "#hardware",
+          "#gpu",
+          "#semiconductor",
+          "#strategy"
+        ]
+      },
+      {
+        "link": "[Vercel](https://vercel.com/new)",
+        "tags": [
+          "#vercel",
+          "#deployment",
+          "#frontend",
+          "#next_js",
+          "#ci_cd"
+        ]
+      },
+      {
+        "link": "[GitHub - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.](https://github.com/manuelernestog/astrofy)",
+        "tags": [
+          "#github",
+          "#astro",
+          "#tailwindcss",
+          "#portfolio",
+          "#template"
+        ]
+      },
+      {
+        "link": "[Bureaucrat mode - by Andrew Chen - @andrewchen](https://andrewchen.substack.com/p/bureaucrat-mode)",
+        "tags": [
+          "#leadership",
+          "#management",
+          "#culture",
+          "#startup",
+          "#andrew_chen"
+        ]
+      },
+      {
+        "link": "[QA Wolf Docs](https://qawolf.notion.site/QA-Wolf-Docs-4d30e49cb8054beaa00a9b7640d22d34)",
+        "tags": [
+          "#qa",
+          "#testing",
+          "#automation",
+          "#e2e",
+          "#playwright"
+        ]
+      },
+      {
+        "link": "[OpenAI's chief research officer has left following CTO Mira Murati's exit - TechCrunch](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/)",
+        "tags": [
+          "#openai",
+          "#ai",
+          "#leadership",
+          "#management",
+          "#techcrunch"
+        ]
+      },
+      {
+        "link": "[AI start-ups generate money faster than past hyped tech companies](https://www.ft.com/content/a9a192e3-bfbc-461e-a4f3-112e63d0bb33)",
+        "tags": [
+          "#ai",
+          "#startup",
+          "#finance",
+          "#venture_capital",
+          "#ft"
+        ]
+      },
+      {
+        "link": "[Strengthen & Pain-Proof Your Back: The McGill Method - Dr. Andrew Huberman](https://www.hubermanlab.com/episode/strengthen-pain-proof-your-back-the-mcgill-method)",
+        "tags": [
+          "#health",
+          "#longevity",
+          "#andrew_huberman",
+          "#stuart_mcgill",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[How Marble works](mdc:https://marble.dev/docs/how-marble-works)",
+        "tags": [
+          "#marblejs",
+          "#rxjs",
+          "#testing",
+          "#nodejs",
+          "#typescript"
+        ]
+      },
+      {
+        "link": "[OpenAI's $150B conversion, Meta's AR glasses, Blue-collar boom, Risk of nuclear war](https://youtu.be/43Rd-y2xe84)",
+        "tags": [
+          "#openai",
+          "#meta",
+          "#geopolitics",
+          "#all_in_podcast",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[Testing with AI - Reflect](https://reflect.run/articles/testing-with-ai/)",
+        "tags": [
+          "#ai",
+          "#testing",
+          "#automation",
+          "#no_code",
+          "#e2e"
+        ]
+      },
+      {
+        "link": "[All-In Podcast: E195: OpenAI's $150B conversion, Meta's AR glasses, job market update, geopolitical risks & more](https://www.youtube.com/watch?v=s4x_8T6x9as)",
+        "tags": [
+          "#openai",
+          "#meta",
+          "#geopolitics",
+          "#all_in_podcast",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[Edit a test case - Octomind Docs](https://octomind.dev/docs/edit-test-case)",
+        "tags": [
+          "#octomind",
+          "#ai",
+          "#testing",
+          "#automation",
+          "#e2e",
+          "#playwright"
+        ]
+      },
+      {
+        "link": "[Octomind Pricing](https://www.octomind.dev/pricing)",
+        "tags": [
+          "#octomind",
+          "#pricing",
+          "#saas",
+          "#testing",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[Revolutionizing Playwright Tests with AI](https://ray.run/blog/auto-playwright)",
+        "tags": [
+          "#ai",
+          "#playwright",
+          "#testing",
+          "#automation",
+          "#openai"
+        ]
+      },
+      {
+        "link": "[lucgaganauto-playwright: Automating Playwright steps using ChatGPT.](https://github.com/lucgagan/auto-playwright)",
+        "tags": [
+          "#github",
+          "#ai",
+          "#playwright",
+          "#testing",
+          "#automation",
+          "#chatgpt"
+        ]
+      },
+      {
+        "link": "[Postbot - Postman API Platform](https://www.postman.com/product/postbot/)",
+        "tags": [
+          "#postman",
+          "#ai",
+          "#api",
+          "#testing",
+          "#automation"
+        ]
+      },
+      {
+        "link": "[What's 🔥 in Enterprise ITVC #413 - by Ed Sim](https://www.whatshotit.vc/p/whats-in-enterprise-itvc-413)",
+        "tags": [
+          "#newsletter",
+          "#vc",
+          "#startup",
+          "#ai",
+          "#enterprise_software"
+        ]
+      },
+      {
+        "link": "[Tensor Labbet · A blog of deep learnings](https://tensorlabbet.com/)",
+        "tags": [
+          "#blog",
+          "#ai",
+          "#deep_learning",
+          "#llm",
+          "#research"
+        ]
+      },
+      {
+        "link": "[Flexible software cost capitalization reporting - Swarmia](https://www.swarmia.com/product/software-capitalization/)",
+        "tags": [
+          "#dora",
+          "#engineering_metrics",
+          "#productivity",
+          "#finance",
+          "#capex"
+        ]
+      },
+      {
+        "link": "[Rapidata](https://www.rapidata.ai/)",
+        "tags": [
+          "#data_labeling",
+          "#ai",
+          "#rlhf",
+          "#human_in_the_loop",
+          "#crowdsourcing"
+        ]
+      },
+      {
+        "link": "[Transformation Engagements - Silicon Valley Product Group : Silicon Valley Product Group](https://www.svpg.com/transformation-engagements/)",
+        "tags": [
+          "#svpg",
+          "#product_management",
+          "#leadership",
+          "#coaching",
+          "#transformation"
+        ]
+      },
+      {
+        "link": "[When To Do What You Love](https://paulgraham.com/when.html)",
+        "tags": [
+          "#paul_graham",
+          "#startup",
+          "#career",
+          "#life_advice"
+        ]
+      },
+      {
+        "link": "[Every White-Collar Role Will Have An AI Copilot. Then An AI Agent. - Andreessen Horowitz](https://a16z.com/ai-copilot-ai-agent-white-collar-roles/)",
+        "tags": [
+          "#ai",
+          "#ai_agent",
+          "#a16z",
+          "#future_of_work",
+          "#automation"
+        ]
+      },
+      {
+        "link": "[Product Strategy Features: From Vision To Delivery - airfocus](https://airfocus.com/product/)",
+        "tags": [
+          "#product_management",
+          "#strategy",
+          "#roadmap",
+          "#vision"
+        ]
+      },
+      {
+        "link": "[How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)",
+        "tags": [
+          "#ai",
+          "#productivity",
+          "#workflow",
+          "#tool"
+        ]
+      },
+      {
+        "link": "[Your AI Product Needs Evals – Hamel's Blog](https://hamel.dev/blog/posts/evals/)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#testing",
+          "#product_management"
+        ]
+      },
+      {
+        "link": "[From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy](https://ieeexplore.ieee.org/ielx7/6287639/10005208/10198233.pdf)",
+        "tags": [
+          "#ai",
+          "#cybersecurity",
+          "#privacy",
+          "#chatgpt",
+          "#research"
+        ]
+      },
+      {
+        "link": "[VASA-1 Research Project by Microsoft](https://www.microsoft.com/en-us/research/project/vasa-1/)",
+        "tags": [
+          "#microsoft",
+          "#research",
+          "#ai",
+          "#avatar",
+          "#multimodal"
+        ]
+      },
+      {
+        "link": "[Schema-Controlled Automated Knowledge Graphs on Medium](https://medium.com/enterprise-rag/introducing-schema-controlled-automated-knowledge-graphs-02c7f00c3cf3)",
+        "tags": [
+          "#knowledge_graph",
+          "#rag",
+          "#ai",
+          "#schema",
+          "#enterprise"
+        ]
+      },
+      {
+        "link": "[Quantifying GitHub Copilot's Impact in the Enterprise](https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)",
+        "tags": [
+          "#github",
+          "#copilot",
+          "#ai",
+          "#developer_productivity",
+          "#research"
+        ]
+      },
+      {
+        "link": "[LangChain API Use Cases](https://python.langchain.com/v0.1/docs/use_cases/apis/)",
+        "tags": [
+          "#langchain",
+          "#python",
+          "#api",
+          "#llm",
+          "#ai_agent"
+        ]
+      },
+      {
+        "link": "[Function Calling Applications - Prompting Guide](https://www.promptingguide.ai/applications/function_calling)",
+        "tags": [
+          "#prompt_engineering",
+          "#function_calling",
+          "#llm",
+          "#ai",
+          "#api"
+        ]
+      },
+      {
+        "link": "[Firejet](https://www.firejet.io)",
+        "tags": [
+          "#figma",
+          "#frontend",
+          "#ai_tool",
+          "#developer_tool",
+          "#design_to_code"
+        ]
+      },
+      {
+        "link": "[Gartner's AI Hype Cycle Discussion](https://olivermolander.medium.com/gartners-ai-hype-cycle-way-passed-its-due-date-and-are-we-entering-a-classical-ml-winter-7c09041c72c4)",
+        "tags": [
+          "#gartner",
+          "#hype_cycle",
+          "#ai",
+          "#ml",
+          "#investment"
+        ]
+      },
+      {
+        "link": "[MAIVA Chapter 1: Change Management Approach by Microsoft](https://microsoft.github.io/dstoolkit-maiva/MAIVA_Chapter_1.html#approach-to-change-management)",
+        "tags": [
+          "#microsoft",
+          "#ai",
+          "#change_management",
+          "#project_management",
+          "#enterprise"
+        ]
+      },
+      {
+        "link": "[Glean Solutions for Engineering](https://www.glean.com/solutions/engineering)",
+        "tags": [
+          "#glean",
+          "#enterprise_search",
+          "#ai",
+          "#developer_productivity"
+        ]
+      },
+      {
+        "link": "[GraphRAG by Microsoft on GitHub](https://github.com/microsoft/graphrag)",
+        "tags": [
+          "#github",
+          "#microsoft",
+          "#rag",
+          "#knowledge_graph",
+          "#llm",
+          "#ai"
+        ]
+      }
+    ],
+    "October 2024": [
+      {
+        "link": "[SAP chief warns EU against over-regulating artificial intelligence](https://www.ft.com/content/9db8fe6d-3f8a-4886-a439-c23faf459c23)",
+        "tags": [
+          "#ai",
+          "#regulation",
+          "#eu",
+          "#sap"
+        ]
+      },
+      {
+        "link": "[Every Company Will Be a Fintech Company... But Why Are They Not (Still)?](https://rafaelcoda.substack.com/p/every-company-will-be-a-fintech-company)",
+        "tags": [
+          "#fintech",
+          "#business",
+          "#strategy"
+        ]
+      },
+      {
+        "link": "[Technology Report 2024 - Bain & Company](https://www.bain.com/insights/topics/technology-report/)",
+        "tags": [
+          "#technology",
+          "#report",
+          "#bain",
+          "#trends"
+        ]
+      },
+      {
+        "link": "[A Startup Founder To Scaleup CEO's Journey from $0 to $25billion (Halliganism's)](https://www.linkedin.com/pulse/startup-founder-scaleup-ceos-journey-from-0-25billion-brian-halligan-e1f4e/)",
+        "tags": [
+          "#startup",
+          "#ceo",
+          "#scaling",
+          "#brian_halligan"
+        ]
+      },
+      {
+        "link": "[Zalaris Norseman 2024 - UNSTOPPABLE](https://youtu.be/pnOoxGDOjLY)",
+        "tags": [
+          "#triathlon",
+          "#ironman",
+          "#norseman",
+          "#sport"
+        ]
+      },
+      {
+        "link": "[Beyond Code Generation: More Efficient Software Development  - Bain & Company](https://www.bain.com/insights/beyond-code-generation-more-efficient-software-development-tech-report-2024/)",
+        "tags": [
+          "#ai",
+          "#software_development",
+          "#productivity",
+          "#bain"
+        ]
+      },
+      {
+        "link": "[The Four Short Term Winners of AI - by Tom White](https://www.whitenoise.email/p/the-four-short-term-winners-of-ai)",
+        "tags": [
+          "#ai",
+          "#investment",
+          "#business"
+        ]
+      },
+      {
+        "link": "[9 startups that stood out on YC Demo Day 2 - TechCrunch](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/)",
+        "tags": [
+          "#startup",
+          "#yc",
+          "#techcrunch",
+          "#demoday"
+        ]
+      },
+      {
+        "link": "[OrgOrg](https://orgorg.us/)",
+        "tags": [
+          "#productivity",
+          "#collaboration",
+          "#org_tools",
+          "#yc"
+        ]
+      },
+      {
+        "link": "[Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk)",
+        "tags": [
+          "#github",
+          "#ai_tool",
+          "#job_search",
+          "#automation"
+        ]
+      },
+      {
+        "link": "[This AI Coder Is On Another Level (Pythagora Tutorial)](https://youtu.be/spsG4G2sbrw)",
+        "tags": [
+          "#ai",
+          "#coding",
+          "#ai_agent",
+          "#pythagora"
+        ]
+      },
+      {
+        "link": "[Inside Elon Musk's AI party at OpenAI's old headquarters - The Verge](https://www.theverge.com/2024/10/3/24261160/elon-musk-xai-recruiting-party-openai-dev-day-sam-altman)",
+        "tags": [
+          "#ai",
+          "#elon_musk",
+          "#xai",
+          "#openai"
+        ]
+      },
+      {
+        "link": "[OpenAI bets on AI agents becoming mainstream by 2025](https://www.ft.com/content/30677465-33bb-4f74-a8e6-239980091f7a)",
+        "tags": [
+          "#openai",
+          "#ai_agent",
+          "#prediction"
+        ]
+      },
+      {
+        "link": "[RARE Alex Karp Interview: Palantir Philosophy Explained! (2009)](https://youtu.be/EZLr6EGGTPE)",
+        "tags": [
+          "#palantir",
+          "#alex_karp",
+          "#interview"
+        ]
+      },
+      {
+        "link": "[TalkTastic – Just Say It.](https://talktastic.com/)",
+        "tags": [
+          "#ai",
+          "#tts",
+          "#dictation",
+          "#macos"
+        ]
+      },
+      {
+        "link": "[What's 🔥 in Enterprise IT/VC #415 - by Ed Sim](https://substack.com/app-link/post)",
+        "tags": []
+      },
+      {
+        "link": "[To the crazy ones](https://world.hey.com/dhh/to-the-crazy-ones-e43822c7)",
+        "tags": [
+          "#dhh",
+          "#startup",
+          "#philosophy"
+        ]
+      },
+      {
+        "link": "[Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry - Google DeepMind](https://deepmind.google/discover/blog/demis-hassabis-john-jumper-awarded-nobel-prize-in-chemistry/)",
+        "tags": [
+          "#deepmind",
+          "#nobel_prize",
+          "#science",
+          "#alphafold"
+        ]
+      },
+      {
+        "link": "[Press release: The Nobel Prize in Physics 2024 - NobelPrize.org](https://www.nobelprize.org/prizes/physics/2024/press-release/)",
+        "tags": [
+          "#nobel_prize",
+          "#physics",
+          "#science"
+        ]
+      },
+      {
+        "link": "[Exploring semantic AI: Definition and 10 business benefits](https://datavid.com/blog/semantic-ai)",
+        "tags": [
+          "#ai",
+          "#semantic_ai",
+          "#business"
+        ]
+      },
+      {
+        "link": "[Benefits of Wim Hof Method & Tummo Breathing - Dr. Elissa Epel & Dr. Andrew Huberman](https://youtu.be/845b4xdl_QQ)",
+        "tags": [
+          "#wim_hof",
+          "#breathing",
+          "#health",
+          "#huberman"
+        ]
+      },
+      {
+        "link": "[Welcome to the club: why are private members' clubs booming? - Society - The Guardian](https://www.theguardian.com/society/2024/oct/13/welcome-to-the-club-why-are-private-members-clubs-booming)",
+        "tags": [
+          "#society",
+          "#club",
+          "#lifestyle"
+        ]
+      },
+      {
+        "link": "[Is India the Next Economic Giant](https://drive.google.com/file/d/1owfTPKDpwy1HvBQxhDIq-ie1YNhq8g3Y/view)",
+        "tags": [
+          "#podcast",
+          "#india",
+          "#economy"
+        ]
+      },
+      {
+        "link": "[ASML shares drop sharply after warning on semiconductor recovery](https://www.ft.com/content/3b11018f-960d-442f-8dc7-ed6b555d87f6)",
+        "tags": [
+          "#asml",
+          "#semiconductor",
+          "#market",
+          "#economy"
+        ]
+      },
+      {
+        "link": "[Our cloud-exit savings will now top ten million over five years](https://world.hey.com/dhh/our-cloud-exit-savings-will-now-top-ten-million-over-five-years-c7d9b5bd)",
+        "tags": [
+          "#cloud",
+          "#dhh",
+          "#37signals",
+          "#finance"
+        ]
+      },
+      {
+        "link": "[The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers](https://papers.ssrn.com/sol3/papers.cfm)",
+        "tags": [
+          "#ai",
+          "#software_development",
+          "#research",
+          "#productivity"
+        ]
+      },
+      {
+        "link": "[Introducing Internal Knowledge Search and Spaces](https://www.perplexity.ai/hub/blog/introducing-internal-knowledge-search-and-spaces)",
+        "tags": [
+          "#perplexity",
+          "#ai_tool",
+          "#search",
+          "#knowledge_management"
+        ]
+      },
+      {
+        "link": "[Nabeel S. Qureshi - reflections on palantir](https://nabeelqu.co/reflections-on-palantir)",
+        "tags": [
+          "#palantir",
+          "#nabeel_qureshi",
+          "#opinion"
+        ]
+      },
+      {
+        "link": "[Sorry, that isn't an FDE - by Ted Mabrey](https://tedmabrey.substack.com/p/sorry-that-isnt-an-fde)",
+        "tags": [
+          "#leadership",
+          "#management",
+          "#engineering"
+        ]
+      },
+      {
+        "link": "[How To Solve LLM Hallucinations - by Dr. Ian Cutress](https://morethanmoore.substack.com/p/how-to-solve-llm-hallucinations)",
+        "tags": [
+          "#llm",
+          "#ai",
+          "#hallucination",
+          "#rag"
+        ]
+      },
+      {
+        "link": "[Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer)",
+        "tags": [
+          "#github",
+          "#ai_tool",
+          "#file_management",
+          "#privacy"
+        ]
+      },
+      {
+        "link": "[The Great Data Integration Schlep - by Sarah Constantin](https://sarahconstantin.substack.com/p/the-great-data-integration-schlep)",
+        "tags": [
+          "#data_integration",
+          "#data_engineering",
+          "#etl"
+        ]
+      },
+      {
+        "link": "[NVIDIA Releases Nemotron 70B - by Jesus Rodriguez](https://open.substack.com/pub/thesequence/p/nvidia-releases-nemotron-70b)",
+        "tags": [
+          "#nvidia",
+          "#llm",
+          "#ai",
+          "#nemotron"
+        ]
+      },
+      {
+        "link": "[poolside — vision](https://www.poolside.ai/vision)",
+        "tags": [
+          "#ai",
+          "#ide",
+          "#developer_tool",
+          "#poolside"
+        ]
+      },
+      {
+        "link": "[Capacities - A studio for your mind](https://capacities.io/product)",
+        "tags": [
+          "#note_taking",
+          "#productivity",
+          "#tool"
+        ]
+      },
+      {
+        "link": "[Add AI to your Playwright tests - ZeroStep](https://zerostep.com/)",
+        "tags": [
+          "#ai",
+          "#testing",
+          "#playwright",
+          "#automation"
+        ]
+      },
+      {
+        "link": "[Anthropic says latest AI model can control users' computers](https://www.ft.com/content/f49aff66-79e8-437a-93c2-96f8116c1bc3)",
+        "tags": [
+          "#anthropic",
+          "#ai",
+          "#claude",
+          "#ai_agent"
+        ]
+      },
+      {
+        "link": "[AI-powered productivity tools that can make life harder](https://www.ft.com/content/10489c19-aecc-43e4-947f-bfde497de7b9)",
+        "tags": [
+          "#ai",
+          "#productivity",
+          "#opinion",
+          "#ft"
+        ]
+      },
+      {
+        "link": "[Pieter Levels, 70 Startups](https://www.founderoo.co/playbooks/pieter-levels-success-story)",
+        "tags": [
+          "#pieter_levels",
+          "#startup",
+          "#indie_hacker"
+        ]
+      },
+      {
+        "link": "[Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)",
+        "tags": [
+          "#claude",
+          "#ai",
+          "#simon_willison",
+          "#anthropic"
+        ]
+      },
+      {
+        "link": "[I'm Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)",
+        "tags": [
+          "#pieter_levels",
+          "#startup",
+          "#indie_hacker"
+        ]
+      },
+      {
+        "link": "[Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku](https://www.anthropic.com/news/3-5-models-and-computer-use)",
+        "tags": [
+          "#anthropic",
+          "#claude",
+          "#ai",
+          "#llm"
+        ]
+      },
+      {
+        "link": "[All-In Podcast: Markets turn Trump, Long rates spike, Election home stretch, Influencer mania, Saving Starbucks](https://youtu.be/4ruAqXfK6Ao)",
+        "tags": [
+          "#podcast",
+          "#allin",
+          "#economy",
+          "#politics"
+        ]
+      },
+      {
+        "link": "[Gartner's 2025 tech trends show how your business needs to adapt - and fast - ZDNET](https://www.zdnet.com/article/gartners-2025-tech-trends-show-how-your-business-needs-to-adapt-and-fast/#ftag=RSSbaffb68)",
+        "tags": [
+          "#gartner",
+          "#trends",
+          "#technology",
+          "#business"
+        ]
+      },
+      {
+        "link": "[The next big arenas of competition](https://www.mckinsey.com/~/media/mckinsey/mckinsey%20global%20institute/our%20research/the%20next%20big%20arenas%20of%20competition/the-next-big-arenas-of-competition_final.pdf)",
+        "tags": [
+          "#mckinsey",
+          "#competition",
+          "#business",
+          "#strategy",
+          "#report"
+        ]
+      },
+      {
+        "link": "[Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)",
+        "tags": [
+          "#dario_amodei",
+          "#ai",
+          "#philosophy",
+          "#anthropic"
+        ]
+      },
+      {
+        "link": "[Andrew Scott - STOWE GALLERY](https://stowe-gallery.com/collections/andrew-scott)",
+        "tags": [
+          "#art",
+          "#painting",
+          "#gallery"
+        ]
+      },
+      {
+        "link": "[How to Build Your Career in AI eBook - Andrew Ng Collected Insights](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book)",
+        "tags": [
+          "#ai",
+          "#career",
+          "#andrew_ng",
+          "#book"
+        ]
+      },
+      {
+        "link": "[Where's the Value in AI?](https://web-assets.bcg.com/eb/d3/5fc6471941b2845872fffdc74b2a/bcg-wheres-the-value-in-ai.pdf)",
+        "tags": [
+          "#bcg",
+          "#report",
+          "#ai",
+          "#business"
+        ]
+      },
+      {
+        "link": "[Productivity One Year from Now by @ttunguz](https://tomtunguz.com/if-ai-keep-accelerating-impact-business/)",
+        "tags": [
+          "#ai",
+          "#productivity",
+          "#business",
+          "#tom_tunguz"
+        ]
+      },
+      {
+        "link": "[The Best API Documentation Tool](https://redocly.com/)",
+        "tags": [
+          "#api",
+          "#documentation",
+          "#tool"
+        ]
+      },
+      {
+        "link": "[The Art Basel and UBS Survey of Global Collecting 2024](https://www.ubs.com/global/en/our-firm/art/collecting/art-market-survey.html)",
+        "tags": [
+          "#art",
+          "#collecting",
+          "#ubs",
+          "#report"
+        ]
+      },
+      {
+        "link": "[Bibliothèque de Pierre Bergé : le dernier chapitre](https://www.sothebys.com/en/buy/auction/2024/bibliotheque-de-pierre-berge-le-dernier-chapitre-2)",
+        "tags": [
+          "#art",
+          "#auction",
+          "#sothebys",
+          "#book"
+        ]
+      },
+      {
+        "link": "[Ideogram 2.0](https://about.ideogram.ai/2.0)",
+        "tags": [
+          "#ai",
+          "#image_generation",
+          "#ideogram"
+        ]
+      },
+      {
+        "link": "[SynthID: Tools for watermarking and detecting LLM-generated Text](https://ai.google.dev/responsible/docs/safeguards/synthid)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#watermarking",
+          "#google",
+          "#synthid"
+        ]
+      },
+      {
+        "link": "[ToolJet - Open-source low-code platform to build internal tools](https://www.tooljet.com/)",
+        "tags": [
+          "#low_code",
+          "#open_source",
+          "#tooljet",
+          "#developer_tool"
+        ]
+      },
+      {
+        "link": "[TrainingPeaks Acquires IndieVelo Indoor Cycling App - DC Rainmaker](https://www.dcrainmaker.com/2024/10/trainingpeaks-acquires-indievelo.html)",
+        "tags": [
+          "#cycling",
+          "#triathlon",
+          "#trainingpeaks",
+          "#dc_rainmaker"
+        ]
+      },
+      {
+        "link": "[Five proven prompt engineering techniques (and a few more advanced tactics)](https://www.lennysnewsletter.com/p/five-proven-prompt-engineering-techniques)",
+        "tags": [
+          "#prompt_engineering",
+          "#ai",
+          "#llm"
+        ]
+      },
+      {
+        "link": "[Supported Authentication Methods in Danswer](https://medium.com/@techlatest.net/supported-authentication-methods-in-danswer-93d15e895014)",
+        "tags": [
+          "#danswer",
+          "#rag",
+          "#authentication",
+          "#open_source"
+        ]
+      },
+      {
+        "link": "[The caste system transformed Indian genetics – David Reich](https://youtu.be/7OfV16_xngQ)",
+        "tags": [
+          "#genetics",
+          "#india",
+          "#science",
+          "#david_reich"
+        ]
+      },
+      {
+        "link": "[A key period in human evolution wasn't in Africa – David Reich](https://youtu.be/1SbyMBvJzkE)",
+        "tags": [
+          "#evolution",
+          "#genetics",
+          "#science",
+          "#david_reich"
+        ]
+      },
+      {
+        "link": "[Naval Ravikant - How to Get Ahead of 99% of People (Starting in 2024)](https://youtu.be/xS92oPqDC68)",
+        "tags": [
+          "#naval_ravikant",
+          "#philosophy",
+          "#success",
+          "#career"
+        ]
+      },
+      {
+        "link": "[Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life - Lex Fridman Podcast #440](https://youtu.be/oFtjKbXKqbg)",
+        "tags": [
+          "#pieter_levels",
+          "#lex_fridman",
+          "#podcast",
+          "#startup",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[IHMC Teaches Atlas to Walk Like a Human - IEEE Spectrum](https://spectrum.ieee.org/ihmc-teaches-atlas-to-walk-like-a-human)",
+        "tags": [
+          "#robotics",
+          "#atlas",
+          "#ihmc",
+          "#bipedal"
+        ]
+      },
+      {
+        "link": "[5 reasons why Agile transformation fails - CIO](https://www.cio.com/article/3549828/5-reasons-why-agile-transformation-fails.html)",
+        "tags": [
+          "#agile",
+          "#transformation",
+          "#failure",
+          "#management"
+        ]
+      },
+      {
+        "link": "[WhyHow.ai - AI & RAG-Native Knowledge Graph Studio](https://www.whyhow.ai)",
+        "tags": [
+          "#ai",
+          "#rag",
+          "#knowledge_graph",
+          "#developer_tool"
+        ]
+      },
+      {
+        "link": "[Spring AI - Spring Projects](https://spring.io/projects/spring-ai)",
+        "tags": [
+          "#spring",
+          "#java",
+          "#ai",
+          "#library"
+        ]
+      },
+      {
+        "link": "[AI Risk at MIT](https://airisk.mit.edu)",
+        "tags": [
+          "#ai",
+          "#risk",
+          "#mit",
+          "#research"
+        ]
+      },
+      {
+        "link": "[Transformer Explainer by Polo Club](https://poloclub.github.io/transformer-explainer/)",
+        "tags": [
+          "#ai",
+          "#transformer",
+          "#llm",
+          "#visualization"
+        ]
+      },
+      {
+        "link": "[How Large Language Models Work - Medium by Microsoft Data Science](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f)",
+        "tags": [
+          "#llm",
+          "#ai",
+          "#microsoft",
+          "#explanation"
+        ]
+      },
+      {
+        "link": "[AI Transforms Sales - Andreessen Horowitz (a16z)](https://a16z.com/ai-transforms-sales/)",
+        "tags": [
+          "#ai",
+          "#sales",
+          "#a16z",
+          "#business"
+        ]
+      },
+      {
+        "link": "[AI News Archive on Buttondown](https://buttondown.com/ainews/archive/)",
+        "tags": [
+          "#ai",
+          "#news",
+          "#newsletter"
+        ]
+      },
+      {
+        "link": "[HeyGen - Create and translate videos with AI](https://heygen.com/)",
+        "tags": [
+          "#ai",
+          "#video_generation",
+          "#translation",
+          "#heygen"
+        ]
+      },
+      {
+        "link": "[An Intuitive Introduction to Text Embeddings - Stack Overflow Blog](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/)",
+        "tags": [
+          "#ai",
+          "#embeddings",
+          "#llm",
+          "#nlp"
+        ]
+      },
+      {
+        "link": "[State of AI report 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M/preview?slide=id.g24daeb7f4f0_0_5654)",
+        "tags": [
+          "#ai",
+          "#report",
+          "#stateofai",
+          "#trends"
+        ]
+      }
+    ],
+    "November 2024": [
+      {
+        "link": "[GitHub Spark lets you build web apps in plain English - TechCrunch](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/)",
+        "tags": [
+          "#github",
+          "#ai",
+          "#low_code",
+          "#web_development"
+        ]
+      },
+      {
+        "link": "[Climate Change Will Be Different for Everyone - Peter Zeihan](https://youtu.be/vOLqXxe8Cfs)",
+        "tags": [
+          "#peter_zeihan",
+          "#climate_change",
+          "#geopolitics",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[How we saved hundreds of engineering hours by writing tests with LLMs](https://www.assembled.com/blog/how-we-saved-hundreds-of-engineering-hours-by-writing-tests-with-llms)",
+        "tags": [
+          "#llm",
+          "#testing",
+          "#engineering",
+          "#productivity"
+        ]
+      },
+      {
+        "link": "[Job Openings: Total Nonfarm (JTSJOL) - FRED - St. Louis Fed](https://fred.stlouisfed.org/series/JTSJOL)",
+        "tags": [
+          "#economy",
+          "#jobs",
+          "#data",
+          "#fred"
+        ]
+      },
+      {
+        "link": "[U.S. jobs report October 2024: Economy added 12,000 jobs, impacted by hurricanes, Boeing strike](https://www.cnbc.com/2024/11/01/us-jobs-report-october-2024.html)",
+        "tags": [
+          "#economy",
+          "#jobs",
+          "#us_economy"
+        ]
+      },
+      {
+        "link": "[Pushing the frontiers of audio generation - Google DeepMind](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)",
+        "tags": [
+          "#deepmind",
+          "#ai",
+          "#audio_generation",
+          "#google"
+        ]
+      },
+      {
+        "link": "[Inflated GDP?, Google earnings, How the media lost trust, Rogan/Trump search controversy, Election!](https://youtu.be/e_2E8Of78Vs)",
+        "tags": [
+          "#podcast",
+          "#allin",
+          "#economy",
+          "#politics",
+          "#media"
+        ]
+      },
+      {
+        "link": "[Naval Ravikant On TRS - Lessons on Growth, Life, Spirituality, Love, Family & More](https://youtu.be/wQGOYnWHnto)",
+        "tags": [
+          "#naval_ravikant",
+          "#podcast",
+          "#philosophy",
+          "#spirituality"
+        ]
+      },
+      {
+        "link": "[What's Next For ASML?](https://youtu.be/ig0FCK0C76U)",
+        "tags": [
+          "#asml",
+          "#semiconductor",
+          "#technology",
+          "#asianometry"
+        ]
+      },
+      {
+        "link": "[Learnings from 1,000+ Near-Death Experiences — Dr. Bruce Greyson, University of Virginia (#774) - The Blog of Author Tim Ferriss](https://tim.blog/2024/10/23/near-death-experiences-dr-bruce-greyson/)",
+        "tags": [
+          "#tim_ferriss",
+          "#podcast",
+          "#psychology",
+          "#nde"
+        ]
+      },
+      {
+        "link": "[Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)",
+        "tags": [
+          "#dario_amodei",
+          "#ai",
+          "#philosophy",
+          "#anthropic"
+        ]
+      },
+      {
+        "link": "[Pat Walls on X: \"It's never too late to start building.\"](https://x.com/thepatwalls/status/1851660347243126878)",
+        "tags": [
+          "#pat_walls",
+          "#startup",
+          "#motivation"
+        ]
+      },
+      {
+        "link": "[Lessons from Peter Thiel - Posts - 8VC](https://www.8vc.com/resources/lessons-from-peter-thiel)",
+        "tags": [
+          "#peter_thiel",
+          "#startup",
+          "#business",
+          "#philosophy"
+        ]
+      },
+      {
+        "link": "[@Asianometry & Dylan Patel – How the Semiconductor Industry Actually Works](https://youtu.be/pE3KKUKXcTM)",
+        "tags": [
+          "#asianometry",
+          "#dylan_patel",
+          "#semiconductor",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[New from Universe 2024: Get the latest previews and releases - The GitHub Blog](https://github.blog/news-insights/product-news/universe-2024-previews-releases/)",
+        "tags": [
+          "#github",
+          "#github_universe",
+          "#developer_tool",
+          "#announcement"
+        ]
+      },
+      {
+        "link": "[The Battery Revolution Is Finally Here](https://insideevs.com/features/738508/high-silicon-anode-solid-state/)",
+        "tags": [
+          "#battery",
+          "#ev",
+          "#technology",
+          "#innovation"
+        ]
+      },
+      {
+        "link": "[Adaptogens for Athletes: Benefits, Types & How to Supplement](https://www.trainingpeaks.com/blog/adaptogens-for-athletes/)",
+        "tags": [
+          "#health",
+          "#supplements",
+          "#athlete",
+          "#trainingpeaks"
+        ]
+      },
+      {
+        "link": "[What's 🔥 in Enterprise ITVC #419 - by Ed Sim](https://www.whatshotit.vc/p/whats-in-enterprise-itvc-419)",
+        "tags": [
+          "#vc",
+          "#enterprise",
+          "#startup",
+          "#newsletter"
+        ]
+      },
+      {
+        "link": "[Trump wins! How it happened and what's next](https://youtu.be/xH76q6yYVlk)",
+        "tags": [
+          "#trump",
+          "#election",
+          "#politics",
+          "#us_politics"
+        ]
+      },
+      {
+        "link": "[Who's who in the Musk 'A-team' vying to shape Trump 2.0](https://www.ft.com/content/d207c4a9-0e6d-4ece-a44d-abf890316b5a)",
+        "tags": [
+          "#elon_musk",
+          "#trump",
+          "#politics",
+          "#ft"
+        ]
+      },
+      {
+        "link": "[How To Build The Future: Sam Altman](https://youtu.be/xXCBz_8hM9w)",
+        "tags": [
+          "#sam_altman",
+          "#startup",
+          "#future",
+          "#y_combinator"
+        ]
+      },
+      {
+        "link": "[Building the Future: Meet the 2024 Sequoia Open Source Fellows - Sequoia Capital](https://www.sequoiacap.com/article/building-the-future-meet-the-2024-sequoia-open-source-fellows/)",
+        "tags": [
+          "#sequoia",
+          "#open_source",
+          "#vc",
+          "#startup"
+        ]
+      },
+      {
+        "link": "[Where's the Value in AI?](https://www.bcg.com/publications/2024/wheres-value-in-ai)",
+        "tags": [
+          "#bcg",
+          "#report",
+          "#ai",
+          "#business"
+        ]
+      },
+      {
+        "link": "[Ditch Outsourced Thinking: Unleash the Power of Red Teaming w/ Dimbleby & Corella](https://thewhirl.substack.com/p/ditch-outsourced-thinking-unleash-5ce)",
+        "tags": [
+          "#red_teaming",
+          "#management",
+          "#strategy"
+        ]
+      },
+      {
+        "link": "[What I Wish Someone Told Me About Postgres - ChallahScript](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)",
+        "tags": [
+          "#postgres",
+          "#database",
+          "#engineering",
+          "#lessons_learned"
+        ]
+      },
+      {
+        "link": "[Naval Ravikant & Balaji Srinivasan: Knowledge, Wealth, and AI's Future](https://youtu.be/cBuHreIhLFI)",
+        "tags": [
+          "#naval_ravikant",
+          "#balaji_srinivasan",
+          "#ai",
+          "#philosophy",
+          "#podcast"
+        ]
+      },
+      {
+        "link": "[The Coming AI Startup Bust](https://youtu.be/6aS0Dlqarqo)",
+        "tags": [
+          "#ai",
+          "#startup",
+          "#bubble",
+          "#investment"
+        ]
+      },
+      {
+        "link": "[Ingo Uytdehaage, Adyen - All-In Summit 2024](https://youtu.be/4ZX8XlTPJrs)",
+        "tags": [
+          "#adyen",
+          "#fintech",
+          "#payment",
+          "#allin_summit"
+        ]
+      },
+      {
+        "link": "[LlamaOCR.com – Document to markdown](https://llamaocr.com/)",
+        "tags": [
+          "#ai",
+          "#ocr",
+          "#tool",
+          "#llama"
+        ]
+      },
+      {
+        "link": "[getomni-aizerox: PDF to Markdown with vision models](https://github.com/getomni-ai/zerox)",
+        "tags": [
+          "#github",
+          "#ai_tool",
+          "#pdf",
+          "#markdown",
+          "#ocr"
+        ]
+      },
+      {
+        "link": "[Together AI - Demos & Example AI Apps](https://www.together.ai/demos)",
+        "tags": [
+          "#together_ai",
+          "#ai_tool",
+          "#llm",
+          "#demo"
+        ]
+      },
+      {
+        "link": "[M4 Mac mini's efficiency is incredible - Jeff Geerling](https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible)",
+        "tags": [
+          "#apple",
+          "#m4",
+          "#mac_mini",
+          "#hardware",
+          "#jeff_geerling"
+        ]
+      },
+      {
+        "link": "[Ben Lang on X: \"Brian Chesky on how to hire:\"](https://x.com/benln/status/1852343618826129684)",
+        "tags": [
+          "#brian_chesky",
+          "#hiring",
+          "#airbnb",
+          "#startup"
+        ]
+      },
+      {
+        "link": "[The Rise of Agile 2.0: Transforming to Enterprise Agility Beyond IT](https://open.substack.com/pub/thedigitalleader/p/the-rise-of-agile-20-transforming)",
+        "tags": [
+          "#agile",
+          "#enterprise",
+          "#transformation",
+          "#management"
+        ]
+      },
+      {
+        "link": "[Trump's market impact: Bitcoin, M&A, IPOs + transition picks; Polymarket CEO raided by FBI](https://youtu.be/0CBMlzHo0AU)",
+        "tags": [
+          "#podcast",
+          "#allin",
+          "#trump",
+          "#market",
+          "#economy"
+        ]
+      },
+      {
+        "link": "[Stable Diffusion 3.5 Prompt Guide &mdash; Stability AI](https://stability.ai/learning-hub/stable-diffusion-3-5-prompt-guide)",
+        "tags": [
+          "#stable_diffusion",
+          "#ai",
+          "#image_generation",
+          "#prompt_engineering"
+        ]
+      },
+      {
+        "link": "[What to expect from the markets under Trump](https://www.ft.com/content/e578ca2a-15ae-423b-8971-e02c4440d5fb)",
+        "tags": [
+          "#trump",
+          "#market",
+          "#economy",
+          "#politics",
+          "#ft"
+        ]
+      },
+      {
+        "link": "[Lessons from my First Exit · mtlynch.io](https://mtlynch.io/lessons-from-my-first-exit/)",
+        "tags": [
+          "#startup",
+          "#exit",
+          "#entrepreneurship",
+          "#lessons_learned"
+        ]
+      },
+      {
+        "link": "[Exactly How I Cold Emailed My Way to A Life-Changing Exit (And You Can Too) - by Laura Roeder](https://lauraroeder.com/exactly-how-i-cold-emailed-my-way-to-a-life-changing-exit-and-you-can-too-165d8eaf8306)",
+        "tags": [
+          "#startup",
+          "#exit",
+          "#cold_email",
+          "#entrepreneurship"
+        ]
+      },
+      {
+        "link": "[The Fall 2024 Workforce Index Shows Executives and Employees Investing in AI, but Uncertainty Holding Back Adoption - Slack](https://slack.com/intl/en-in/blog/news/the-fall-2024-workforce-index-shows-ai-hype-is-cooling)",
+        "tags": [
+          "#slack",
+          "#ai",
+          "#workforce",
+          "#report",
+          "#workplace"
+        ]
+      },
+      {
+        "link": "[For Sale: All Saints Street, Hastings, East Sussex - Inigo](https://inigo.com/sales-list/all-saints-street)",
+        "tags": [
+          "#real_estate",
+          "#uk",
+          "#architecture"
+        ]
+      },
+      {
+        "link": "[A Visual Guide to the Aztec Pantheon](https://pudding.cool/2022/06/aztec-gods/)",
+        "tags": [
+          "#history",
+          "#aztec",
+          "#visualization",
+          "#mythology"
+        ]
+      },
+      {
+        "link": "[Southeast Asia: Resetting Expectations - Lightspeed Venture Partners](https://lsvp.com/stories/southeast-asia-resetting-expectations/)",
+        "tags": [
+          "#sea",
+          "#vc",
+          "#lightspeed",
+          "#startup",
+          "#market"
+        ]
+      },
+      {
+        "link": "[Fashion-VDM: Video Diffusion Model for Virtual Try-On](https://johannakarras.github.io/Fashion-VDM/)",
+        "tags": [
+          "#ai",
+          "#diffusion_model",
+          "#virtual_try_on",
+          "#fashion",
+          "#research"
+        ]
+      },
+      {
+        "link": "[Peter Thiel on the Triumph of the Counter-Elites](https://youtu.be/wwJV_NuN43Y)",
+        "tags": [
+          "#peter_thiel",
+          "#politics",
+          "#elites",
+          "#philosophy"
+        ]
+      },
+      {
+        "link": "[Microsoft Ignite 2024 Book of News](https://news.microsoft.com/ignite-2024-book-of-news/)",
+        "tags": [
+          "#microsoft",
+          "#ms_ignite",
+          "#announcement",
+          "#cloud"
+        ]
+      },
+      {
+        "link": "[Airtable](https://airtable.com/apppsiG3ZcNjZhLzQ/shrZeywfF21lfSjci/tblTCefZr4laRvmqI)",
+        "tags": []
+      },
+      {
+        "link": "[Research Note: AI in UK financial services - FCA](https://www.fca.org.uk/publications/research-notes/ai-uk-financial-services)",
+        "tags": [
+          "#ai",
+          "#finance",
+          "#uk",
+          "#fca",
+          "#regulation"
+        ]
+      },
+      {
+        "link": "[Microsoft Ignite 2024: Everything Revealed in 15 Minutes](https://youtu.be/_4qsQ6OWZsM)",
+        "tags": [
+          "#microsoft",
+          "#ms_ignite",
+          "#announcement",
+          "#summary"
+        ]
+      },
+      {
+        "link": "[Zen Mode for macOS](https://zenmode.app/#usecases)",
+        "tags": [
+          "#macos",
+          "#productivity",
+          "#tool",
+          "#focus"
+        ]
+      },
+      {
+        "link": "[Javier Milei: President of Argentina - Freedom, Economics, and Corruption - Lex Fridman Podcast #453](https://youtu.be/8NLzc9kobDk)",
+        "tags": [
+          "#lex_fridman",
+          "#javier_milei",
+          "#podcast",
+          "#argentina",
+          "#politics"
+        ]
+      },
+      {
+        "link": "[ServiceNow's Amit Zavery: SaaS customers don't care how you build GenAI](https://www.runtime.news/servicenows-amit-zavery-saas-customers-dont-care-how-you-build-genai/)",
+        "tags": [
+          "#servicenow",
+          "#saas",
+          "#ai",
+          "#business",
+          "#interview"
+        ]
+      },
+      {
+        "link": "[📈 Data to start your week - by Azeem Azhar](https://open.substack.com/pub/exponentialview/p/data-to-start-your-week-1)",
+        "tags": [
+          "#exponential_view",
+          "#azeem_azhar",
+          "#newsletter",
+          "#data",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[Top Software & Apps (2024)](https://efficient.app/top-picks)",
+        "tags": [
+          "#software",
+          "#productivity",
+          "#apps",
+          "#review"
+        ]
+      },
+      {
+        "link": "[Presentations — Benedict Evans](https://www.ben-evans.com/presentations)",
+        "tags": [
+          "#benedict_evans",
+          "#presentations",
+          "#technology",
+          "#trends"
+        ]
+      },
+      {
+        "link": "[IDEs with GenAI features that Software Engineers love](https://newsletter.pragmaticengineer.com/p/ide-that-software-engineers-love)",
+        "tags": [
+          "#ai",
+          "#ide",
+          "#pragmatic_engineer",
+          "#developer_tool"
+        ]
+      },
+      {
+        "link": "[Scott and Mark learn responsible AI - BRK329](https://youtu.be/oFsLRtOuRyg)",
+        "tags": [
+          "#responsible_ai",
+          "#ai",
+          "#ethics",
+          "#microsoft"
+        ]
+      },
+      {
+        "link": "[Rox - Not Boring by Packy McCormick](https://open.substack.com/pub/notboring/p/rox)",
+        "tags": [
+          "#packy_mccormick",
+          "#startup",
+          "#ai",
+          "#crm",
+          "#rox"
+        ]
+      },
+      {
+        "link": "[Infosys chair bets companies will develop their own AI models](https://www.ft.com/content/c1dd7f62-95a4-42cb-92ca-7a5d1ece6716)",
+        "tags": [
+          "#infosys",
+          "#ai",
+          "#llm",
+          "#business",
+          "#strategy"
+        ]
+      },
+      {
+        "link": "[🔮 Why AI might finally break Polanyi's Paradox](https://www.exponentialview.co/p/ai-polanyi-paradox)",
+        "tags": [
+          "#ai",
+          "#philosophy",
+          "#polanyis_paradox",
+          "#exponential_view"
+        ]
+      },
+      {
+        "link": "[The State of European Private Equity Full Report](https://www.gain.pro/investor-reports/the-state-of-european-private-equity-full-report)",
+        "tags": [
+          "#private_equity",
+          "#europe",
+          "#finance",
+          "#report"
+        ]
+      },
+      {
+        "link": "[Access: 87 Private Equity Essentials](https://hertalis.substack.com/p/access-87-private-equity-essentials)",
+        "tags": [
+          "#private_equity",
+          "#finance",
+          "#investment"
+        ]
+      },
+      {
+        "link": "[The BEST Beginner's Guide to Private Equity!](https://www.youtube.com/watch?v=nW1QpmvfCvw)",
+        "tags": [
+          "#private_equity",
+          "#finance",
+          "#career",
+          "#guide"
+        ]
+      },
+      {
+        "link": "[Top 10 Largest Private Equity Firms in the world](https://www.youtube.com/watch?v=U51ks4BqJBU)",
+        "tags": [
+          "#private_equity",
+          "#finance",
+          "#investment",
+          "#top10"
+        ]
+      },
+      {
+        "link": "[Access: Private Markets Employer Snapshots](https://hertalis.substack.com/p/access-private-markets-employer-snapshots)",
+        "tags": [
+          "#private_equity",
+          "#finance",
+          "#career"
+        ]
+      },
+      {
+        "link": "[PE Stack](https://www.pestack.com/)",
+        "tags": [
+          "#private_equity",
+          "#technology",
+          "#vendor",
+          "#consulting"
+        ]
+      },
+      {
+        "link": "[Private Equity Glossary - Institutional Limited Partners Association](https://ilpa.org/resources-tools/private-equity-101/private-equity-glossary/)",
+        "tags": [
+          "#private_equity",
+          "#glossary",
+          "#finance",
+          "#ilpa"
+        ]
+      },
+      {
+        "link": "[Guide - The PEriodic Table of Technology](https://altvia.com/free-guide-periodic-table-of-technology/)",
+        "tags": [
+          "#private_equity",
+          "#technology",
+          "#tool",
+          "#guide"
+        ]
+      },
+      {
+        "link": "[DOGE unveils a roadmap, Unlocking GDP Growth, WW3 escalation, Fat cell memory](https://youtu.be/pnmDeIgW3EQ)",
+        "tags": [
+          "#podcast",
+          "#allin",
+          "#doge",
+          "#economy"
+        ]
+      },
+      {
+        "link": "[Elon Musk explains the 5-step process he tries to implement in his companies to ensure efficient engineering](https://x.com/ElonClipsX/status/1783970554929619089)",
+        "tags": [
+          "#elon_musk",
+          "#engineering",
+          "#management",
+          "#productivity"
+        ]
+      },
+      {
+        "link": "[llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://steelph0enix.github.io/posts/llama-cpp-guide/)",
+        "tags": [
+          "#llama_cpp",
+          "#llm",
+          "#local_ai",
+          "#guide",
+          "#open_source"
+        ]
+      }
+    ],
+    "December 2024": [
+      {
+        "link": "[About Us](https://limblecmms.com/about-us/)",
+        "tags": [
+          "#cmms",
+          "#maintenance",
+          "#saas"
+        ]
+      },
+      {
+        "link": "[Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities](https://youtu.be/eBVi_sLaYsc)",
+        "tags": [
+          "#ai",
+          "#llm",
+          "#saas",
+          "#business"
+        ]
+      },
+      {
+        "link": "[Building an Audience Through Technical Writing: Strategies and Mistakes – Hamel's Blog](https://hamel.dev/blog/posts/audience/)",
+        "tags": [
+          "#writing",
+          "#technical_writing",
+          "#audience"
+        ]
+      },
+      {
+        "link": "[superwhisper](https://superwhisper.com/)",
+        "tags": [
+          "#ai",
+          "#voice",
+          "#transcription",
+          "#productivity"
+        ]
+      },
+      {
+        "link": "[Voicepal – Your Personal Ghostwriter](https://voicepal.me/)",
+        "tags": [
+          "#ai",
+          "#writing",
+          "#voice",
+          "#ghostwriting"
+        ]
+      },
+      {
+        "link": "[Simon Willison on writing](https://simonwillison.net/tags/writing/)",
+        "tags": [
+          "#writing",
+          "#simon_willison",
+          "#blogging"
+        ]
+      },
+      {
+        "link": "[Your AI Product Needs Evals – Hamel's Blog](https://hamel.dev/blog/posts/evals/)",
+        "tags": [
+          "#ai",
+          "#evaluation",
+          "#product_development"
+        ]
+      },
+      {
+        "link": "[State of European Tech 2024 Survey](https://www.stateofeuropeantech.com/reading-tracks/readingtrack-survey)",
+        "tags": [
+          "#europe",
+          "#tech",
+          "#survey",
+          "#report"
+        ]
+      },
+      {
+        "link": "[Leica Just Recorded the Highest Revenue in Its Entire 100-Year History - PetaPixel](https://petapixel.com/2024/11/20/leica-just-recorded-the-highest-revenue-in-its-entire-100-year-history/)",
+        "tags": [
+          "#leica",
+          "#photo",
+          "#business",
+          "#revenue"
+        ]
+      },
+      {
+        "link": "[The National Academies Press - Artificial Intelligence and the Future of Work](https://nap.nationalacademies.org/resource/27644/interactive/)",
+        "tags": [
+          "#ai",
+          "#future_of_work",
+          "#report",
+          "#research"
+        ]
+      },
+      {
+        "link": "[Anthropic proposes a new way to connect data to AI chatbots - TechCrunch](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/)",
+        "tags": [
+          "#anthropic",
+          "#ai",
+          "#chatbot",
+          "#data"
+        ]
+      },
+      {
+        "link": "[LLM Resource Hub](https://llmresourceshub.vercel.app/)",
+        "tags": [
+          "#llm",
+          "#resources",
+          "#ai",
+          "#tools"
+        ]
+      },
+      {
+        "link": "[2024: The State of Generative AI in the Enterprise - Menlo Ventures](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)",
+        "tags": [
+          "#ai",
+          "#enterprise",
+          "#report",
+          "#venture_capital"
+        ]
+      },
+      {
+        "link": "[The Network State](https://thenetworkstate.com/)",
+        "tags": [
+          "#network_state",
+          "#governance",
+          "#future"
+        ]
+      },
+      {
+        "link": "[CXO Intelligent Automation Primer - Google Presentaties](https://docs.google.com/presentation/d/e/2PACX-1vTbe2IFncD9suLABRpLejOfDwbnm1Tzb2ZzmxTRQvmue-RlPov-XyAeCDR03Ly4_GoH96fYELQAMR22/pub)",
+        "tags": [
+          "#automation",
+          "#cxo",
+          "#presentation",
+          "#intelligence"
+        ]
+      },
+      {
+        "link": "[Meridiem](https://meridiem.markwhen.com/)",
+        "tags": [
+          "#timeline",
+          "#visualization",
+          "#tool"
+        ]
+      },
+      {
+        "link": "[ZenML - LLMOps Database](https://www.zenml.io/llmops-database)",
+        "tags": [
+          "#llmops",
+          "#database",
+          "#ai",
+          "#mlops"
+        ]
+      },
+      {
+        "link": "[Andrew Ross Sorkin on X: \"Sam Altman Live at DealBook Summit 2024\"](https://x.com/andrewrsorkin/status/1864322891598254559)",
+        "tags": [
+          "#sam_altman",
+          "#dealbook",
+          "#interview",
+          "#openai"
+        ]
+      },
+      {
+        "link": "[The AI agents stack - Letta](https://www.letta.com/blog/ai-agents-stack)",
+        "tags": [
+          "#ai",
+          "#agents",
+          "#stack",
+          "#architecture"
+        ]
+      },
+      {
+        "link": "[Amazon announces Nova, a new family of multimodal AI models - TechCrunch](https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/)",
+        "tags": [
+          "#amazon",
+          "#ai",
+          "#nova",
+          "#multimodal"
+        ]
+      },
+      {
+        "link": "[Applied AI Use Case Compass](https://pages.pwc.de/applied-ai-compass-app/)",
+        "tags": [
+          "#ai",
+          "#use_cases",
+          "#compass",
+          "#pwc"
+        ]
+      },
+      {
+        "link": "[Generative AI's Act o1: The Reasoning Era Begins - Sequoia Capital](https://www.sequoiacap.com/article/generative-ais-act-o1/)",
+        "tags": [
+          "#ai",
+          "#reasoning",
+          "#sequoia",
+          "#o1"
+        ]
+      },
+      {
+        "link": "[How GenAI is reshaping tech hiring](https://newsletter.pragmaticengineer.com/p/how-genai-changes-tech-hiring)",
+        "tags": [
+          "#ai",
+          "#hiring",
+          "#tech",
+          "#engineering"
+        ]
+      },
+      {
+        "link": "[A 10 Year Retrospective of a Passionate Software Engineer - by Boris Cherkasky - Nov, 2024 - Medium](https://cherkaskyb.medium.com/a-10-year-retrospective-of-a-passionate-software-engineer-2d0cd7b3d836)",
+        "tags": [
+          "#engineering",
+          "#career",
+          "#retrospective",
+          "#software"
+        ]
+      },
+      {
+        "link": "[Y Combinator and Power in Silicon Valley - Commoncog Case Library](https://commoncog.com/c/cases/y-combinator-power/)",
+        "tags": [
+          "#y_combinator",
+          "#silicon_valley",
+          "#power",
+          "#case_study"
+        ]
+      },
+      {
+        "link": "[Langflow vs FlowiseAI: The Ultimate Showdown for Streamlined Language Processing - by TechLatest.Net - Medium](https://medium.com/@techlatest.net/langflow-vs-flowiseai-the-ultimate-showdown-for-streamlined-language-processing-a25f15306f75)",
+        "tags": [
+          "#langflow",
+          "#flowiseai",
+          "#ai",
+          "#comparison"
+        ]
+      },
+      {
+        "link": "[Tech predictions for 2025 and beyond - All Things Distributed](https://www.allthingsdistributed.com/2024/12/tech-predictions-for-2025-and-beyond.html)",
+        "tags": [
+          "#tech",
+          "#predictions",
+          "#2025",
+          "#future"
+        ]
+      },
+      {
+        "link": "[Tim Cook Wants Apple to Literally Save Your Life - WIRED](https://www.wired.com/story/big-interview-tim-cook-wants-apple-to-literally-save-your-life/)",
+        "tags": [
+          "#tim_cook",
+          "#apple",
+          "#health",
+          "#interview"
+        ]
+      },
+      {
+        "link": "[FastForward](https://fastforward.boldstart.vc/#ai)",
+        "tags": [
+          "#ai",
+          "#startup",
+          "#venture_capital",
+          "#boldstart"
+        ]
+      },
+      {
+        "link": "[Benedict Evans: AI Eats the World - Slush 2024](https://youtu.be/LGDa3pO23Wc)",
+        "tags": [
+          "#benedict_evans",
+          "#ai",
+          "#slush",
+          "#conference"
+        ]
+      },
+      {
+        "link": "[Nik Storonsky, Revolut Founder: What Revolut Needs to Do to Hit $100BN Valuation - E1233](https://youtu.be/IXubBqd8uXs)",
+        "tags": [
+          "#nik_storonsky",
+          "#revolut",
+          "#valuation",
+          "#fintech"
+        ]
+      },
+      {
+        "link": "[Y Combinator, a16z Crypto, Stablecoins, and AI Startups in 2025](https://www.ccn.com/news/technology/y-combinator-a16z-crypto-stablecoins-ai-startups-2025/)",
+        "tags": [
+          "#y_combinator",
+          "#a16z",
+          "#crypto",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[Hire a CTO - Virtual, Interim, or Fractional](https://www.fortiumpartners.com/cto)",
+        "tags": [
+          "#cto",
+          "#hiring",
+          "#fractional",
+          "#consulting"
+        ]
+      },
+      {
+        "link": "[Google introduces Gemini 2.0: A new AI model for the agentic era](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/#building-responsibly)",
+        "tags": [
+          "#google",
+          "#gemini",
+          "#ai",
+          "#agents"
+        ]
+      },
+      {
+        "link": "[Genie 2: A large-scale foundation world model - Google DeepMind](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)",
+        "tags": [
+          "#google",
+          "#deepmind",
+          "#genie",
+          "#world_model"
+        ]
+      },
+      {
+        "link": "[mherrmannhelium: Lighter web automation with Python](https://github.com/mherrmann/helium)",
+        "tags": [
+          "#python",
+          "#automation",
+          "#web",
+          "#github"
+        ]
+      },
+      {
+        "link": "[The Europe 250 Top PE Investors Report 2024 Edition - Gain.pro](https://www.gain.pro/investor-reports/top-250-europe-2024-full-report)",
+        "tags": [
+          "#private_equity",
+          "#europe",
+          "#investors",
+          "#report"
+        ]
+      },
+      {
+        "link": "[novuhqnovu: Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.](https://github.com/novuhq/novu)",
+        "tags": [
+          "#notifications",
+          "#open_source",
+          "#github",
+          "#platform"
+        ]
+      },
+      {
+        "link": "[The unexpected global tech winners of 2024 - Rest of World](https://restofworld.org/2024/unexpected-global-tech-winners-of-2024/)",
+        "tags": [
+          "#tech",
+          "#global",
+          "#winners",
+          "#2024"
+        ]
+      },
+      {
+        "link": "[Vind alle zwemplekken en zwembaden in Nederland op zwemindex.nl](https://zwemindex.nl/)",
+        "tags": [
+          "#netherlands",
+          "#swimming",
+          "#index",
+          "#travel"
+        ]
+      },
+      {
+        "link": "[Countless.dev - AI Model Comparison](https://countless.dev/)",
+        "tags": [
+          "#ai",
+          "#model_comparison",
+          "#tool",
+          "#comparison"
+        ]
+      },
+      {
+        "link": "[Leetcode Wizard - The #1 Coding Interview AI Assistance App](https://leetcodewizard.io/#story)",
+        "tags": [
+          "#leetcode",
+          "#coding",
+          "#interview",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[David Sacks, from 'PayPal mafia' to Trump's AI and crypto tsar](https://www.ft.com/content/82e859c8-ab66-47ad-bea0-11277bcd7a86)",
+        "tags": [
+          "#david_sacks",
+          "#paypal_mafia",
+          "#ai",
+          "#crypto"
+        ]
+      },
+      {
+        "link": "[My Productivity Strategy to Reset, Get Unstuck, and Focus on the Right Things](https://youtu.be/oZDzd8jpGWc)",
+        "tags": [
+          "#productivity",
+          "#strategy",
+          "#focus",
+          "#reset"
+        ]
+      },
+      {
+        "link": "[Cloudflare 2024 Year in Review](https://blog.cloudflare.com/radar-2024-year-in-review/)",
+        "tags": [
+          "#cloudflare",
+          "#2024",
+          "#review",
+          "#radar"
+        ]
+      },
+      {
+        "link": "[Remember GPT store? We don't. 2024 was awesome for AI startups](https://youtu.be/z0wt2pe_LZM)",
+        "tags": [
+          "#gpt_store",
+          "#ai",
+          "#startups",
+          "#2024"
+        ]
+      },
+      {
+        "link": "[The Rise of the AI-Powered Consumer - Business Transformation Consultants - Prophet](https://prophet.com/pdf/the-rise-of-the-ai-powered-consumer/)",
+        "tags": [
+          "#ai",
+          "#consumer",
+          "#transformation",
+          "#prophet"
+        ]
+      },
+      {
+        "link": "[State of Private Markets: Q3 2024](https://carta.com/data/state-of-private-markets-q3-2024/)",
+        "tags": [
+          "#private_markets",
+          "#q3",
+          "#2024",
+          "#carta"
+        ]
+      },
+      {
+        "link": "[Weekly Dose of Optimism #124 - by Daniel McCormick](https://www.notboring.co/p/weekly-dose-of-optimism-124)",
+        "tags": [
+          "#optimism",
+          "#weekly",
+          "#not_boring",
+          "#daniel_mccormick"
+        ]
+      },
+      {
+        "link": "[Santa Mode & Video in Advanced Voice—12 Days of OpenAI: Day 6 - YouTube](https://www.youtube.com/watch?v=NIQDnWlwYyQ)",
+        "tags": [
+          "#openai",
+          "#advanced_voice",
+          "#santa_mode",
+          "#video"
+        ]
+      },
+      {
+        "link": "[Otto](https://ottogrid.ai/)",
+        "tags": [
+          "#otto",
+          "#automation",
+          "#research",
+          "#ai_tool"
+        ]
+      },
+      {
+        "link": "[My SaaS Hit 18 Paid Subscriptions in 10 Weeks — Here's what I learned - by Amr Awad - Dec, 2024 - Medium](https://medium.com/@amrawadk/my-saas-hit-18-paid-subscriptions-in-10-weeks-80da05ec3b08)",
+        "tags": [
+          "#saas",
+          "#startup",
+          "#subscriptions",
+          "#lessons"
+        ]
+      },
+      {
+        "link": "[Retool - A better way to build custom software](https://retool.com/)",
+        "tags": [
+          "#retool",
+          "#low_code",
+          "#software",
+          "#development"
+        ]
+      },
+      {
+        "link": "[Facebook's Little Red Book](https://www.map.cv/blog/redbook)",
+        "tags": [
+          "#facebook",
+          "#culture",
+          "#red_book",
+          "#company"
+        ]
+      },
+      {
+        "link": "[Trump's Cabinet, Google's Quantum Chip, Apple's iOS Flop, TikTok Ban, State of VC with Keith Rabois](https://youtu.be/9p-vCUB5AA8)",
+        "tags": [
+          "#keith_rabois",
+          "#trump",
+          "#google",
+          "#quantum"
+        ]
+      },
+      {
+        "link": "[Music Theory that isn't boring - Lightnote](https://www.lightnote.co/)",
+        "tags": [
+          "#music",
+          "#theory",
+          "#education",
+          "#lightnote"
+        ]
+      },
+      {
+        "link": "[🔮 Sunday edition #504: Pricing intelligence; the quantum dragon; investor democracy; geopolitical dominoes; Norway's moves; diamond batteries & spiderweb math++](https://open.substack.com/pub/exponentialview/p/ev-504)",
+        "tags": [
+          "#exponential_view",
+          "#quantum",
+          "#pricing",
+          "#geopolitics"
+        ]
+      },
+      {
+        "link": "[Tauri 2.0 - Tauri](https://tauri.app/)",
+        "tags": [
+          "#tauri",
+          "#rust",
+          "#desktop",
+          "#app_development"
+        ]
+      },
+      {
+        "link": "[First principles thinking - by Lenny Rachitsky](https://www.lennysnewsletter.com/p/first-principles-thinking)",
+        "tags": [
+          "#first_principles",
+          "#thinking",
+          "#lenny_rachitsky",
+          "#product_management"
+        ]
+      },
+      {
+        "link": "[Ready to ship - ASML Store](https://asmlstore.com/collections/ready-to-ship)",
+        "tags": [
+          "#asml",
+          "#semiconductors",
+          "#store",
+          "#merchandise"
+        ]
+      },
+      {
+        "link": "[Sidecar pattern - Azure Architecture Center - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar)",
+        "tags": [
+          "#sidecar",
+          "#pattern",
+          "#azure",
+          "#architecture"
+        ]
+      },
+      {
+        "link": "[Microservice Architecture: Sidecar Pattern - by Shashir - Nerd For Tech - Medium](https://medium.com/nerd-for-tech/microservice-design-pattern-sidecar-sidekick-pattern-dbcea9bed783)",
+        "tags": [
+          "#microservices",
+          "#sidecar",
+          "#pattern",
+          "#architecture"
+        ]
+      },
+      {
+        "link": "[How GPU Access Helps Startups Be Agile - Andreessen Horowitz](https://a16z.com/podcast/how-gpu-access-helps-startups-be-agile/)",
+        "tags": [
+          "#gpu",
+          "#startups",
+          "#a16z",
+          "#agile"
+        ]
+      },
+      {
+        "link": "[Raycast App: What it is, and why and how I use it - Alberto Sadde](https://www.albertosadde.com/blog/raycast/)",
+        "tags": [
+          "#raycast",
+          "#productivity",
+          "#app",
+          "#mac"
+        ]
+      },
+      {
+        "link": "[Becoming a Fractional CTO](https://newsletter.pragmaticengineer.com/p/fractional-cto)",
+        "tags": [
+          "#fractional_cto",
+          "#engineering",
+          "#leadership",
+          "#career"
+        ]
+      },
+      {
+        "link": "[Airtable - Microsite](https://airtable.com/appssJes9NF1i5xCn/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO)",
+        "tags": [
+          "#airtable",
+          "#database",
+          "#no_code",
+          "#productivity"
+        ]
+      },
+      {
+        "link": "[Big Ideas in Tech for 2025 - Andreessen Horowitz](https://a16z.com/big-ideas-in-tech-2025/)",
+        "tags": [
+          "#tech",
+          "#2025",
+          "#a16z",
+          "#predictions"
+        ]
+      },
+      {
+        "link": "[anvakamap-of-github: Inspirational Mapping](https://github.com/anvaka/map-of-github)",
+        "tags": [
+          "#github",
+          "#visualization",
+          "#mapping",
+          "#open_source"
+        ]
+      },
+      {
+        "link": "[15 predictions for 2025](https://www.platformer.news/2025-tech-predictions-ai-google-threads-bluesky/)",
+        "tags": [
+          "#predictions",
+          "#2025",
+          "#tech",
+          "#platformer"
+        ]
+      },
+      {
+        "link": "[Full Q&A: Neuralink Patient Noland Arbaugh on His Injury, Selection, and Newfound Superpower](https://open.substack.com/pub/bigtechnology/p/full-q-and-a-neuralink-patient-noland)",
+        "tags": [
+          "#neuralink",
+          "#patient",
+          "#interview",
+          "#brain_computer_interface"
+        ]
+      },
+      {
+        "link": "[DOGE kills its first bill, Zuck vs OpenAI, Google's AI comeback with bestie Aaron Levie](https://youtu.be/hY_glSDyGUU)",
+        "tags": [
+          "#doge",
+          "#zuckerberg",
+          "#openai",
+          "#google"
+        ]
+      },
+      {
+        "link": "[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://sakana.ai/ai-scientist/)",
+        "tags": [
+          "#ai",
+          "#scientist",
+          "#research",
+          "#automation"
+        ]
+      },
+      {
+        "link": "[2024 Backward Pass: The Definitive Guide to AI in 2024](https://kelvinmu.substack.com/p/2024-backward-pass-the-definitive)",
+        "tags": [
+          "#ai",
+          "#2024",
+          "#review",
+          "#guide"
+        ]
+      },
+      {
+        "link": "[AI leads a service-as-software paradigm shift - Foundation Capital](https://foundationcapital.com/ai-service-as-software/)",
+        "tags": [
+          "#ai",
+          "#service_as_software",
+          "#foundation_capital",
+          "#paradigm_shift"
+        ]
+      },
+      {
+        "link": "[Google releases its own 'reasoning' AI model - TechCrunch](https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/)",
+        "tags": [
+          "#google",
+          "#ai",
+          "#reasoning",
+          "#model"
+        ]
+      },
+      {
+        "link": "[Q3 2024 Startup Benchmarking Report](https://standardmetrics.io/q3-2024-startup-benchmarking-report/)",
+        "tags": [
+          "#startup",
+          "#benchmarking",
+          "#q3",
+          "#2024"
+        ]
+      },
+      {
+        "link": "[Updates to Veo, Imagen and VideoFX, plus introducing Whisk in Google Labs](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/)",
+        "tags": [
+          "#google",
+          "#veo",
+          "#imagen",
+          "#video_generation"
+        ]
+      },
+      {
+        "link": "[Ilya Sutskever: Sequence to Sequence Learning with Neural Networks at NeurIPS 2024](https://youtu.be/WQQdd6qGxNs)",
+        "tags": [
+          "#ilya_sutskever",
+          "#neurips",
+          "#neural_networks",
+          "#sequence_to_sequence"
+        ]
+      },
+      {
+        "link": "[Satya Nadella - BG2 w/ Bill Gurley & Brad Gerstner](https://youtu.be/9NtsnzRFJ_o)",
+        "tags": [
+          "#satya_nadella",
+          "#microsoft",
+          "#bill_gurley",
+          "#brad_gerstner"
+        ]
+      },
+      {
+        "link": "[About ARC – Lab42](https://lab42.global/arc/)",
+        "tags": [
+          "#arc",
+          "#lab42",
+          "#research",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[Vellum - Orchestration](https://www.vellum.ai/products/orchestration)",
+        "tags": [
+          "#vellum",
+          "#orchestration",
+          "#ai",
+          "#workflow"
+        ]
+      },
+      {
+        "link": "[Rivet - The Open-Source Visual AI Programming Environment](https://rivet.ironcladapp.com/)",
+        "tags": [
+          "#rivet",
+          "#visual_programming",
+          "#ai",
+          "#open_source"
+        ]
+      },
+      {
+        "link": "[Scroll Reverser for macOS](https://pilotmoon.com/scrollreverser/)",
+        "tags": [
+          "#scroll_reverser",
+          "#macos",
+          "#utility",
+          "#app"
+        ]
+      },
+      {
+        "link": "[The Race for AI Reasoning is Challenging our Imagination](https://thesequence.substack.com/p/the-race-for-ai-reasoning-is-challenging)",
+        "tags": [
+          "#ai",
+          "#reasoning",
+          "#imagination",
+          "#competition"
+        ]
+      },
+      {
+        "link": "[Reimagining Compliance: Balancing AI Innovation with Trust - Lightspeed Venture Partners](https://lsvp.com/stories/reimagining-compliance-balancing-ai-innovation-with-trust/)",
+        "tags": [
+          "#compliance",
+          "#ai",
+          "#trust",
+          "#lightspeed"
+        ]
+      },
+      {
+        "link": "[Keith Rabois - How to Hire](https://youtu.be/-gYHSPKjMTM)",
+        "tags": [
+          "#keith_rabois",
+          "#hiring",
+          "#management",
+          "#startup"
+        ]
+      },
+      {
+        "link": "[Brian Chesky - Founder Mode & The Art of Hiring](https://youtu.be/aFOGlNL39xs)",
+        "tags": [
+          "#brian_chesky",
+          "#airbnb",
+          "#founder_mode",
+          "#hiring"
+        ]
+      },
+      {
+        "link": "[Reasoning with o1 - DeepLearning.AI](https://learn.deeplearning.ai/courses/reasoning-with-o1/lesson/1/introduction)",
+        "tags": [
+          "#o1",
+          "#reasoning",
+          "#deeplearning_ai",
+          "#course"
+        ]
+      },
+      {
+        "link": "[The All-In Holiday Spectacular](https://youtu.be/caPPzcgGvtw)",
+        "tags": [
+          "#all_in",
+          "#podcast",
+          "#holiday",
+          "#spectacular"
+        ]
+      },
+      {
+        "link": "[BoltAI • Native, high-performance AI app for Mac](https://boltai.com/#for-developers)",
+        "tags": [
+          "#boltai",
+          "#ai",
+          "#mac",
+          "#native_app"
+        ]
+      },
+      {
+        "link": "[Founders Running Club](https://foundersrc.com/)",
+        "tags": [
+          "#founders",
+          "#running",
+          "#club",
+          "#community"
+        ]
+      },
+      {
+        "link": "[jdepoixyoutube-transcript-api: This is a python API which allows you to get the transcriptsubtitles for a given YouTube video.](https://github.com/jdepoix/youtube-transcript-api/tree/master)",
+        "tags": [
+          "#youtube",
+          "#transcript",
+          "#api",
+          "#python"
+        ]
+      },
+      {
+        "link": "[AI Survey: Never Mind the Skeptics - Bain & Company](https://www.bain.com/insights/ai-survey-never-mind-the-skeptics-interactive/)",
+        "tags": [
+          "#ai",
+          "#survey",
+          "#bain",
+          "#skeptics"
+        ]
+      },
+      {
+        "link": "[London transport explained in nine graphs - by Jim Waterson](https://www.londoncentric.media/p/london-transport-explained-in-nine-graphs-and-charts)",
+        "tags": [
+          "#london",
+          "#transport",
+          "#graphs",
+          "#analysis"
+        ]
+      },
+      {
+        "link": "[Model Context Protocol](https://github.com/modelcontextprotocol)",
+        "tags": [
+          "#model_context_protocol",
+          "#github",
+          "#ai",
+          "#protocol"
+        ]
+      },
+      {
+        "link": "[Architecture – Model Context Protocol Specification](https://spec.modelcontextprotocol.io/specification/architecture/)",
+        "tags": [
+          "#model_context_protocol",
+          "#architecture",
+          "#specification",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[anti-workshortest: QA via natural language AI tests](https://github.com/anti-work/shortest)",
+        "tags": [
+          "#testing",
+          "#ai",
+          "#qa",
+          "#natural_language"
+        ]
+      },
+      {
+        "link": "[API testing - Playwright](https://playwright.dev/docs/api-testing)",
+        "tags": [
+          "#playwright",
+          "#api",
+          "#testing",
+          "#automation"
+        ]
+      },
+      {
+        "link": "[pinokio](https://pinokio.computer/)",
+        "tags": [
+          "#pinokio",
+          "#ai",
+          "#computer",
+          "#platform"
+        ]
+      },
+      {
+        "link": "[Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning - BUILD 2024 Keynote - YouTube](https://www.youtube.com/watch?v=KrRD7r7y7NY)",
+        "tags": [
+          "#andrew_ng",
+          "#ai",
+          "#agents",
+          "#reasoning"
+        ]
+      },
+      {
+        "link": "[Real-world gen AI use cases from the world's leading organizations - Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)",
+        "tags": [
+          "#google_cloud",
+          "#ai",
+          "#use_cases",
+          "#enterprise"
+        ]
+      },
+      {
+        "link": "[Valve makes more money per employee than Amazon, Microsoft, and Netflix combined - TechSpot](https://www.techspot.com/news/106107-valve-makes-more-money-employee-than-amazon-microsoft.html)",
+        "tags": [
+          "#valve",
+          "#revenue",
+          "#per_employee",
+          "#gaming"
+        ]
+      },
+      {
+        "link": "[The Jobs Equation—Erik Brynjolfsson](https://www.theatlantic.com/sponsored/google/the-jobs-equation-erik-brynjolfsson-qa/3872/)",
+        "tags": [
+          "#erik_brynjolfsson",
+          "#jobs",
+          "#automation",
+          "#future_of_work"
+        ]
+      },
+      {
+        "link": "[The Most Important Question of Your Life](https://markmanson.net/question)",
+        "tags": [
+          "#mark_manson",
+          "#life",
+          "#question",
+          "#philosophy"
+        ]
+      },
+      {
+        "link": "[What's 🔥 in Enterprise ITVC #426 - by Ed Sim](https://www.whatshotit.vc/p/whats-in-enterprise-itvc-426)",
+        "tags": [
+          "#enterprise",
+          "#it",
+          "#vc",
+          "#ed_sim"
+        ]
+      },
+      {
+        "link": "[Scaling Laws – O1 Pro Architecture, Reasoning Training Infrastructure, Orion and Claude 3.5 Opus \"Failures\" – SemiAnalysis](https://semianalysis.com/2024/12/11/scaling-laws-o1-pro-architecture-reasoning-training-infrastructure-orion-and-claude-3-5-opus-failures/)",
+        "tags": [
+          "#scaling_laws",
+          "#o1",
+          "#reasoning",
+          "#infrastructure"
+        ]
+      },
+      {
+        "link": "[Top AI Stories of 2024! Agents Rise, Prices Fall, Models Shrink, Video Takes Off, Acquisitions Morph](https://info.deeplearning.ai/top-ai-stories-of-2024-agents-rise-prices-fall-models-shrink-video-takes-off-acquisitions-morph-1)",
+        "tags": [
+          "#ai",
+          "#2024",
+          "#stories",
+          "#agents"
+        ]
+      },
+      {
+        "link": "[December 2024 Enterprise Newsletter: AI Is Driving A Shift Towards Outcome-Based Pricing - Andreessen Horowitz](https://a16z.com/newsletter/december-2024-enterprise-newsletter-ai-is-driving-a-shift-towards-outcome-based-pricing/)",
+        "tags": [
+          "#a16z",
+          "#enterprise",
+          "#ai",
+          "#pricing"
+        ]
+      },
+      {
+        "link": "[GitHub - NirDiamant/RAG_Techniques: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems.](https://github.com/NirDiamant/RAG_Techniques)",
+        "tags": [
+          "#rag",
+          "#github",
+          "#retrieval",
+          "#ai"
+        ]
+      },
+      {
+        "link": "[GitHub - NirDiamant/GenAI_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced.](https://github.com/NirDiamant/GenAI_Agents)",
+        "tags": [
+          "#ai",
+          "#agents",
+          "#github",
+          "#tutorial"
+        ]
+      },
+      {
+        "link": "[What is Process Mining? - Celonis - Process Mining Software](https://www.celonis.com/process-mining/what-is-process-mining/)",
+        "tags": [
+          "#process_mining",
+          "#celonis",
+          "#software",
+          "#automation"
+        ]
+      },
+      {
+        "link": "[Grading my 2024 predictions - by Azeem Azhar](https://www.exponentialview.co/p/grading-my-2024-predictions)",
+        "tags": [
+          "#azeem_azhar",
+          "#predictions",
+          "#2024",
+          "#grading"
+        ]
+      },
+      {
+        "link": "[What's 🔥 in Enterprise ITVC #383 - by Ed Sim](https://www.whatshotit.vc/p/whats-in-enterprise-itvc-383)",
+        "tags": [
+          "#enterprise",
+          "#it",
+          "#vc",
+          "#ed_sim"
+        ]
+      },
+      {
+        "link": "[Process mapping in Shiftx](https://shiftx.com/use-case/process-mapping)",
+        "tags": [
+          "#process_mapping",
+          "#shiftx",
+          "#workflow",
+          "#automation"
+        ]
+      },
+      {
+        "link": "[By default, capital will matter more than ever after AGI — LessWrong](https://www.lesswrong.com/posts/KFFaKu27FNugCHFmh/by-default-capital-will-matter-more-than-ever-after-agi)",
+        "tags": [
+          "#agi",
+          "#capital",
+          "#lesswrong",
+          "#economics"
+        ]
+      }
     ]
   }
 }
