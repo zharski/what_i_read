@@ -9,6 +9,7 @@ from typing import Optional
 from .config import Config
 from .processor import LinksProcessor
 from .stats import StatsGenerator
+from .github_extractor import GitHubExtractor
 from .exceptions import LinksProcessorError
 
 
@@ -115,6 +116,33 @@ Examples:
         help='Output directory for charts (default: stats)'
     )
     
+    # GitHub command
+    github_parser = subparsers.add_parser(
+        'github',
+        help='Extract GitHub projects from processed links',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  github                            # Extract GitHub links to default output
+  github -o github_repos.md         # Custom output file
+  github -i custom_input.json       # Custom input JSON file
+        """
+    )
+    
+    github_parser.add_argument(
+        '-i', '--input-file',
+        type=Path,
+        default=Config.DEFAULT_OUTPUT_FILE,
+        help=f'Input JSON file with processed links (default: {Config.DEFAULT_OUTPUT_FILE})'
+    )
+    
+    github_parser.add_argument(
+        '-o', '--output-file',
+        type=Path,
+        default=Path("stats/github_repos.md"),
+        help='Output markdown file for GitHub projects (default: stats/github_repos.md)'
+    )
+    
     return parser
 
 
@@ -199,6 +227,27 @@ def stats_command(args) -> int:
     return 0 if success else 1
 
 
+def github_command(args) -> int:
+    """Handle the github command."""
+    logger = logging.getLogger(__name__)
+    
+    try:
+        # Create GitHub extractor
+        extractor = GitHubExtractor()
+        
+        # Process GitHub links
+        success = extractor.process(
+            input_file=args.input_file,
+            output_file=args.output_file
+        )
+        
+        return 0 if success else 1
+        
+    except Exception as e:
+        logger.error(f"Error extracting GitHub links: {e}")
+        return 1
+
+
 def main(argv: Optional[list] = None) -> int:
     """
     Main entry point for the CLI.
@@ -228,6 +277,8 @@ def main(argv: Optional[list] = None) -> int:
             return process_command(args)
         elif args.command == 'stats':
             return stats_command(args)
+        elif args.command == 'github':
+            return github_command(args)
         else:
             parser.print_help()
             return 1
