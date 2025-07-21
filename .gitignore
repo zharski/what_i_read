@@ -20,6 +20,9 @@ Thumbs.db
 # Cursor
 .cursor
 
+# Claude
+CLAUDE.md
+
 # Python
 __pycache__/
 *.pyc
