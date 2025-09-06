@@ -342,7 +342,7 @@ Month with least links: 2021-07 (7 links)
 | [OpenAI's chief research officer has left following CTO Mira Murati's exit - TechCrunch](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/) | #openai #ai #leadership #management #techcrunch |
 | [AI start-ups generate money faster than past hyped tech companies](https://www.ft.com/content/a9a192e3-bfbc-461e-a4f3-112e63d0bb33) | #ai #startup #finance #venture_capital #ft |
 | [Strengthen & Pain-Proof Your Back: The McGill Method - Dr. Andrew Huberman](https://www.hubermanlab.com/episode/strengthen-pain-proof-your-back-the-mcgill-method) | #health #longevity #andrew_huberman #stuart_mcgill #podcast |
-| [How Marble works](mdc:https://marble.dev/docs/how-marble-works) | #marblejs #rxjs #testing #nodejs #typescript |
+| [How Marble works](https://marble.dev/docs/how-marble-works) | #marblejs #rxjs #testing #nodejs #typescript |
 | [OpenAI's $150B conversion, Meta's AR glasses, Blue-collar boom, Risk of nuclear war](https://youtu.be/43Rd-y2xe84) | #openai #meta #geopolitics #all_in_podcast #podcast |
 | [Testing with AI - Reflect](https://reflect.run/articles/testing-with-ai/) | #ai #testing #automation #no_code #e2e |
 | [All-In Podcast: E195: OpenAI's $150B conversion, Meta's AR glasses, job market update, geopolitical risks & more](https://www.youtube.com/watch?v=s4x_8T6x9as) | #openai #meta #geopolitics #all_in_podcast #podcast |
@@ -357,7 +357,7 @@ Month with least links: 2021-07 (7 links)
 | [Rapidata](https://www.rapidata.ai/) | #data_labeling #ai #rlhf #human_in_the_loop #crowdsourcing |
 | [Transformation Engagements - Silicon Valley Product Group : Silicon Valley Product Group](https://www.svpg.com/transformation-engagements/) | #svpg #product_management #leadership #coaching #transformation |
 | [When To Do What You Love](https://paulgraham.com/when.html) | #paul_graham #startup #career #life_advice |
-| [The power of the memo | Financial Times](https://www.ft.com/content/b56ed972-91d8-11e9-b7ea-60e35ef678d2) | [CANNOT PROCESS] |
+| [The power of the memo - Financial Times](https://www.ft.com/content/b56ed972-91d8-11e9-b7ea-60e35ef678d2) | [CANNOT PROCESS] |
 | [Every White-Collar Role Will Have An AI Copilot. Then An AI Agent. - Andreessen Horowitz](https://a16z.com/ai-copilot-ai-agent-white-collar-roles/) | #ai #ai_agent #a16z #future_of_work #automation |
 | [Product Strategy Features: From Vision To Delivery - airfocus](https://airfocus.com/product/) | #product_management #strategy #roadmap #vision |
 | [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html) | #ai #productivity #workflow #tool |
@@ -379,55 +379,55 @@ Month with least links: 2021-07 (7 links)
 
 | Links | Tags |
 |-------|------|
-| [The State of Chinese AI](mdc:https://press.airstreet.com/p/the-state-of-chinese-ai) | #ai #china #technology |
-| [Flowbite - UI component library](mdc:https://flowbite.com/pro/) | #ui #development #components |
-| [How I Computer in 2024 · Jon Seager](mdc:https://jnsgr.uk/2024/07/how-i-computer-in-2024/) | #productivity #setup #tools |
-| [FLUX.1 [dev] - AI Playground - fal.ai](mdc:https://fal.ai/models/fal-ai/flux/dev) | #ai #tools #development |
-| [My Obsidian Note-Taking Workflow - ssp.sh](mdc:https://www.ssp.sh/blog/obsidian-note-taking-workflow/) | #productivity #obsidian #note_taking |
-| [Running One-man SaaS, 9 Years In – Healthchecks.io](mdc:https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/) | #saas #entrepreneurship #business |
-| [What is Conscious Planet? - Sadhguru in Conversation with Naval Ravikant](mdc:https://youtu.be/2S5Vb3srhlA) | #philosophy #environment #interview |
-| [Meta's new AI Studio helps you create your own custom AI chatbots - ZDNET](mdc:https://www.zdnet.com/article/metas-new-ai-studio-helps-you-create-your-own-custom-ai-chatbots/#ftag=RSSbaffb68) | #ai #meta #chatbots |
-| [AI Studio](mdc:https://ai.meta.com/ai-studio/) | #ai #meta #tools |
-| [AI Is a Services Revolution - by Rex Woodbury](mdc:https://www.digitalnative.tech/p/ai-is-a-services-revolution) | #ai #business #technology |
-| [Khemaridh Hy on Twitter about AI](mdc:https://x.com/khemaridh/status/1814433334367531295) | #ai #twitter |
-| [Naval Ravikant - The 4 Secrets To Be GREAT At Anything](mdc:https://youtu.be/TZVCgntStKE) | #productivity #personal_growth #naval_ravikant |
-| [🧐 Four insights from my trip to Peru - by Azeem Azhar](mdc:https://www.exponentialview.co/p/four-insights-from-my-trip-to-peru) | #travel #insights #peru |
-| [There are 2,000-plus dead rockets in orbit—here's a rare view of one - Ars Technica](mdc:https://arstechnica.com/space/2024/08/there-are-2000-plus-dead-rockets-in-orbit-heres-a-rare-view-of-one-of-them/) | #space #technology #environment |
-| [GitHub Models gives developers new power to experiment with Gen AI - VentureBeat](mdc:https://venturebeat.com/ai/github-models-gives-developers-new-power-to-experiment-with-gen-ai/) | #ai #github #development |
-| [Asana for Agile and Scrum – Asana Help Center](mdc:https://help.asana.com/hc/en-us/articles/17964916348187-Asana-for-Agile-and-Scrum) | #productivity #agile #project_management |
-| [OpenProject - Open Source Project Management Software](mdc:https://www.openproject.org/) | #project_management #open_source #tools |
-| [How Asana works – Asana Help Center](mdc:https://help.asana.com/hc/en-us/articles/14250783001627-How-Asana-works) | #productivity #project_management #tools |
-| [SWE-bench](mdc:https://www.swebench.com/) | #development #benchmarking #software |
-| [GitHub - successful study prompt of the year](mdc:https://github.com/successfulstudy/promptoftheyear) | #github #ai #prompt_engineering |
-| [How we built "Mistral 7B Fine-Tune Optimized," the best 7B model for fine-tuning - OpenPipe](mdc:https://openpipe.ai/blog/mistral-7b-fine-tune-optimized) | #ai #llm #development |
-| [macOS 15.1 Beta 1 - Apple Intelligence Backend Prompts : rMacOSBeta](mdc:https://www.reddit.com/r/MacOSBeta/comments/1ehivcp/macos_151_beta_1_apple_intelligence_backend/) | #apple #ai #macos |
-| [An Analysis of Function Point Trends - QSM](mdc:https://www.qsm.com/articles/analysis-function-point-trends) | #development #software #metrics |
-| [Ben Franklin: The Thirteen Necessary Virtues](mdc:https://fs.blog/the-thirteen-virtues/) | #philosophy #personal_growth #history |
-| [🤔 What bosses miss about AI - by Azeem Azhar](mdc:https://www.exponentialview.co/p/what-bosses-miss-about-ai) | #ai #leadership #business |
-| [How much do ChatGPT versions affect real-world performance? - Voiceflow](mdc:https://www.voiceflow.com/blog/how-much-do-chatgpt-versions-affect-real-world-performance) | #ai #chatgpt #performance |
-| [The First Fitbit: How the Fitness Tracker Was Engineered - IEEE Spectrum](mdc:https://spectrum.ieee.org/fitbit) | #hardware #engineering #health |
-| [Palantir Artificial Intelligence Platform](mdc:https://www.palantir.com/platforms/aip/) | #ai #palantir #enterprise |
-| [Deploying Full Spectrum AI in Days: How AIP Bootcamps Work - by Palantir - Palantir Blog](mdc:https://blog.palantir.com/deploying-full-spectrum-ai-in-days-how-aip-bootcamps-work-21829ec8d560) | #ai #palantir #enterprise |
-| [What's 🔥 in Enterprise IT/VC #406 - by Ed Sim](mdc:https://www.whatshotit.vc/p/whats-in-enterprise-itvc-406) | #venture_capital #enterprise #technology |
-| [85 of the Most Promising Startups of 2024, According to Top VCs - Business Insider](mdc:https://www.businessinsider.com/most-promising-startups-2024-according-top-vcs-2024-8#datavolo-helps-generative-ai-models-access-unstructured-data-22) | #startups #venture_capital #business |
-| [A Palantir Primer on the EU AI Act - Palantir Blog](mdc:https://blog.palantir.com/a-palantir-primer-on-the-eu-ai-act-f8fad2ec8f93) | #ai #regulation #palantir |
-| [The Revival of the Swiss Watch Industry](mdc:https://youtu.be/nyDbWIKDF1I) | #business #watches #manufacturing |
-| [Palantir CEO Alex Karp Opening Remarks - AIPCon 4](mdc:https://youtu.be/cHyf9XpYKxA) | #ai #palantir #leadership |
-| [LLM progress is slowing — what will it mean for AI? - VentureBeat](mdc:https://venturebeat.com/ai/llm-progress-is-slowing-what-will-it-mean-for-ai/) | #ai #llm #technology |
-| [Chatbot maker Replika says it's okay if humans end up in relationships with AI - The Verge](mdc:https://www.theverge.com/24216748/replika-ceo-eugenia-kuyda-ai-companion-chatbots-dating-friendship-decoder-podcast-interview) | #ai #ethics #relationships |
-| [How GitHub harnesses AI to transform customer feedback into action - The GitHub Blog](mdc:https://github.blog/ai-and-ml/machine-learning/how-github-harnesses-ai-to-transform-customer-feedback-into-action/) | #ai #github #customer_experience |
-| [Social media for startups: A practical guide - a16z crypto](mdc:https://a16zcrypto.com/posts/article/social-media-for-startups-guide/) | #startups #social_media #marketing |
-| [Z Fellows on Twitter](mdc:https://x.com/zfellows_/status/1823171301181096001) | #startups #entrepreneurship |
-| [AI at Work Is Here. Now Comes the Hard Part](mdc:https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part) | #ai #work #microsoft |
-| [The Top 100 Gen AI Consumer Apps - 3rd Edition - Andreessen Horowitz](mdc:https://a16z.com/100-gen-ai-apps-3/) | #ai #apps #venture_capital |
-| [Hard Work DOESN'T Equal Success…THIS Does... - Former Netflix CEO](mdc:https://youtu.be/ogdgkeQJs6s) | #leadership #success #business |
-| [Ed Sim on Twitter about AI](mdc:https://x.com/edsim/status/1818436881454936164) | #ai #venture_capital |
-| [The invisible problem with sending people to Mars - The Verge](mdc:https://www.theverge.com/2024/8/16/24221102/mars-colony-space-radiation-cosmic-ray-human-biology) | #space #science #mars |
-| [Garmin Fenix 8 In-Depth Review: 23 Things You Should Know!](mdc:https://youtu.be/M8kR2A_3n0A) | #fitness #technology #wearables |
-| [System Prompts - Anthropic](mdc:https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024) | #ai #claude #prompt_engineering |
-| [Top AI Tools List - OpenTools](mdc:https://opentools.ai/) | #ai #tools #resources |
-| [Nvidia faces looming test on use of chips](mdc:https://www.ft.com/content/94650ec1-521e-4e1c-ac3b-f18baa22e766) | #nvidia #chips |
-| [Ryan Holiday of Daily Stoic on the Fascinating Life of Marcus Aurelius](mdc:https://youtu.be/YkLgUNLxEVQ) | #philosophy #stoicism #history #marcus_aurelius |
+| [The State of Chinese AI](https://press.airstreet.com/p/the-state-of-chinese-ai) | #ai #china #technology |
+| [Flowbite - UI component library](https://flowbite.com/pro/) | #ui #development #components |
+| [How I Computer in 2024 · Jon Seager](https://jnsgr.uk/2024/07/how-i-computer-in-2024/) | #productivity #setup #tools |
+| [FLUX.1 [dev] - AI Playground - fal.ai](https://fal.ai/models/fal-ai/flux/dev) | #ai #tools #development |
+| [My Obsidian Note-Taking Workflow - ssp.sh](https://www.ssp.sh/blog/obsidian-note-taking-workflow/) | #productivity #obsidian #note_taking |
+| [Running One-man SaaS, 9 Years In – Healthchecks.io](https://blog.healthchecks.io/2024/07/running-one-man-saas-9-years-in/) | #saas #entrepreneurship #business |
+| [What is Conscious Planet? - Sadhguru in Conversation with Naval Ravikant](https://youtu.be/2S5Vb3srhlA) | #philosophy #environment #interview |
+| [Meta's new AI Studio helps you create your own custom AI chatbots - ZDNET](https://www.zdnet.com/article/metas-new-ai-studio-helps-you-create-your-own-custom-ai-chatbots/#ftag=RSSbaffb68) | #ai #meta #chatbots |
+| [AI Studio](https://ai.meta.com/ai-studio/) | #ai #meta #tools |
+| [AI Is a Services Revolution - by Rex Woodbury](https://www.digitalnative.tech/p/ai-is-a-services-revolution) | #ai #business #technology |
+| [Khemaridh Hy on Twitter about AI](https://x.com/khemaridh/status/1814433334367531295) | #ai #twitter |
+| [Naval Ravikant - The 4 Secrets To Be GREAT At Anything](https://youtu.be/TZVCgntStKE) | #productivity #personal_growth #naval_ravikant |
+| [🧐 Four insights from my trip to Peru - by Azeem Azhar](https://www.exponentialview.co/p/four-insights-from-my-trip-to-peru) | #travel #insights #peru |
+| [There are 2,000-plus dead rockets in orbit—here's a rare view of one - Ars Technica](https://arstechnica.com/space/2024/08/there-are-2000-plus-dead-rockets-in-orbit-heres-a-rare-view-of-one-of-them/) | #space #technology #environment |
+| [GitHub Models gives developers new power to experiment with Gen AI - VentureBeat](https://venturebeat.com/ai/github-models-gives-developers-new-power-to-experiment-with-gen-ai/) | #ai #github #development |
+| [Asana for Agile and Scrum – Asana Help Center](https://help.asana.com/hc/en-us/articles/17964916348187-Asana-for-Agile-and-Scrum) | #productivity #agile #project_management |
+| [OpenProject - Open Source Project Management Software](https://www.openproject.org/) | #project_management #open_source #tools |
+| [How Asana works – Asana Help Center](https://help.asana.com/hc/en-us/articles/14250783001627-How-Asana-works) | #productivity #project_management #tools |
+| [SWE-bench](https://www.swebench.com/) | #development #benchmarking #software |
+| [GitHub - successful study prompt of the year](https://github.com/successfulstudy/promptoftheyear) | #github #ai #prompt_engineering |
+| [How we built "Mistral 7B Fine-Tune Optimized," the best 7B model for fine-tuning - OpenPipe](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized) | #ai #llm #development |
+| [macOS 15.1 Beta 1 - Apple Intelligence Backend Prompts : rMacOSBeta](https://www.reddit.com/r/MacOSBeta/comments/1ehivcp/macos_151_beta_1_apple_intelligence_backend/) | #apple #ai #macos |
+| [An Analysis of Function Point Trends - QSM](https://www.qsm.com/articles/analysis-function-point-trends) | #development #software #metrics |
+| [Ben Franklin: The Thirteen Necessary Virtues](https://fs.blog/the-thirteen-virtues/) | #philosophy #personal_growth #history |
+| [🤔 What bosses miss about AI - by Azeem Azhar](https://www.exponentialview.co/p/what-bosses-miss-about-ai) | #ai #leadership #business |
+| [How much do ChatGPT versions affect real-world performance? - Voiceflow](https://www.voiceflow.com/blog/how-much-do-chatgpt-versions-affect-real-world-performance) | #ai #chatgpt #performance |
+| [The First Fitbit: How the Fitness Tracker Was Engineered - IEEE Spectrum](https://spectrum.ieee.org/fitbit) | #hardware #engineering #health |
+| [Palantir Artificial Intelligence Platform](https://www.palantir.com/platforms/aip/) | #ai #palantir #enterprise |
+| [Deploying Full Spectrum AI in Days: How AIP Bootcamps Work - by Palantir - Palantir Blog](https://blog.palantir.com/deploying-full-spectrum-ai-in-days-how-aip-bootcamps-work-21829ec8d560) | #ai #palantir #enterprise |
+| [What's 🔥 in Enterprise IT/VC #406 - by Ed Sim](https://www.whatshotit.vc/p/whats-in-enterprise-itvc-406) | #venture_capital #enterprise #technology |
+| [85 of the Most Promising Startups of 2024, According to Top VCs - Business Insider](https://www.businessinsider.com/most-promising-startups-2024-according-top-vcs-2024-8#datavolo-helps-generative-ai-models-access-unstructured-data-22) | #startups #venture_capital #business |
+| [A Palantir Primer on the EU AI Act - Palantir Blog](https://blog.palantir.com/a-palantir-primer-on-the-eu-ai-act-f8fad2ec8f93) | #ai #regulation #palantir |
+| [The Revival of the Swiss Watch Industry](https://youtu.be/nyDbWIKDF1I) | #business #watches #manufacturing |
+| [Palantir CEO Alex Karp Opening Remarks - AIPCon 4](https://youtu.be/cHyf9XpYKxA) | #ai #palantir #leadership |
+| [LLM progress is slowing — what will it mean for AI? - VentureBeat](https://venturebeat.com/ai/llm-progress-is-slowing-what-will-it-mean-for-ai/) | #ai #llm #technology |
+| [Chatbot maker Replika says it's okay if humans end up in relationships with AI - The Verge](https://www.theverge.com/24216748/replika-ceo-eugenia-kuyda-ai-companion-chatbots-dating-friendship-decoder-podcast-interview) | #ai #ethics #relationships |
+| [How GitHub harnesses AI to transform customer feedback into action - The GitHub Blog](https://github.blog/ai-and-ml/machine-learning/how-github-harnesses-ai-to-transform-customer-feedback-into-action/) | #ai #github #customer_experience |
+| [Social media for startups: A practical guide - a16z crypto](https://a16zcrypto.com/posts/article/social-media-for-startups-guide/) | #startups #social_media #marketing |
+| [Z Fellows on Twitter](https://x.com/zfellows_/status/1823171301181096001) | #startups #entrepreneurship |
+| [AI at Work Is Here. Now Comes the Hard Part](https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part) | #ai #work #microsoft |
+| [The Top 100 Gen AI Consumer Apps - 3rd Edition - Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-3/) | #ai #apps #venture_capital |
+| [Hard Work DOESN'T Equal Success…THIS Does... - Former Netflix CEO](https://youtu.be/ogdgkeQJs6s) | #leadership #success #business |
+| [Ed Sim on Twitter about AI](https://x.com/edsim/status/1818436881454936164) | #ai #venture_capital |
+| [The invisible problem with sending people to Mars - The Verge](https://www.theverge.com/2024/8/16/24221102/mars-colony-space-radiation-cosmic-ray-human-biology) | #space #science #mars |
+| [Garmin Fenix 8 In-Depth Review: 23 Things You Should Know!](https://youtu.be/M8kR2A_3n0A) | #fitness #technology #wearables |
+| [System Prompts - Anthropic](https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024) | #ai #claude #prompt_engineering |
+| [Top AI Tools List - OpenTools](https://opentools.ai/) | #ai #tools #resources |
+| [Nvidia faces looming test on use of chips](https://www.ft.com/content/94650ec1-521e-4e1c-ac3b-f18baa22e766) | #nvidia #chips |
+| [Ryan Holiday of Daily Stoic on the Fascinating Life of Marcus Aurelius](https://youtu.be/YkLgUNLxEVQ) | #philosophy #stoicism #history #marcus_aurelius |
 
 ## July 2024
 
